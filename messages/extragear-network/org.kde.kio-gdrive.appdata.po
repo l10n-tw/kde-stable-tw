@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.kio-gdrive.appdata\n"
+"POT-Creation-Date: 2018-10-22 06:42+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. (itstool) path: component/name
+#: org.kde.kio-gdrive.appdata.xml:10
+msgid "KIO GDrive"
+msgstr ""
+
+#. (itstool) path: component/summary
+#: org.kde.kio-gdrive.appdata.xml:11
+msgid "Google Drive integration with KDE Plasma and KDE applications"
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.kio-gdrive.appdata.xml:13
+msgid ""
+"KIO GDrive is a KIO slave that enables KIO-aware applications (such as "
+"Dolphin, Kate or Gwenview) to access and edit Google Drive files on the "
+"cloud."
+msgstr ""

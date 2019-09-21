@@ -1,0 +1,72 @@
+# Language None translations for pan package.
+# Copyright (C) 2019 This_file_is_part_of_KDE
+# This file is distributed under the same license as the pan package.
+#
+# Automatically generated, 2019.
+# pan93412 <pan93412@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: pan 93412\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-07-01 07:00+0200\n"
+"PO-Revision-Date: 2019-03-31 20:59+0800\n"
+"Last-Translator: pan93412 <pan93412@gmail.com>\n"
+"Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
+"Language: None\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 19.03.80\n"
+
+#: helloqml.qml:23
+msgid "\"Hello QML\" plugin loaded"
+msgstr "已載入「嗨 QML」外掛程式"
+
+#: helloqml.qml:35
+msgid "Bye!"
+msgstr "掰！"
+
+#: helloqml.qml:52
+msgid "Testing QML Title"
+msgstr "測試用 QML 標題"
+
+#: helloqml.qml:53
+msgid "Testing QML Tooltip"
+msgstr "測試用 QML 工具提示"
+
+#: helloqml.qml:81
+msgid "Click Me!"
+msgstr "按我！"
+
+#: helloqml.qml:97
+msgid "Testing QML SideBar"
+msgstr "測試用 QML 側邊欄"
+
+#: helloqml.qml:109
+msgid "Hello Qml Plugin"
+msgstr "「嗨 QML」外掛"
+
+#: helloqml.qml:126
+msgid "Hello QML"
+msgstr "嗨 QML"
+
+#: helloqml.qml:127
+msgid "First qml plugin action works :-)"
+msgstr "第一個 qml 外掛程式動作能運作 :-)"
+
+#: helloqml.qml:152
+msgid "Enter text to save"
+msgstr "輸入欲儲存文字"
+
+#: helloqml.qml:157 helloqml.qml:162
+msgid "Save"
+msgstr "儲存"
+
+#: helloqml.qml:172
+msgid "Saved!"
+msgstr "已儲存！"
+
+#: helloqml.qml:174
+msgid "Error occurred, try again!"
+msgstr "發生錯誤，請重試！"

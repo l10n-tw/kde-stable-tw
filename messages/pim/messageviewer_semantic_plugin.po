@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-addons package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-08-30 07:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: semanticurlhandler.cpp:129 semanticurlhandler.cpp:147
+#, kde-format
+msgid "Show '%1' On Map"
+msgstr ""
+
+#: semanticurlhandler.cpp:198
+#, kde-format
+msgid "Show Calendar"
+msgstr ""
+
+#: semanticurlhandler.cpp:204
+#, kde-format
+msgid "Add To Calendar"
+msgstr ""
+
+#: semanticurlhandler.cpp:226
+#, kde-format
+msgid "Import into KDE Itinerary"
+msgstr ""
+
+#: semanticurlhandler.cpp:245
+#, kde-format
+msgid "Send to %1"
+msgstr ""
+
+#: semanticurlhandler.cpp:262
+#, kde-format
+msgid "Add reservation to your calendar."
+msgstr ""
+
+#: semanticurlhandler.cpp:321
+#, kde-format
+msgid "Boarding Pass"
+msgstr ""
+
+#: templates/actions.html:4
+msgid "View"
+msgstr ""
+
+#: templates/actions.html:6
+msgid "Download"
+msgstr ""
+
+#: templates/actions.html:8
+msgid "Modify"
+msgstr ""
+
+#: templates/actions.html:10
+msgid "Cancel"
+msgstr ""
+
+#: templates/actions.html:12
+msgid "Check-In"
+msgstr ""
+
+#: templates/busreservation.html:41 templates/flightreservation.html:54
+#: templates/flightreservation.html:71 templates/trainreservation.html:50
+#: templates/trainreservation.html:69
+#, kde-format
+msgid "Seat: %1"
+msgstr ""
+
+#: templates/event.html:7 templates/foodestablishmentreservation.html:9
+#: templates/taxireservation.html:4
+#, kde-format
+msgid "Under Name: %1"
+msgstr ""
+
+#: templates/flightreservation.html:42
+#, kde-format
+msgid "Gate: %1"
+msgstr ""
+
+#: templates/flightreservation.html:46
+#, kde-format
+msgid "Boarding: %1"
+msgstr ""
+
+#: templates/flightreservation.html:50 templates/flightreservation.html:70
+#, kde-format
+msgid "Group: %1"
+msgstr ""
+
+#: templates/foodestablishmentreservation.html:3
+#, kde-format
+msgid "Number Of People: %1"
+msgstr ""
+
+#: templates/foodestablishmentreservation.html:6
+#: templates/taxireservation.html:2
+#, kde-format
+msgid "Reservation Number: %1"
+msgstr ""
+
+#: templates/semantic.html:3
+msgid "Add reservation to calendar."
+msgstr ""
+
+#: templates/trainreservation.html:46 templates/trainreservation.html:65
+#, kde-format
+msgid "Coach: %1"
+msgstr ""

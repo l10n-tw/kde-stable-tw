@@ -1,0 +1,44 @@
+# Language None translations for pan package.
+# Copyright (C) 2019 This_file_is_part_of_KDE
+# This file is distributed under the same license as the pan package.
+#
+# Automatically generated, 2019.
+# pan93412 <pan93412@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: pan 93412\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-07-01 07:00+0200\n"
+"PO-Revision-Date: 2019-03-31 21:00+0800\n"
+"Last-Translator: pan93412 <pan93412@gmail.com>\n"
+"Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
+"Language: None\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 19.03.80\n"
+
+#: button.py:29
+msgid "Run Action"
+msgstr "執行動作"
+
+#: button.py:30
+msgid "Run action on current page"
+msgstr "於目前頁面執行動作"
+
+#: button.py:38
+msgid "RunAction button"
+msgstr "RunAction 按鈕"
+
+#: button.py:47
+msgid "Configure..."
+msgstr "設定…"
+
+#: settingsdialog.py:38
+msgid "Run Action Settings"
+msgstr "執行動作設定"
+
+#: settingsdialog.py:39
+msgid "Available actions"
+msgstr "可使用的動作"

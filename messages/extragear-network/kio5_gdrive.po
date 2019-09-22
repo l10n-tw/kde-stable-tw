@@ -29,7 +29,8 @@ msgctxt "@info"
 msgid ""
 "You can now manage the Google Drive files of your <emphasis strong='true'>"
 "%1</emphasis> account."
-msgstr "您可以管理您的 <emphasis strong='true'>%1</emphasis> 的 Google 雲端硬碟檔案。"
+msgstr ""
+"您可以管理您的 <emphasis strong='true'>%1</emphasis> 的 Google 雲端硬碟檔案。"
 
 #: kaccounts/kaccountsplugin.cpp:46
 #, kde-format

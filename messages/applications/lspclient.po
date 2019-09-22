@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-08-30 07:36+0200\n"
-"PO-Revision-Date: 2019-09-14 20:38+0800\n"
+"PO-Revision-Date: 2019-09-22 13:09+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
 "Language: zh_TW\n"
@@ -239,7 +239,7 @@ msgstr "符號"
 #, kde-format
 msgctxt "@title:column"
 msgid "Position"
-msgstr ""
+msgstr "位置"
 
 #: lspclientsymbolview.cpp:113
 #, kde-format
@@ -279,4 +279,4 @@ msgstr ""
 #: lspclientsymbolview.cpp:293
 #, kde-format
 msgid "No server available"
-msgstr ""
+msgstr "沒有可使用的伺服器"

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-08-30 07:36+0200\n"
-"PO-Revision-Date: 2019-09-14 21:06+0800\n"
+"PO-Revision-Date: 2019-09-22 13:09+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
 "Language: zh_TW\n"
@@ -28,7 +28,7 @@ msgstr "Dolphin 服務選單安裝失敗"
 #: servicemenuinstaller.cpp:50
 #, kde-format
 msgid "Failed to run process: %1 %2"
-msgstr ""
+msgstr "無法執行處理程序：%1 %2"
 
 #: servicemenuinstaller.cpp:54 servicemenuinstaller.cpp:142
 #, kde-format
@@ -38,7 +38,7 @@ msgstr "處理程序未在合理時間內完成：%1 %2"
 #: servicemenuinstaller.cpp:76
 #, kde-format
 msgid "Failed to run xdg-mime %1: %2"
-msgstr ""
+msgstr "無法執行 xdg-mime %1：%2"
 
 #: servicemenuinstaller.cpp:128
 #, kde-format

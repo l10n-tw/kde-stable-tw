@@ -63,17 +63,3 @@ msgstr "KTeaTime"
 msgctxt "GenericName"
 msgid "Tea Cooker"
 msgstr "煮茶器"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Tea Cooker"
-#~ msgctxt "Name"
-#~ msgid "The Tea Cooker"
-#~ msgstr "煮茶器"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Tea Cooker"
-#~ msgctxt "Comment"
-#~ msgid "The Tea Cooker"
-#~ msgstr "煮茶器"

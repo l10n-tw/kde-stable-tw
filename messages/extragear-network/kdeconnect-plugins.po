@@ -310,24 +310,3 @@ msgstr "未知的 telephony 活動：%1"
 #, kde-format
 msgid "Mute Call"
 msgstr "通話靜音"
-
-#~ msgid "Discovery Utilities"
-#~ msgstr "探索工具程式"
-
-#~ msgid "Sound to play:"
-#~ msgstr "欲播放聲音："
-
-#~ msgid "Select the sound to play"
-#~ msgstr "選擇要播放的聲音"
-
-#~ msgid "Lock Screen"
-#~ msgstr "鎖定螢幕"
-
-#~ msgid "Unlock Screen"
-#~ msgstr "解鎖螢幕"
-
-#~ msgid "Close All Vaults"
-#~ msgstr "關閉所有 Vaults"
-
-#~ msgid "Forcefully Close All Vaults"
-#~ msgstr "強制關閉所有 Vaults"

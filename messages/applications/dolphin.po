@@ -4042,13 +4042,3 @@ msgstr "# 會取代為遞增的數字，由此數字開始："
 msgctxt "@info:status"
 msgid "Updating version information..."
 msgstr "更新版本資訊中..."
-
-#, fuzzy
-#~| msgctxt "@action:inmenu"
-#~| msgid "Limit to Home Directory"
-#~ msgid "Failed to remove directory %1"
-#~ msgstr "限制於家目錄"
-
-#~ msgctxt "@action:inmenu Sort"
-#~ msgid "Descending"
-#~ msgstr "遞減"

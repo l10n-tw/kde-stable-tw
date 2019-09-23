@@ -44,10 +44,3 @@ msgstr "Elisa"
 msgctxt "Comment"
 msgid "Configure Local Files Indexer of Elisa Music Player"
 msgstr "管理 Elisa 音樂播放器的本機檔案索引工具"
-
-#, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Elisa Music Player"
-#~ msgctxt "GenericName"
-#~ msgid "Music Player"
-#~ msgstr "Elisa 音樂播放器"

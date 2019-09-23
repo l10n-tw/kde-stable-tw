@@ -124,28 +124,3 @@ msgstr "無法儲存私鑰檔案：%1"
 #, kde-format
 msgid "Could not store certificate file: %1"
 msgstr "無法儲存認證檔案：%1"
-
-#~ msgid "Failed to send packet to %1"
-#~ msgstr "無法傳送封包到 %1"
-
-#~ msgid "Finished sending to %1"
-#~ msgstr "成功傳送到 %1"
-
-#~ msgid "Sent 1 file"
-#~ msgid_plural "Sent %1 files"
-#~ msgstr[0] "已傳送 %1 個檔案"
-
-#~ msgid "Progress"
-#~ msgstr "進度"
-
-#~ msgid "Sending file %1 of %2"
-#~ msgstr "正在傳送 %1/%2 個檔案"
-
-#~ msgid "Sending to %1"
-#~ msgstr "正在傳送到 %1"
-
-#~ msgid "File"
-#~ msgstr "檔案"
-
-#~ msgid "Received incomplete file from: %1"
-#~ msgstr "已從該位置接收到不完全檔案：%1"

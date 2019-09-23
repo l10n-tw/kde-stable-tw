@@ -272,18 +272,3 @@ msgstr "錯誤：需要透過指定 --destination <電話號碼> 來指定簡訊
 #, kde-format
 msgid "Nothing to be done"
 msgstr "沒有什麼可以做"
-
-#~ msgid "Share text to a said device"
-#~ msgstr "分享文字至 said 裝置"
-
-#~ msgid "Open the connected device's camera and transfer the photo"
-#~ msgstr "開啟連結裝置的相機並傳輸相片"
-
-#~ msgid "(unpaired)"
-#~ msgstr "（未配對）"
-
-#~ msgid "Shared %1"
-#~ msgstr "已分享 %1"
-
-#~ msgid "Shared text: %1"
-#~ msgstr "已分享文字：%1"

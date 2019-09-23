@@ -31,10 +31,3 @@ msgstr "教育遊戲"
 msgctxt "Comment"
 msgid "Multi-Activity Educational game for children 2 to 10"
 msgstr "為 2-10 歲孩子設計的教育遊戲"
-
-#, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Educational game"
-#~ msgctxt "GenericName"
-#~ msgid "Educational Game"
-#~ msgstr "教育遊戲"

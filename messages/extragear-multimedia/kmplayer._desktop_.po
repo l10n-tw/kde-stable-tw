@@ -47,17 +47,3 @@ msgstr "KMPlayer"
 msgctxt "GenericName"
 msgid "Media Player"
 msgstr "媒體播放器"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Embedded MPlayer for KDE"
-#~ msgctxt "Name"
-#~ msgid "Embedded MPlayer by KDE"
-#~ msgstr "KDE 嵌入式 MPlayer"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "KDE interface for MPlayer"
-#~ msgctxt "Comment"
-#~ msgid "Interface for MPlayer by KDE"
-#~ msgstr "MPlayer 的 KDE 介面"

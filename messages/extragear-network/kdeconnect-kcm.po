@@ -170,6 +170,3 @@ msgstr ""
 "\"https://community.kde.org/KDEConnect \"><span style=\" text-decoration: "
 "underline; color:#4c6b8a;\">KDE 連線社群維基</span></a>尋求協助。</p></"
 "body></html>"
-
-#~ msgid "(C) 2018 Nicolas Fella"
-#~ msgstr "(C) 2018 Nicolas Fella"

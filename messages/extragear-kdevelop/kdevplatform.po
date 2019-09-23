@@ -5708,6 +5708,3 @@ msgstr "與前一個版本的差異"
 #, kde-format
 msgid "Difference between Revisions"
 msgstr "版本之間的差異"
-
-#~ msgid "<br /> lost declaration <br />"
-#~ msgstr "<br />遺失宣告<br />"

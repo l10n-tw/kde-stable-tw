@@ -195,10 +195,3 @@ msgstr "主視窗"
 #: org.kde.smb4k.appdata.xml:53
 msgid "The plasmoid"
 msgstr "Plasmoid 元件"
-
-#~ msgid "WINS server support"
-#~ msgstr "支援 WINS 伺服器"
-
-#~ msgid ""
-#~ "Several methods to look up the initial list of workgroups and domains"
-#~ msgstr "多種用來查詢工作群組與網域的初始清單的方法"

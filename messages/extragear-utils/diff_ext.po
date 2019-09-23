@@ -131,6 +131,3 @@ msgstr "指令行"
 #, kde-format
 msgid "Diff-Ext For KDiff3"
 msgstr "適用於 KDiff3 的 Diff-Ext"
-
-#~ msgid "Homepage for KDiff3: http://kdiff3.sourceforge.net"
-#~ msgstr "KDiff3 首頁：http://kdiff3.sourceforge.net"

@@ -1304,6 +1304,3 @@ msgstr "滑鼠下的物件："
 msgid "... (1 more item)"
 msgid_plural "... (%1 more items)"
 msgstr[0] "...（還有 %1 個項目）"
-
-#~ msgid "The file \"%1\" already exists. Do you wish to overwrite it?"
-#~ msgstr "檔案 %1 已存在。您希望覆寫它嗎？"

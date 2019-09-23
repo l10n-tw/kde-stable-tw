@@ -3358,9 +3358,3 @@ msgstr "移除項目"
 #, kde-format
 msgid "Drag Entry"
 msgstr "拖曳項目"
-
-#~ msgid ""
-#~ "Julia backend uses special binary file - %1 (installed with Julia "
-#~ "backend), which must be executable"
-#~ msgstr ""
-#~ "Julia 後端使用的特殊二進位檔案 - %1（使用 Julia 後端安裝）必須可被執行"

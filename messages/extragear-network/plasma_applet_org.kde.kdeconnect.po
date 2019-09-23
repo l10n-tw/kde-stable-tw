@@ -69,21 +69,3 @@ msgstr "沒有可用的配對裝置"
 #: package/contents/ui/main.qml:59
 msgid "KDE Connect Settings..."
 msgstr "KDE Connect 設定..."
-
-#~ msgid "File Transfer"
-#~ msgstr "檔案傳輸"
-
-#~ msgid "Drop a file to transfer it onto your phone."
-#~ msgstr "拖曳檔案至此以傳送該檔案至您的手機。"
-
-#~ msgid "Share file"
-#~ msgstr "分享檔案"
-
-#~ msgid "Run command"
-#~ msgstr "執行指令"
-
-#~ msgid "Add command"
-#~ msgstr "增加指令"
-
-#~ msgid "Share text"
-#~ msgstr "分享文字"

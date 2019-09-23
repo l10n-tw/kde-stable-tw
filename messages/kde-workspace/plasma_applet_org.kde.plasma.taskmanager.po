@@ -322,7 +322,6 @@ msgstr "新增桌面(&N)"
 
 #: package/contents/ui/ContextMenu.qml:381
 #, kde-format
-#| msgid "All Activities"
 msgid "Show in &Activities"
 msgstr "在活動中顯示(&A)"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-22 07:46+0200\n"
+"POT-Creation-Date: 2019-09-24 07:32+0200\n"
 "PO-Revision-Date: 2019-09-14 22:15+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
@@ -8499,7 +8499,7 @@ msgid ""
 msgstr "複製影像中的像素。保留所有原始細節，但可能伴有鋸齒效應。"
 
 #: libs/image/kis_filter_strategy.h:119
-#: libs/ui/canvas/kis_canvas_controller.cpp:296
+#: libs/ui/canvas/kis_canvas_controller.cpp:294
 #, kde-format
 msgid "Bilinear"
 msgstr "雙線性"
@@ -8855,22 +8855,22 @@ msgctxt "(qtundo-format)"
 msgid "Feather Selection"
 msgstr "羽化選取區域"
 
-#: libs/image/kis_selection_filters.cpp:511
+#: libs/image/kis_selection_filters.cpp:513
 msgctxt "(qtundo-format)"
 msgid "Grow Selection"
 msgstr "擴大選取區域"
 
-#: libs/image/kis_selection_filters.cpp:638
+#: libs/image/kis_selection_filters.cpp:640
 msgctxt "(qtundo-format)"
 msgid "Shrink Selection"
 msgstr "縮小選取區域"
 
-#: libs/image/kis_selection_filters.cpp:781
+#: libs/image/kis_selection_filters.cpp:783
 msgctxt "(qtundo-format)"
 msgid "Smooth Selection"
 msgstr "平滑選取區域"
 
-#: libs/image/kis_selection_filters.cpp:842
+#: libs/image/kis_selection_filters.cpp:844
 msgctxt "(qtundo-format)"
 msgid "Invert Selection"
 msgstr "反轉選擇"
@@ -10987,31 +10987,31 @@ msgstr ""
 "無法開啟音訊：「%1」\n"
 "錯誤：%2"
 
-#: libs/ui/canvas/kis_canvas_controller.cpp:185
+#: libs/ui/canvas/kis_canvas_controller.cpp:183
 #, kde-format
 msgctxt "floating message about mirroring"
 msgid "Horizontal mirroring: %1 "
 msgstr "畫布鏡像顯示：%1"
 
-#: libs/ui/canvas/kis_canvas_controller.cpp:185
-#: libs/ui/canvas/kis_canvas_controller.cpp:284
+#: libs/ui/canvas/kis_canvas_controller.cpp:183
+#: libs/ui/canvas/kis_canvas_controller.cpp:282
 #, kde-format
 msgid "OFF"
 msgstr "關閉"
 
-#: libs/ui/canvas/kis_canvas_controller.cpp:185
-#: libs/ui/canvas/kis_canvas_controller.cpp:284
+#: libs/ui/canvas/kis_canvas_controller.cpp:183
+#: libs/ui/canvas/kis_canvas_controller.cpp:282
 #, kde-format
 msgid "ON"
 msgstr "開啟"
 
-#: libs/ui/canvas/kis_canvas_controller.cpp:202
+#: libs/ui/canvas/kis_canvas_controller.cpp:200
 #, kde-format
 msgctxt "floating message about rotation"
 msgid "Rotation: %1° "
 msgstr "旋轉：%1°"
 
-#: libs/ui/canvas/kis_canvas_controller.cpp:249
+#: libs/ui/canvas/kis_canvas_controller.cpp:247
 #, kde-format
 msgid ""
 "You are activating wrap-around mode, but have not enabled OpenGL.\n"
@@ -11020,24 +11020,24 @@ msgstr ""
 "已切換至影像環繞模式，但OpenGL未被啟用。\n"
 "啟用OpenGL後影像環繞模式的效果才能顯示。"
 
-#: libs/ui/canvas/kis_canvas_controller.cpp:283
+#: libs/ui/canvas/kis_canvas_controller.cpp:281
 #, kde-format
 msgid "Instant Preview Mode: %1"
 msgstr "即時預覽模式：%1"
 
-#: libs/ui/canvas/kis_canvas_controller.cpp:290
+#: libs/ui/canvas/kis_canvas_controller.cpp:288
 #, kde-format
 msgid "Instant Preview is only supported with OpenGL activated"
 msgstr "即時預覽只在 OpenGL 啟用時可用"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbFilterMode)
-#: libs/ui/canvas/kis_canvas_controller.cpp:296
+#: libs/ui/canvas/kis_canvas_controller.cpp:294
 #: libs/ui/forms/wdgdisplaysettings.ui:64
 #, kde-format
 msgid "Nearest Neighbour"
 msgstr "最近鄰"
 
-#: libs/ui/canvas/kis_canvas_controller.cpp:297
+#: libs/ui/canvas/kis_canvas_controller.cpp:295
 #, kde-format
 msgid ""
 "Instant Preview is supported\n"
@@ -11048,7 +11048,7 @@ msgstr ""
 "三線性過濾或高品質過濾模式下有效。\n"
 "目前模式為%1"
 
-#: libs/ui/canvas/kis_canvas_controller.cpp:301
+#: libs/ui/canvas/kis_canvas_controller.cpp:299
 #, kde-format
 msgid ""
 "Failed activating Instant Preview mode!\n"
@@ -11668,8 +11668,8 @@ msgstr "選擇背景影像"
 #: libs/ui/KisTemplateCreateDia.cpp:403 libs/ui/KisView.cpp:747
 #: libs/ui/opengl/kis_opengl_canvas2.cpp:381
 #: libs/ui/widgets/kis_custom_image_widget.cc:277
-#: plugins/assistants/Assistants/kis_assistant_tool.cc:854
-#: plugins/assistants/Assistants/kis_assistant_tool.cc:857
+#: plugins/assistants/Assistants/kis_assistant_tool.cc:855
+#: plugins/assistants/Assistants/kis_assistant_tool.cc:858
 #: plugins/dockers/gamutmask/gamutmask_dock.cpp:300
 #: plugins/extensions/animationrenderer/AnimationRenderer.cpp:141
 #: plugins/extensions/animationrenderer/AnimationRenderer.cpp:190
@@ -17044,8 +17044,8 @@ msgid "%1  %2"
 msgstr "%1  %2"
 
 #: libs/ui/kis_stopgradient_editor.cpp:44
-#: plugins/assistants/Assistants/kis_assistant_tool.cc:987
-#: plugins/assistants/Assistants/kis_assistant_tool.cc:993
+#: plugins/assistants/Assistants/kis_assistant_tool.cc:988
+#: plugins/assistants/Assistants/kis_assistant_tool.cc:994
 #: plugins/tools/defaulttool/defaulttool/DefaultToolGeometryWidget.cpp:122
 #: plugins/tools/defaulttool/referenceimagestool/ToolReferenceImagesWidget.cpp:54
 #, kde-format
@@ -19235,7 +19235,7 @@ msgstr "啟用效果"
 #: libs/ui/layerstyles/wdglayerstyles.ui:30
 #: libs/ui/layerstyles/wdgstylesselector.ui:17
 #: plugins/flake/textshape/dialogs/TableOfContentsConfigure.cpp:81
-#: plugins/flake/textshape/dialogs/TableOfContentsStyleModel.cpp:250
+#: plugins/flake/textshape/dialogs/TableOfContentsStyleModel.cpp:255
 #: plugins/tools/svgtexttool/WdgSvgTextEditor.ui:58
 #, kde-format
 msgid "Styles"
@@ -20263,12 +20263,12 @@ msgstr "解除鎖定 (復原預設設定)"
 msgid "Unlock (keep current settings)"
 msgstr "解除鎖定 (保留目前設定)"
 
-#: libs/ui/widgets/kis_cie_tongue_widget.cpp:699
+#: libs/ui/widgets/kis_cie_tongue_widget.cpp:697
 #, kde-format
 msgid "Uncalibrated color space"
 msgstr "未經校準的色彩空間"
 
-#: libs/ui/widgets/kis_cie_tongue_widget.cpp:705
+#: libs/ui/widgets/kis_cie_tongue_widget.cpp:703
 #, kde-format
 msgid "No profile available..."
 msgstr "無可用特性檔案…"
@@ -23425,22 +23425,22 @@ msgstr "無限直線輔助尺"
 msgid "Infinite Ruler"
 msgstr "無限直線"
 
-#: plugins/assistants/Assistants/kis_assistant_tool.cc:735
+#: plugins/assistants/Assistants/kis_assistant_tool.cc:736
 #, kde-format
 msgid "Select an Assistant"
 msgstr "選擇輔助尺"
 
-#: plugins/assistants/Assistants/kis_assistant_tool.cc:857
+#: plugins/assistants/Assistants/kis_assistant_tool.cc:858
 #, kde-format
 msgid "Errors were encountered. Not all assistants were successfully loaded."
 msgstr "發生錯誤。未能成功載入全部輔助尺。"
 
-#: plugins/assistants/Assistants/kis_assistant_tool.cc:920
+#: plugins/assistants/Assistants/kis_assistant_tool.cc:921
 #, kde-format
 msgid "Save Assistant"
 msgstr "儲存輔助尺"
 
-#: plugins/assistants/Assistants/kis_assistant_tool.cc:1000
+#: plugins/assistants/Assistants/kis_assistant_tool.cc:1001
 #, kde-format
 msgid "Density: "
 msgstr "密度： "
@@ -30616,16 +30616,6 @@ msgstr "排序演算法："
 msgid "Alphanumeric"
 msgstr "字母數字順序"
 
-#: plugins/flake/textshape/dialogs/BibliographyTemplate.cpp:43
-#, kde-format
-msgid "Bibliography"
-msgstr "參考文獻"
-
-#: plugins/flake/textshape/dialogs/BibliographyTemplate.cpp:55
-#, kde-format
-msgid "References"
-msgstr "引用"
-
 #: plugins/flake/textshape/dialogs/ChangeConfigureDialog.cpp:152
 #, kde-format
 msgid "This is a line of inserted text."
@@ -31650,7 +31640,7 @@ msgid "Level %1"
 msgstr "第 %1 級"
 
 #: plugins/flake/textshape/dialogs/TableOfContentsEntryModel.cpp:151
-#: plugins/flake/textshape/dialogs/TableOfContentsStyleModel.cpp:252
+#: plugins/flake/textshape/dialogs/TableOfContentsStyleModel.cpp:257
 #, kde-format
 msgid "Level"
 msgstr "級別"
@@ -31671,7 +31661,7 @@ msgid "Styles available"
 msgstr "可用樣式"
 
 #: plugins/flake/textshape/dialogs/TableOfContentsStyleDelegate.cpp:56
-#: plugins/flake/textshape/dialogs/TableOfContentsStyleModel.cpp:115
+#: plugins/flake/textshape/dialogs/TableOfContentsStyleModel.cpp:120
 #, kde-format
 msgid "Disabled"
 msgstr "已禁用"
@@ -31865,94 +31855,94 @@ msgctxt "Underline Style"
 msgid "Double"
 msgstr "雙倍"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:193
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1440
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1442
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:192
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1437
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1439
 msgctxt "(qtundo-format)"
 msgid "New Paragraph"
 msgstr "新段落"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:364
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:363
 msgctxt "(qtundo-format)"
 msgid "Add Bookmark"
 msgstr "新增書籤"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:383
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:382
 msgctxt "(qtundo-format)"
 msgid "Add Annotation"
 msgstr "新增批註"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:407
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:406
 msgctxt "(qtundo-format)"
 msgid "Insert Index"
 msgstr "插入索引"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:433
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:432
 msgctxt "(qtundo-format)"
 msgid "Insert Variable"
 msgstr "插入變數"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:500
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:499
 msgctxt "(qtundo-format)"
 msgid "Insert Break"
 msgstr "插入分隔符"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:821
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:823
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:838
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:820
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:822
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:837
 msgctxt "(qtundo-format)"
 msgid "Insert Table"
 msgstr "插入表格"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:978
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:977
 msgctxt "(qtundo-format)"
 msgid "Merge Cells"
 msgstr "合併儲存格"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:995
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:994
 msgctxt "(qtundo-format)"
 msgid "Split Cells"
 msgstr "分割儲存格"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1024
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1023
 msgctxt "(qtundo-format)"
 msgid "Adjust Table Width"
 msgstr "調整表格寬度"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1041
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1040
 #: plugins/flake/textshape/TextTool.cpp:908
 msgctxt "(qtundo-format)"
 msgid "Change Border Formatting"
 msgstr "變更邊框格式"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1088
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1090
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1108
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1087
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1089
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1107
 msgctxt "(qtundo-format)"
 msgid "Insert Table Of Contents"
 msgstr "插入目錄"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1147
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1146
 msgctxt "(qtundo-format)"
 msgid "Modify Table Of Contents"
 msgstr "編輯目錄"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1164
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1166
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1185
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1163
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1165
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1184
 msgctxt "(qtundo-format)"
 msgid "Insert Bibliography"
 msgstr "插入參考文獻"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1222
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1224
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1219
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1221
 msgctxt "(qtundo-format)"
 msgid "Add Citation"
 msgstr "新增引用"
 
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1251
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1253
-#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1291
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1248
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1250
+#: plugins/flake/textshape/kotext/KoTextEditor.cpp:1288
 msgctxt "(qtundo-format)"
 msgid "Typing"
 msgstr "輸入"
@@ -42388,3 +42378,9 @@ msgstr "顯示原始輪廓"
 #, kde-format
 msgid "Work Recursively"
 msgstr "以遞迴方式作業"
+
+#~ msgid "Bibliography"
+#~ msgstr "參考文獻"
+
+#~ msgid "References"
+#~ msgstr "引用"

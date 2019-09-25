@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-12 05:46+0000\n"
+"POT-Creation-Date: 2019-09-25 06:00+0000\n"
 "PO-Revision-Date: 2019-05-01 01:51+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -27,7 +27,7 @@ msgctxt "Comment"
 msgid "Facebook Protocol"
 msgstr ""
 
-#: src/improtocols/facebook.desktop:24
+#: src/improtocols/facebook.desktop:25
 msgctxt "Name"
 msgid "Facebook"
 msgstr ""
@@ -47,7 +47,7 @@ msgctxt "Comment"
 msgid "Google Talk"
 msgstr ""
 
-#: src/improtocols/googletalk.desktop:25
+#: src/improtocols/googletalk.desktop:26
 msgctxt "Name"
 msgid "Google Talk"
 msgstr ""
@@ -107,7 +107,7 @@ msgctxt "Comment"
 msgid "Tencent QQ Messaging"
 msgstr ""
 
-#: src/improtocols/qq.desktop:24
+#: src/improtocols/qq.desktop:25
 msgctxt "Name"
 msgid "QQ"
 msgstr ""
@@ -117,7 +117,7 @@ msgctxt "Comment"
 msgid "Session Initiation Protocol"
 msgstr ""
 
-#: src/improtocols/sip.desktop:24
+#: src/improtocols/sip.desktop:25
 msgctxt "Name"
 msgid "SIP"
 msgstr ""
@@ -147,7 +147,7 @@ msgctxt "Comment"
 msgid "Twitter Protocol"
 msgstr ""
 
-#: src/improtocols/twitter.desktop:24
+#: src/improtocols/twitter.desktop:25
 msgctxt "Name"
 msgid "Twitter"
 msgstr ""

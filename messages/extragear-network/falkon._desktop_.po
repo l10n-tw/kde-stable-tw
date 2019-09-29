@@ -84,7 +84,9 @@ msgctxt "Comment"
 msgid ""
 "You can easily view/delete flash cookies stored on your computer. This is a "
 "solution for having more privacy."
-msgstr "你可以簡單地檢視 / 刪除儲存在你電腦中的 Flash Cookies。這可以讓你保有更多隱私。"
+msgstr ""
+"你可以簡單地檢視 / 刪除儲存在你電腦中的 Flash Cookies。這可以讓你保有更多隱"
+"私。"
 
 #: src/plugins/GnomeKeyringPasswords/metadata.desktop:2
 msgctxt "Name"
@@ -102,8 +104,6 @@ msgid "GreaseMonkey"
 msgstr "GreaseMonkey"
 
 #: src/plugins/GreaseMonkey/metadata.desktop:27
-#| msgctxt "Comment"
-#| msgid "Provides support for autoscroll with middle mouse button"
 msgctxt "Comment"
 msgid "Provides support for userscripts"
 msgstr "提供 userscripts 支援"

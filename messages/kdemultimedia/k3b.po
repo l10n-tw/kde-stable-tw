@@ -409,8 +409,8 @@ msgid ""
 "<p>If the resulting audio file sounds bad it is highly likely that the byte "
 "order is wrong and this option has to be checked."
 msgstr ""
-"<p>如果勾選了此選項，K3b 會交換輸入資料的位元組順序。因此，命令必須讀取大儲"
-"存序音格 (big endian audio frame)。\n"
+"<p>如果勾選了此選項，K3b 會交換輸入資料的位元組順序。因此，命令必須讀取大儲存"
+"序音格 (big endian audio frame)。\n"
 "<p>如果套用效果的音效檔案聽起來很糟，很有可能位元組順序有錯，應該要勾選這個選"
 "項。"
 
@@ -884,12 +884,12 @@ msgid ""
 "was copied from the www.vorbis.com FAQ.</em>"
 msgstr ""
 "<p>Vorbis 的音效品質由每秒多少 kB來判斷並不準確，而是由一種稱為「品質」的分級"
-"來判斷，範圍從 -1 到 10。<p>現在來說，品質 -1 大約相等於平均 45kbps，5 大"
-"約是 160kbps，而 10 則大約是 400kbps。大多數的人們使用 5 的品質來作音效編碼"
-"以得到非常接近 CD 的音質 (very-near-CD-quality) ；使用 6 的品質以得到無損立體"
-"升到聯合音質。預設值為品質 3，大約是 110kbps，可以得到較小的檔案大小以及絕對"
-"比 128kbps 的 .mp3 壓縮音效檔案還要更好的保真度。<p><em>本說明是從 www."
-"vorbis.com 的常見問題集 (FAQ) 上複製過來的。</em>"
+"來判斷，範圍從 -1 到 10。<p>現在來說，品質 -1 大約相等於平均 45kbps，5 大約"
+"是 160kbps，而 10 則大約是 400kbps。大多數的人們使用 5 的品質來作音效編碼以得"
+"到非常接近 CD 的音質 (very-near-CD-quality) ；使用 6 的品質以得到無損立體升到"
+"聯合音質。預設值為品質 3，大約是 110kbps，可以得到較小的檔案大小以及絕對比 "
+"128kbps 的 .mp3 壓縮音效檔案還要更好的保真度。<p><em>本說明是從 www.vorbis."
+"com 的常見問題集 (FAQ) 上複製過來的。</em>"
 
 #. i18n: ectx: property (text), widget (QRadioButton, m_radioQualityLevel)
 #: ../plugins/encoder/ogg/base_k3boggvorbisencodersettingswidget.ui:35
@@ -949,12 +949,12 @@ msgid ""
 "from the www.vorbis.com FAQ.</em>"
 msgstr ""
 "<p>Vorbis 的音效品質由每秒多少 kB來判斷並不準確，而是由一種稱為「品質」的分級"
-"來判斷，範圍從 -1 到 10。<p>現在來說，品質 -1 大約相等於平均 45kbps，5 大"
-"約是 160kbps，而 10 則大約是 400kbps。大多數的人們使用 5 的品質來進行音效編"
-"碼以得到非常接近 CD 的音質 (very-near-CD-quality) ；使用 6 的品質以得到無損立"
-"體聲道聯合音質。品質 3，大約是 110kbps，可以得到較小的檔案大小以及絕對比 "
-"128kbps 的 .mp3 壓縮音效檔案還要更好的保真度。<p><em>此解釋基於 www.vorbis."
-"com 的常見問題集 (FAQ) 所修改。</em>"
+"來判斷，範圍從 -1 到 10。<p>現在來說，品質 -1 大約相等於平均 45kbps，5 大約"
+"是 160kbps，而 10 則大約是 400kbps。大多數的人們使用 5 的品質來進行音效編碼以"
+"得到非常接近 CD 的音質 (very-near-CD-quality) ；使用 6 的品質以得到無損立體聲"
+"道聯合音質。品質 3，大約是 110kbps，可以得到較小的檔案大小以及絕對比 128kbps "
+"的 .mp3 壓縮音效檔案還要更好的保真度。<p><em>此解釋基於 www.vorbis.com 的常見"
+"問題集 (FAQ) 所修改。</em>"
 
 #: ../plugins/encoder/ogg/k3boggvorbisencoderconfigwidget.cpp:112
 #, kde-format
@@ -1909,8 +1909,8 @@ msgstr ""
 "選擇最合適的資料模式。</p><p><b>模式 1</b><br/> 這是由<em>黃頁</em>標準所導入"
 "的<em>原始</em>寫入模式。當要寫入純資料 CD 時，這是偏好的模式。</p><p><b>模"
 "式 2</b><br/> 實際上是 <em>XA 模式 2 形式 1</em>，但是因為其他模式幾乎不被使"
-"用，這通常被指稱為<em>模式 2</em>。</p><p><b>注意：</b>不要在同一張 CD 上混"
-"用不同的模式。有些較舊的光碟機可能在讀取模式 1 多區段 CD 時會有問題。"
+"用，這通常被指稱為<em>模式 2</em>。</p><p><b>注意：</b>不要在同一張 CD 上混用"
+"不同的模式。有些較舊的光碟機可能在讀取模式 1 多區段 CD 時會有問題。"
 
 #: k3bdebuggingoutputdialog.cpp:45
 #, kde-format
@@ -1958,7 +1958,8 @@ msgstr "加到專案(&A)"
 msgid ""
 "K3b uses vcdxrip from the vcdimager package to rip Video CDs. Please make "
 "sure it is installed."
-msgstr "K3b 使用 vcdimager 軟體包內的 vcdxrip 來擷取影像 CD。請確認它是否已安裝。"
+msgstr ""
+"K3b 使用 vcdimager 軟體包內的 vcdxrip 來擷取影像 CD。請確認它是否已安裝。"
 
 #: k3bdirview.cpp:235
 #, kde-format
@@ -2437,7 +2438,8 @@ msgstr "儲存目前的設定以便之後可以再使用"
 msgid ""
 "<p>Load a set of settings either from the default K3b settings, settings "
 "saved before, or the last used ones."
-msgstr "<p>從預設 K3b 設定值、之前儲存的設定值，或是上次使用的設定值中載入其中一套。"
+msgstr ""
+"<p>從預設 K3b 設定值、之前儲存的設定值，或是上次使用的設定值中載入其中一套。"
 
 #: k3binteractiondialog.cpp:206
 #, kde-format
@@ -2913,7 +2915,8 @@ msgstr "K3b 使用 dvd+rw-format 來格式化 DVD-RWs 和 DVD+RWs。"
 msgid ""
 "K3b needs at least mkisofs version 1.14. Older versions may introduce "
 "problems when creating data projects."
-msgstr "K3b 需要 mkisofs 1.14 以上的版本。較舊的版本在建立資料專案時可能會產生問題。"
+msgstr ""
+"K3b 需要 mkisofs 1.14 以上的版本。較舊的版本在建立資料專案時可能會產生問題。"
 
 #: k3bsystemproblemdialog.cpp:403
 #, kde-format
@@ -2960,8 +2963,8 @@ msgid ""
 "all devices. This way you will not have any problems. Be aware that you may "
 "still enable DMA on ide-scsi emulated drives."
 msgstr ""
-"最好且也是建議的解決方案是替所有裝置啟用 ide-scsi (SCSI 模擬)。這樣一來不會"
-"再有任何問題。請注意您仍可以在已使用　ide-scsi 模擬的光碟機上啟用 DMA。"
+"最好且也是建議的解決方案是替所有裝置啟用 ide-scsi (SCSI 模擬)。這樣一來不會再"
+"有任何問題。請注意您仍可以在已使用　ide-scsi 模擬的光碟機上啟用 DMA。"
 
 #: k3bsystemproblemdialog.cpp:439 k3bsystemproblemdialog.cpp:458
 #, kde-format
@@ -2985,8 +2988,8 @@ msgid ""
 "all writer devices: this way you will not have any problems; or, you can "
 "install (or select as the default) a more recent version of %1."
 msgstr ""
-"最好的也是被建議的解決方案，是為所有燒錄裝置使用 ide-scsi (SCSI 模擬)：這樣"
-"一來您不會再有任何問題；或者，您可以安裝 (或選擇為預設) 一個較新版本的 %1。"
+"最好的也是被建議的解決方案，是為所有燒錄裝置使用 ide-scsi (SCSI 模擬)：這樣一"
+"來您不會再有任何問題；或者，您可以安裝 (或選擇為預設) 一個較新版本的 %1。"
 
 #: k3bsystemproblemdialog.cpp:467
 #, kde-format
@@ -3123,8 +3126,8 @@ msgid ""
 "To properly set the locale charset make sure the LC_* environment variables "
 "are set. Normally the distribution setup tools take care of this."
 msgstr ""
-"要適當地設定地區語言字集 (locale charset)，請確定 LC_* 環境變數已設定。一般"
-"來說有散布版設定工具來負責。"
+"要適當地設定地區語言字集 (locale charset)，請確定 LC_* 環境變數已設定。一般來"
+"說有散布版設定工具來負責。"
 
 #: k3bsystemproblemdialog.cpp:587
 #, kde-format
@@ -3304,7 +3307,8 @@ msgstr "實際燒錄媒體的外部應用程式"
 msgid ""
 "<p>Select the medium that you want to use for burning.<p>In most cases there "
 "will only be one medium available which does not leave much choice."
-msgstr "<p>選擇您想要用的燒錄媒體。<p>大多數情況下只會有一種媒體，不會有太多的選擇。"
+msgstr ""
+"<p>選擇您想要用的燒錄媒體。<p>大多數情況下只會有一種媒體，不會有太多的選擇。"
 
 #: k3bwriterselectionwidget.cpp:176
 #, kde-format
@@ -4219,8 +4223,8 @@ msgid ""
 "Disable it if your CD drive has problems with reading CD-Text or you want to "
 "stick to CDDB info."
 msgstr ""
-"<p>如果勾選了此選項，K3b 將在來源 CD 上搜尋 CD-Text。如果您的 CD 驅動裝置對"
-"於讀取 CD-Text 會有問題，或是您偏好 CDDB 資訊的話，請停用它。"
+"<p>如果勾選了此選項，K3b 將在來源 CD 上搜尋 CD-Text。如果您的 CD 驅動裝置對於"
+"讀取 CD-Text 會有問題，或是您偏好 CDDB 資訊的話，請停用它。"
 
 #: misc/k3bmediacopydialog.cpp:223
 #, kde-format
@@ -4611,7 +4615,8 @@ msgstr "允許燒錄超過標準的媒體容量"
 msgid ""
 "Show advanced GUI elements like allowing to choose between cdrecord and "
 "cdrdao"
-msgstr "顯示進階圖形使用者介面 (GUI) 元件，例：允許在 cdrecord 與 cdrdao 之間作選擇。"
+msgstr ""
+"顯示進階圖形使用者介面 (GUI) 元件，例：允許在 cdrecord 與 cdrdao 之間作選擇。"
 
 #: option/k3badvancedoptiontab.cpp:102
 #, kde-format
@@ -4667,7 +4672,8 @@ msgstr ""
 msgid ""
 "<p>If this option is checked K3b will automatically erase CD-RWs and format "
 "DVD-RWs if one is found instead of an empty media before writing."
-msgstr "<p>如果這個選項被勾選的話，在燒錄前K3b將會自動清除 CD-RWs 和格式化 DVD-RWs。"
+msgstr ""
+"<p>如果這個選項被勾選的話，在燒錄前K3b將會自動清除 CD-RWs 和格式化 DVD-RWs。"
 
 #: option/k3badvancedoptiontab.cpp:129
 #, kde-format
@@ -4678,8 +4684,8 @@ msgid ""
 "specified will be used for both CD and DVD burning."
 msgstr ""
 "<p>K3b 在燒錄程序中使用了軟體緩衝以避免由於高系統負載產生的資料流間繫。預設使"
-"用的緩衝大小，CD 為 %1 MB 而 DVD 為 %2 MB。<p>如果勾選了此選項，指定的值將"
-"被 CD 與 DVD 燒錄兩者使用。"
+"用的緩衝大小，CD 為 %1 MB 而 DVD 為 %2 MB。<p>如果勾選了此選項，指定的值將被 "
+"CD 與 DVD 燒錄兩者使用。"
 
 #: option/k3badvancedoptiontab.cpp:135
 #, kde-format
@@ -4799,7 +4805,8 @@ msgstr "無"
 msgid ""
 "In order to give K3b full access to the writer device the current user needs "
 "be added to a group <em>%1</em>."
-msgstr "為了給 K3b 完整存取寫入裝置的權限，目前的使用者必須先加入 <em>%1</em> 群組。"
+msgstr ""
+"為了給 K3b 完整存取寫入裝置的權限，目前的使用者必須先加入 <em>%1</em> 群組。"
 
 #: option/k3bdevicewidget.cpp:249 projects/k3bdataurladdingdialog.cpp:771
 #: projects/k3bdataurladdingdialog.cpp:787
@@ -4976,7 +4983,8 @@ msgstr ""
 msgid ""
 "One of these sets is loaded once an action dialog is opened. This setting "
 "defines which set it will be."
-msgstr "每當動作對話窗開啟時，會載入三套設定值的其中一套。此設定將定義要使用哪一套。"
+msgstr ""
+"每當動作對話窗開啟時，會載入三套設定值的其中一套。此設定將定義要使用哪一套。"
 
 #: option/k3bmiscoptiontab.cpp:112
 #, kde-format
@@ -5004,7 +5012,8 @@ msgstr "無法建立資料夾 %1"
 msgid ""
 "You specified a file for the temporary folder. K3b will use its base path as "
 "the temporary folder."
-msgstr "您已為這個暫時資料夾指定了一個檔案。K3b 會使用其基礎路徑作為暫時資料夾。"
+msgstr ""
+"您已為這個暫時資料夾指定了一個檔案。K3b 會使用其基礎路徑作為暫時資料夾。"
 
 #: option/k3bmiscoptiontab.cpp:137
 #, kde-format
@@ -5176,8 +5185,8 @@ msgstr ""
 "Protocol) 所指定的系統使用共享協定 (System Use Sharing Protocel, SUSP) 紀錄 "
 "(IEEE-P1282)。\n"
 "<p>Rock Ridge 從 ISO-9660 檔案系統擴展出相等於 UNIX 檔案系統的功能 (權限、符"
-"號性連結，長檔名…)。它使用了 ISO-8859 或是以 UTF-16 為基礎的字元，並允許 "
-"255 個八位元組。\n"
+"號性連結，長檔名…)。它使用了 ISO-8859 或是以 UTF-16 為基礎的字元，並允許 255 "
+"個八位元組。\n"
 "<p>Rock Ridge 擴展位於每個 ISO-9660 目錄紀錄的末端。這使得 Rock Ridge 目錄樹"
 "與 ISO-9660 目錄樹十分相近。\n"
 "<p><b>強烈建議在每個資料 CD 或 DVD 上使用 Rock Ridge 擴展。</b>"
@@ -5216,9 +5225,9 @@ msgstr ""
 "<p>Joliet 不是被接受的獨立國際標準，被接受的獨立國際標準為 ISO-9660 或是 "
 "Rock Ridge。它主要用於 Windows 系統上。\n"
 "<p>Joliet 不允許使用所有字元，因此 Joliet 檔名會與硬碟上的檔名不同 (相較於 "
-"Rock Ridge)。Joliet 對於檔名有長度限制，限制在 64 字元內 (獨立於字元編碼與"
-"種類，例如：歐洲語系 vs. 日文)。當現代檔案系統對每個路徑名稱成份都允許使用 "
-"255 個字元時，這很不方便。\n"
+"Rock Ridge)。Joliet 對於檔名有長度限制，限制在 64 字元內 (獨立於字元編碼與種"
+"類，例如：歐洲語系 vs. 日文)。當現代檔案系統對每個路徑名稱成份都允許使用 255 "
+"個字元時，這很不方便。\n"
 "<p>Joliet 使用 UTF-16 編碼系統。\n"
 "<p><b>小心：</b>除了 Linux 與 FreeBSD 外，其他種 POSIX-like 作業系統都不支援 "
 "Joliet。因此<b>永遠都不要建立只使用 Joliet (Joliet-only) 的 CD 或 DVD</b>。"
@@ -5246,8 +5255,8 @@ msgid ""
 msgstr ""
 "<p>如果勾選了此選項，K3b 將在 ISO9660 檔案系統之外，額外建立 UDF 檔案系統結"
 "構。\n"
-"<p>UDF (通用磁碟格式，<em><b>U</b>niversal <b>D</b>isk <b>F</b>ormat</em>) "
-"主要用於 DVD。"
+"<p>UDF (通用磁碟格式，<em><b>U</b>niversal <b>D</b>isk <b>F</b>ormat</em>) 主"
+"要用於 DVD。"
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_checkUdf)
 #: projects/base_k3badvanceddataimagesettings.ui:67
@@ -6152,7 +6161,8 @@ msgstr "以隨機順序播放檔案"
 msgid ""
 "<p>If this option is checked the order in which the files are played is "
 "determined randomly every time it is played."
-msgstr "<p>如果選取了此選項，每當檔案被播放時，被播放的檔案其次序將會被隨機決定。"
+msgstr ""
+"<p>如果選取了此選項，每當檔案被播放時，被播放的檔案其次序將會被隨機決定。"
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_checkRandomPlay)
 #: projects/base_k3bmovixoptionswidget.ui:62
@@ -6372,7 +6382,8 @@ msgstr "選擇鍵盤配置"
 msgid ""
 "<p>The keyboard layout selected here will be used for eMovix commands such "
 "as controlling the media player."
-msgstr "<p>這裡選擇的鍵盤配置會被用來當作 eMovix 指令來源，例如拿來控制媒體播放器。"
+msgstr ""
+"<p>這裡選擇的鍵盤配置會被用來當作 eMovix 指令來源，例如拿來控制媒體播放器。"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox1)
 #: projects/base_k3bmovixoptionswidget.ui:248
@@ -6483,10 +6494,10 @@ msgid ""
 "amusing.<p><b>This feature is only available in DAO mode when writing with "
 "cdrdao."
 msgstr ""
-"<p>如果勾選了此選項，K3b 會<em>隱藏</em>第一軌道。<p>音訊 CD 標準在 CD 上的"
-"每個軌道之前使用前置間隙。預設下這會持續兩秒，而且無聲。在 DAO 模式下，可以擁"
-"有更長的且包含某些音訊的前置間隙。在這種情況下，第一個前置間隙會包含完整的第"
-"一軌道。<p>您將需要從 CD 的開頭往後搜尋以聆聽第一軌道。試試這個選項，它相當有"
+"<p>如果勾選了此選項，K3b 會<em>隱藏</em>第一軌道。<p>音訊 CD 標準在 CD 上的每"
+"個軌道之前使用前置間隙。預設下這會持續兩秒，而且無聲。在 DAO 模式下，可以擁有"
+"更長的且包含某些音訊的前置間隙。在這種情況下，第一個前置間隙會包含完整的第一"
+"軌道。<p>您將需要從 CD 的開頭往後搜尋以聆聽第一軌道。試試這個選項，它相當有"
 "趣。<p><b>這個功能只在使用 cdrdao 並以 DAO 模式寫入時可以使用。"
 
 #: projects/k3baudioburndialog.cpp:129 projects/k3baudioburndialog.cpp:130
@@ -6846,10 +6857,10 @@ msgid ""
 "\"http://www.google.com/search?q=linux+boot+floppy&ie=UTF-8&oe=UTF-8\">the "
 "Internet</a>."
 msgstr ""
-"<p>您選擇的檔案不是軟碟映像檔 (軟碟映像檔大小為 1200 KB、 1440 KB，或是 "
-"2880 KB)。您只要藉由模擬硬碟或是完全地停用模擬，仍可能使用其他大小的開機映像"
-"檔。<p>如果您對於這些像是「硬碟模擬」的術語不熟悉，在這裡您很可能還是想使用磁"
-"片映像檔。磁片映像檔可以直接從真實的磁碟片中抽取內容來建立：<pre>dd if=/dev/"
+"<p>您選擇的檔案不是軟碟映像檔 (軟碟映像檔大小為 1200 KB、 1440 KB，或是 2880 "
+"KB)。您只要藉由模擬硬碟或是完全地停用模擬，仍可能使用其他大小的開機映像檔。"
+"<p>如果您對於這些像是「硬碟模擬」的術語不熟悉，在這裡您很可能還是想使用磁片映"
+"像檔。磁片映像檔可以直接從真實的磁碟片中抽取內容來建立：<pre>dd if=/dev/"
 "floppy of=/tmp/floppy.img</pre>或是使用許多開機磁片產生器的其中一種來建立，它"
 "們可以在<a href=\"http://www.google.com/search?q=linux+boot"
 "+floppy&ie=UTF-8&oe=UTF-8\">網際網路</a>上找到。"
@@ -7806,9 +7817,9 @@ msgid ""
 "this is the recommended mode.<br>Some older CD-ROMs may have problems "
 "reading a blue book CD since it is a multisession CD."
 msgstr ""
-"<em>藍皮書 CD</em><br/>K3b 會建立一張有 2 個區段的多區段 CD。第一個區段會包"
-"含所有音軌，而第二區段會包含模式 2 格式 1 的資料軌。<br/>這個模式基於<em>藍皮"
-"書</em>標準 (也被稱為<em>擴展版音訊 CD</em>、<em>CD-Extra</em>，或是 <em>CD "
+"<em>藍皮書 CD</em><br/>K3b 會建立一張有 2 個區段的多區段 CD。第一個區段會包含"
+"所有音軌，而第二區段會包含模式 2 格式 1 的資料軌。<br/>這個模式基於<em>藍皮書"
+"</em>標準 (也被稱為<em>擴展版音訊 CD</em>、<em>CD-Extra</em>，或是 <em>CD "
 "Plus</em>)，有著高傳真音訊 CD 播放器能辨認第一區段並忽略第二區段的優點。<br/>"
 "如果這張 CD 會被用在高傳真音效 CD 播放器上，這是建議的模式。<br/>由於藍皮書 "
 "CD 是多區段 CD，某些老舊的 CD-ROM 可能對於讀取它會有問題。"
@@ -8373,9 +8384,9 @@ msgid ""
 "possibility of interaction with the user through the remote control or some "
 "other input device available."
 msgstr ""
-"<p>播放控制，PBC，只對影像 CD 2.0 與超級影像 CD 1.0 光碟格式有效。<p>PBC 允"
-"許播放項目的播放控制，以及與使用者透過遙控器或某些其他可用的輸入裝置互動的可"
-"能性。"
+"<p>播放控制，PBC，只對影像 CD 2.0 與超級影像 CD 1.0 光碟格式有效。<p>PBC 允許"
+"播放項目的播放控制，以及與使用者透過遙控器或某些其他可用的輸入裝置互動的可能"
+"性。"
 
 #: projects/k3bvcdburndialog.cpp:211
 #, kde-format
@@ -8433,10 +8444,10 @@ msgid ""
 "ul><p>Actually, the exact meaning is not defined and is player dependant."
 "<p><b>Most players ignore that value.<b>"
 msgstr ""
-"<p>觀賞限制可能被播放裝置解譯。<p>允許的範圍從 0 到 3。<ul><li>0 = 未受限，"
-"任何人皆可自由觀賞</li><li>3 = 受限制，內容不適合低於 18 歲的人</li></ul><p>"
-"實際上，真正的意思沒有被定義，並且取決於裝置本身。<p><b>大多數的播放器會忽略"
-"這個值。<b>"
+"<p>觀賞限制可能被播放裝置解譯。<p>允許的範圍從 0 到 3。<ul><li>0 = 未受限，任"
+"何人皆可自由觀賞</li><li>3 = 受限制，內容不適合低於 18 歲的人</li></ul><p>實"
+"際上，真正的意思沒有被定義，並且取決於裝置本身。<p><b>大多數的播放器會忽略這"
+"個值。<b>"
 
 #: projects/k3bvcdburndialog.cpp:231
 #, kde-format
@@ -8998,8 +9009,8 @@ msgid ""
 "repository or download it from http://www.vcdimager.org"
 msgstr ""
 "找不到 VcdImager 可執行檔。要建立影像 CD，您必須安裝版本 >= 0.7.12 的 "
-"VcdImager。您可以在您的散布版光碟上找到它或是從 http://www.vcdimager.org 下"
-"載它"
+"VcdImager。您可以在您的散布版光碟上找到它或是從 http://www.vcdimager.org 下載"
+"它"
 
 #: projects/k3bvideodvdburndialog.cpp:47
 #, kde-format
@@ -9014,8 +9025,8 @@ msgid ""
 "yet. That means you need to already have the VTS_X_YY.VOB and VTS_X_YY.IFO "
 "files."
 msgstr ""
-"請注意您需要提供完整的影像 DVD 檔案架構。K3b 尚未支援影像轉譯功能與影像物件"
-"檔案的預備。這代表您必須已經擁有 VTS_X_YY.VOB 與 VTS_X_YY.IFO 檔案才行。"
+"請注意您需要提供完整的影像 DVD 檔案架構。K3b 尚未支援影像轉譯功能與影像物件檔"
+"案的預備。這代表您必須已經擁有 VTS_X_YY.VOB 與 VTS_X_YY.IFO 檔案才行。"
 
 #: projects/k3bvideodvdview.cpp:63
 #, kde-format
@@ -9787,11 +9798,11 @@ msgstr ""
 "果其條目是空的，或是擁有一個指定的值時，您可以選擇要納入的或是不要納入的文"
 "字。例：<ul><li>@T{TEXT} 如果專輯標題剛好和指定文字相同，便納入 TEXT <li>!"
 "T{TEXT} 如果專輯標題和指定文字不同，便納入 TEXT <li>@C='Soundtrack'{TEXT} 如"
-"果 CD 的擴展資訊名稱為 Soundtrack，便納入 TEXT <li>!C='Soundtrack'{TEXT} 如"
-"果CD 的擴展資訊為 Soundtrack 以外的文字，便納入 TEXT <li>這也可以納入文字內與"
-"條件下的特殊字串，舉例來說，!a='%A'{%a} 如果它與專輯演出者的值相同，才納入標"
-"題的演出者資訊</ul><p>條件性納入使用了與特殊字串相同的字元，也就是說 @X{...} "
-"內的 X 意味著來自 [atnycgATCd] 之中的一個字元。"
+"果 CD 的擴展資訊名稱為 Soundtrack，便納入 TEXT <li>!C='Soundtrack'{TEXT} 如果"
+"CD 的擴展資訊為 Soundtrack 以外的文字，便納入 TEXT <li>這也可以納入文字內與條"
+"件下的特殊字串，舉例來說，!a='%A'{%a} 如果它與專輯演出者的值相同，才納入標題"
+"的演出者資訊</ul><p>條件性納入使用了與特殊字串相同的字元，也就是說 @X{...} 內"
+"的 X 意味著來自 [atnycgATCd] 之中的一個字元。"
 
 #: rip/k3bmassaudioencodingjob.cpp:184
 #, kde-format
@@ -10262,8 +10273,7 @@ msgstr ""
 "<p>大多數的影像 DVD 是以 letterboxed 格式編碼的。<em>Letterboxed</em> 指的是"
 "上方與下方都使用黑色橫列 (有時候兩側也有) 的影像來強迫其外觀比例被影像 DVD 標"
 "準所支援。\n"
-"<p>如果勾選了此選項，K3b 會從要套用效果的影像上自動偵測並移除這些黑色橫"
-"列。\n"
+"<p>如果勾選了此選項，K3b 會從要套用效果的影像上自動偵測並移除這些黑色橫列。\n"
 "<p>雖然這個方法非常可靠，但是如果來源媒體意外地短或是畫面偏黑的話，可能會有問"
 "題產生。"
 

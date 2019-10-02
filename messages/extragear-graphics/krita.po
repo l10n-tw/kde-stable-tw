@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-25 07:44+0200\n"
+"POT-Creation-Date: 2019-10-02 07:52+0200\n"
 "PO-Revision-Date: 2019-09-14 22:15+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
@@ -7693,7 +7693,7 @@ msgstr "活動工具：%1"
 msgid "Embedded svg shape"
 msgstr "內嵌的 SVG 形狀"
 
-#: libs/flake/text/KoSvgTextShape.cpp:585
+#: libs/flake/text/KoSvgTextShape.cpp:589
 #: plugins/flake/textshape/TextShapeFactory.cpp:44
 #: plugins/flake/textshape/TextShapeFactory.cpp:54
 #: plugins/paintops/libpaintop/kis_brush_selection_widget.cpp:62
@@ -7702,13 +7702,13 @@ msgstr "內嵌的 SVG 形狀"
 msgid "Text"
 msgstr "文字"
 
-#: libs/flake/text/KoSvgTextShape.cpp:587
-#: libs/flake/text/KoSvgTextShape.cpp:595
+#: libs/flake/text/KoSvgTextShape.cpp:591
+#: libs/flake/text/KoSvgTextShape.cpp:599
 #, kde-format
 msgid "SVG Text Shape"
 msgstr "SVG 文字形狀"
 
-#: libs/flake/text/KoSvgTextShape.cpp:593
+#: libs/flake/text/KoSvgTextShape.cpp:597
 #, kde-format
 msgid "SVG Text"
 msgstr "SVG 文字"

@@ -16,7 +16,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-03 07:19+0200\n"
+"POT-Creation-Date: 2019-10-04 07:36+0200\n"
 "PO-Revision-Date: 2019-07-09 14:03+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
@@ -1180,58 +1180,58 @@ msgstr ""
 msgid "Running Dolphin as root can be dangerous. Please be careful."
 msgstr "以管理員權限執行 Dolphin 可能有危險性，請小心使用。"
 
-#: dolphinviewcontainer.cpp:424 search/dolphinsearchbox.cpp:307
+#: dolphinviewcontainer.cpp:429 search/dolphinsearchbox.cpp:307
 #, kde-format
 msgid "Search for %1 in %2"
 msgstr "在 %2 中搜尋 %1"
 
-#: dolphinviewcontainer.cpp:462
+#: dolphinviewcontainer.cpp:467
 #, kde-format
 msgid "Search"
 msgstr "搜尋"
 
-#: dolphinviewcontainer.cpp:464
+#: dolphinviewcontainer.cpp:469
 #, kde-format
 msgid "Search for %1"
 msgstr "搜尋 %1"
 
-#: dolphinviewcontainer.cpp:541
+#: dolphinviewcontainer.cpp:546
 #, kde-format
 msgctxt "@info:progress"
 msgid "Loading folder..."
 msgstr "載入資料夾中..."
 
-#: dolphinviewcontainer.cpp:549
+#: dolphinviewcontainer.cpp:554
 #, kde-format
 msgctxt "@info:progress"
 msgid "Sorting..."
 msgstr "排序中..."
 
-#: dolphinviewcontainer.cpp:560
+#: dolphinviewcontainer.cpp:565
 #, kde-format
 msgctxt "@info"
 msgid "Searching..."
 msgstr "搜尋中..."
 
-#: dolphinviewcontainer.cpp:581
+#: dolphinviewcontainer.cpp:586
 #, kde-format
 msgctxt "@info:status"
 msgid "No items found."
 msgstr "找不到任何項目。"
 
-#: dolphinviewcontainer.cpp:692
+#: dolphinviewcontainer.cpp:693
 #, kde-format
 msgctxt "@info:status"
 msgid "Dolphin does not support web pages, the web browser has been launched"
 msgstr "Dolphin 不支援網頁，已啟動瀏覽器"
 
-#: dolphinviewcontainer.cpp:706
+#: dolphinviewcontainer.cpp:707
 #, kde-format
 msgctxt "@info:status"
 msgid "Protocol not supported by Dolphin, Konqueror has been launched"
 msgstr "此協定未被 Dolphin 支援，已啟動 Konqueror"
 
-#: dolphinviewcontainer.cpp:714
+#: dolphinviewcontainer.cpp:715
 #, kde-format
 msgctxt "@info:status"
 msgid "Invalid protocol"

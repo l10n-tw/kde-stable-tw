@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-03 07:21+0200\n"
+"POT-Creation-Date: 2019-10-04 07:38+0200\n"
 "PO-Revision-Date: 2019-10-02 15:54+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
@@ -8178,7 +8178,7 @@ msgstr "大小"
 #: plugins/paintops/spray/kis_spray_shape_option.cpp:134
 #: plugins/paintops/spray/kis_spray_shape_option.cpp:136
 #: plugins/paintops/spray/kis_sprayop_option.cpp:43
-#: plugins/tools/basictools/kis_tool_brush.cc:367
+#: plugins/tools/basictools/kis_tool_brush.cc:363
 #: plugins/tools/basictools/kis_tool_fill.cc:182
 #: plugins/tools/basictools/kis_tool_fill.cc:189
 #: plugins/tools/basictools/kis_tool_movetooloptionswidget.cpp:63
@@ -17749,23 +17749,23 @@ msgctxt "@titile:window"
 msgid "Open Audio"
 msgstr "開啟音訊"
 
-#: libs/ui/KisImportExportManager.cpp:358
+#: libs/ui/KisImportExportManager.cpp:359
 #, kde-format
 msgid "Opening document..."
 msgstr "正在開啟檔案…"
 
-#: libs/ui/KisImportExportManager.cpp:401
+#: libs/ui/KisImportExportManager.cpp:420
 #, kde-format
 msgid "Saving document..."
 msgstr "正在儲存檔案…"
 
-#: libs/ui/KisImportExportManager.cpp:471
+#: libs/ui/KisImportExportManager.cpp:490
 #, kde-format
 msgctxt "image conversion warning"
 msgid "The image contains <b>assistants</b>. The assistants will not be saved."
 msgstr "此影像包含<b>輔助尺</b>。輔助尺將不被儲存。"
 
-#: libs/ui/KisImportExportManager.cpp:474
+#: libs/ui/KisImportExportManager.cpp:493
 #, kde-format
 msgctxt "image conversion warning"
 msgid ""
@@ -17773,13 +17773,13 @@ msgid ""
 "saved."
 msgstr "此影像包含<b>參考圖</b>。參考圖將不被儲存。"
 
-#: libs/ui/KisImportExportManager.cpp:477
+#: libs/ui/KisImportExportManager.cpp:496
 #, kde-format
 msgctxt "image conversion warning"
 msgid "The image contains <b>guides</b>. The guides will not be saved."
 msgstr "此影像包含<b> 參考線 </b>。參考線將不被儲存。"
 
-#: libs/ui/KisImportExportManager.cpp:480
+#: libs/ui/KisImportExportManager.cpp:499
 #, kde-format
 msgctxt "image conversion warning"
 msgid ""
@@ -17787,47 +17787,47 @@ msgid ""
 "will not be saved."
 msgstr "此影像包含<b>自訂網格設定</b>。自訂網格設定將不被儲存。"
 
-#: libs/ui/KisImportExportManager.cpp:485
+#: libs/ui/KisImportExportManager.cpp:504
 #, kde-format
 msgid "Error: cannot save this image as a %1."
 msgstr "錯誤：無法將此影像儲存為 %1。"
 
-#: libs/ui/KisImportExportManager.cpp:486
-#: libs/ui/KisImportExportManager.cpp:534
+#: libs/ui/KisImportExportManager.cpp:505
+#: libs/ui/KisImportExportManager.cpp:553
 #, kde-format
 msgid "Reasons:"
 msgstr "原因："
 
-#: libs/ui/KisImportExportManager.cpp:494
+#: libs/ui/KisImportExportManager.cpp:513
 #, kde-format
 msgctxt "@title:window"
 msgid "Krita: Export Error"
 msgstr "Krita：匯出錯誤"
 
-#: libs/ui/KisImportExportManager.cpp:517
+#: libs/ui/KisImportExportManager.cpp:536
 #, kde-format
 msgctxt "Keep the extra space at the end of the sentence, please"
 msgid "Warning: saving as %1 will lose information from your image.    "
 msgstr "警告：儲存為 %1 將遺失影像中的訊息。    "
 
-#: libs/ui/KisImportExportManager.cpp:528
+#: libs/ui/KisImportExportManager.cpp:547
 #, kde-format
 msgid "You will lose information when saving this image as a %1."
 msgstr "將此影像儲存為 %1 時將遺失訊息。"
 
-#: libs/ui/KisImportExportManager.cpp:531
+#: libs/ui/KisImportExportManager.cpp:550
 #, kde-format
 msgid "Reason:"
 msgstr "原因："
 
 #. i18n: ectx: attribute (title), widget (QWidget, textureOptionsTab)
-#: libs/ui/KisImportExportManager.cpp:547
+#: libs/ui/KisImportExportManager.cpp:566
 #: plugins/paintops/libpaintop/forms/wdgtexturechooser.ui:59
 #, kde-format
 msgid "Options"
 msgstr "選項"
 
-#: libs/ui/KisImportExportManager.cpp:556
+#: libs/ui/KisImportExportManager.cpp:575
 #, kde-format
 msgid "Also save your image as a Krita file."
 msgstr "請將影像另存為 Krita 格式檔案。"
@@ -21747,7 +21747,7 @@ msgstr "模糊："
 #. i18n: ectx: property (text), widget (QLabel, shadowDistanceLabel)
 #: libs/widgets/KoShadowConfigWidget.ui:84
 #: plugins/flake/textshape/dialogs/FontDecorations.ui:257
-#: plugins/tools/basictools/kis_tool_brush.cc:341
+#: plugins/tools/basictools/kis_tool_brush.cc:337
 #: plugins/tools/basictools/kis_tool_measure.cc:53
 #, kde-format
 msgid "Distance:"
@@ -39285,71 +39285,71 @@ msgctxt "(qtundo-format)"
 msgid "Freehand Brush Stroke"
 msgstr "手繪筆刷筆畫"
 
-#: plugins/tools/basictools/kis_tool_brush.cc:326
+#: plugins/tools/basictools/kis_tool_brush.cc:322
 #, kde-format
 msgctxt "@item:inlistbox Brush Smoothing"
 msgid "None"
 msgstr "無"
 
-#: plugins/tools/basictools/kis_tool_brush.cc:327
+#: plugins/tools/basictools/kis_tool_brush.cc:323
 #, kde-format
 msgctxt "@item:inlistbox Brush Smoothing"
 msgid "Basic"
 msgstr "基本"
 
-#: plugins/tools/basictools/kis_tool_brush.cc:328
+#: plugins/tools/basictools/kis_tool_brush.cc:324
 #, kde-format
 msgctxt "@item:inlistbox Brush Smoothing"
 msgid "Weighted"
 msgstr "權衡"
 
-#: plugins/tools/basictools/kis_tool_brush.cc:329
+#: plugins/tools/basictools/kis_tool_brush.cc:325
 #, kde-format
 msgctxt "@item:inlistbox Brush Smoothing"
 msgid "Stabilizer"
 msgstr "防抖"
 
-#: plugins/tools/basictools/kis_tool_brush.cc:331
+#: plugins/tools/basictools/kis_tool_brush.cc:327
 #, kde-format
 msgid "Brush Smoothing:"
 msgstr "筆刷平滑："
 
-#: plugins/tools/basictools/kis_tool_brush.cc:355
+#: plugins/tools/basictools/kis_tool_brush.cc:351
 #, kde-format
 msgid "Delay:"
 msgstr "延遲："
 
-#: plugins/tools/basictools/kis_tool_brush.cc:360
+#: plugins/tools/basictools/kis_tool_brush.cc:356
 #, kde-format
 msgid "Delay the brush stroke to make the line smoother"
 msgstr "延遲筆畫響應以平滑線條"
 
-#: plugins/tools/basictools/kis_tool_brush.cc:364
+#: plugins/tools/basictools/kis_tool_brush.cc:360
 #, kde-format
 msgid "Radius where the brush is blocked"
 msgstr "筆刷延遲的半徑大小"
 
-#: plugins/tools/basictools/kis_tool_brush.cc:371
+#: plugins/tools/basictools/kis_tool_brush.cc:367
 #, kde-format
 msgid "Finish line:"
 msgstr "筆末挑尖："
 
-#: plugins/tools/basictools/kis_tool_brush.cc:384
+#: plugins/tools/basictools/kis_tool_brush.cc:380
 #, kde-format
 msgid "Stabilize Sensors:"
 msgstr "穩定感測器："
 
-#: plugins/tools/basictools/kis_tool_brush.cc:392
+#: plugins/tools/basictools/kis_tool_brush.cc:388
 #, kde-format
 msgid "Stroke Ending:"
 msgstr "筆末跟隨："
 
-#: plugins/tools/basictools/kis_tool_brush.cc:399
+#: plugins/tools/basictools/kis_tool_brush.cc:395
 #, kde-format
 msgid "Smooth Pressure"
 msgstr "平滑壓力"
 
-#: plugins/tools/basictools/kis_tool_brush.cc:406
+#: plugins/tools/basictools/kis_tool_brush.cc:402
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -39357,37 +39357,37 @@ msgid ""
 "visually constant whatever zoom level is chosen"
 msgstr "按照畫布縮放比例縮放距離，使任意畫布縮放下的距離在視覺上一致"
 
-#: plugins/tools/basictools/kis_tool_brush.cc:411
+#: plugins/tools/basictools/kis_tool_brush.cc:407
 #, kde-format
 msgid "Scalable Distance"
 msgstr "隨檢視縮放距離"
 
-#: plugins/tools/basictools/kis_tool_brush.cc:427
+#: plugins/tools/basictools/kis_tool_brush.cc:423
 #, kde-format
 msgid "Snap to Assistants"
 msgstr "吸附到輔助尺"
 
-#: plugins/tools/basictools/kis_tool_brush.cc:429
+#: plugins/tools/basictools/kis_tool_brush.cc:425
 #, kde-format
 msgid "You need to add Assistants before this tool will work."
 msgstr "此工具在新增輔助尺後才能作業。"
 
-#: plugins/tools/basictools/kis_tool_brush.cc:434
+#: plugins/tools/basictools/kis_tool_brush.cc:430
 #, kde-format
 msgid "Assistant Magnetism"
 msgstr "輔助尺磁性"
 
-#: plugins/tools/basictools/kis_tool_brush.cc:440
+#: plugins/tools/basictools/kis_tool_brush.cc:436
 #, kde-format
 msgid "Magnetism:"
 msgstr "磁性："
 
-#: plugins/tools/basictools/kis_tool_brush.cc:443
+#: plugins/tools/basictools/kis_tool_brush.cc:439
 #, kde-format
 msgid "Snap Single:"
 msgstr "單一吸附："
 
-#: plugins/tools/basictools/kis_tool_brush.cc:446
+#: plugins/tools/basictools/kis_tool_brush.cc:442
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""

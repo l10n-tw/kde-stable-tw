@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-30 07:37+0200\n"
+"POT-Creation-Date: 2019-10-06 07:43+0200\n"
 "PO-Revision-Date: 2019-07-24 23:06+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
@@ -1196,6 +1196,13 @@ msgctxt "view settings height scale"
 msgid "Height scale at %0%"
 msgstr "%0% 的高度比例"
 
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:274
+#, fuzzy, kde-format
+#| msgctxt "latte indicator style"
+#| msgid "Latte"
+msgid "Latte"
+msgstr "Latte"
+
 #: shell/package/contents/configuration/LatteDockConfiguration.qml:301
 #, kde-format
 msgid "Open Latte settings window"
@@ -2360,6 +2367,26 @@ msgstr "從網際網路下載指示器樣式"
 #, kde-format
 msgid "Download"
 msgstr "下載"
+
+#: shell/package/contents/controls/CustomIndicatorButton.qml:143
+#, fuzzy, kde-format
+#| msgid "Remove Indicator"
+msgid "Remove indicator"
+msgstr "移除指示器"
+
+#: shell/package/contents/controls/CustomIndicatorButton.qml:197
+#, fuzzy, kde-format
+#| msgctxt "add indicator"
+#| msgid "Add Indicator"
+msgid "Add Indicator..."
+msgstr "新增指示器"
+
+#: shell/package/contents/controls/CustomIndicatorButton.qml:207
+#, fuzzy, kde-format
+#| msgctxt "add indicator file"
+#| msgid "Latte Indicator"
+msgid "Get New Indicators..."
+msgstr "Latte 指示器"
 
 #: shell/package/contents/controls/TypeSelection.qml:67
 #, kde-format

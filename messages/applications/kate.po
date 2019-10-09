@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-06 07:42+0200\n"
+"POT-Creation-Date: 2019-10-09 07:53+0200\n"
 "PO-Revision-Date: 2019-04-17 00:40+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
@@ -698,52 +698,52 @@ msgstr "顯示邊列(&B)"
 msgid "Show %1"
 msgstr "顯示 %1"
 
-#: katemdi.cpp:507
+#: katemdi.cpp:513
 #, kde-format
 msgid "Configure ..."
 msgstr "設定 ..."
 
-#: katemdi.cpp:511
+#: katemdi.cpp:517
 #, kde-format
 msgid "Behavior"
 msgstr "行為"
 
-#: katemdi.cpp:514
+#: katemdi.cpp:520
 #, kde-format
 msgid "Make Non-Persistent"
 msgstr "使用非持續的"
 
-#: katemdi.cpp:514
+#: katemdi.cpp:520
 #, kde-format
 msgid "Make Persistent"
 msgstr "使用持續的"
 
-#: katemdi.cpp:516
+#: katemdi.cpp:522
 #, kde-format
 msgid "Move To"
 msgstr "移動到"
 
-#: katemdi.cpp:519
+#: katemdi.cpp:525
 #, kde-format
 msgid "Left Sidebar"
 msgstr "左方邊列"
 
-#: katemdi.cpp:523
+#: katemdi.cpp:529
 #, kde-format
 msgid "Right Sidebar"
 msgstr "右方邊列"
 
-#: katemdi.cpp:527
+#: katemdi.cpp:533
 #, kde-format
 msgid "Top Sidebar"
 msgstr "頂端邊列"
 
-#: katemdi.cpp:531
+#: katemdi.cpp:537
 #, kde-format
 msgid "Bottom Sidebar"
 msgstr "底部邊列"
 
-#: katemdi.cpp:868
+#: katemdi.cpp:874
 #, kde-format
 msgid ""
 "<qt>You are about to hide the sidebars. With hidden sidebars it is not "

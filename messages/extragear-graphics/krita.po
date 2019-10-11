@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-10 07:44+0200\n"
+"POT-Creation-Date: 2019-10-11 07:58+0200\n"
 "PO-Revision-Date: 2019-10-02 15:54+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
@@ -28422,22 +28422,17 @@ msgstr "270 度(&G)"
 msgid "&Custom:"
 msgstr "自訂(&C)："
 
-#: plugins/extensions/separate_channels/dlg_separate.cc:39
+#: plugins/extensions/separate_channels/dlg_separate.cc:41
 #: plugins/extensions/separate_channels/kis_separate_channels_plugin.cc:74
 #: plugins/extensions/separate_channels/kis_separate_channels_plugin.cc:86
 #, kde-format
 msgid "Separate Image"
 msgstr "分離影像"
 
-#: plugins/extensions/separate_channels/kis_channel_separator.cc:210
+#: plugins/extensions/separate_channels/kis_channel_separator.cc:203
 msgctxt "(qtundo-format)"
 msgid "Separate Image"
 msgstr "分離影像"
-
-#: plugins/extensions/separate_channels/kis_channel_separator.cc:238
-#, kde-format
-msgid "Export Layer"
-msgstr "匯出圖層"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
 #: plugins/extensions/separate_channels/wdg_separations.ui:19
@@ -28464,62 +28459,56 @@ msgstr "目前圖層"
 msgid "Flatten all layers before separation"
 msgstr "分離前平整全部圖層"
 
-#. i18n: ectx: property (title), widget (QGroupBox, grpOutput)
-#: plugins/extensions/separate_channels/wdg_separations.ui:84
-#: plugins/python/scripter/ui_scripter/actions/runaction/runaction.py:46
-#: plugins/python/scripter/ui_scripter/actions/runaction/runaction.py:68
-#: plugins/python/scripter/ui_scripter/tabwidgets/outputwidget/outputwidget.py:28
-#, kde-format
-msgid "Output"
-msgstr "輸出"
-
-#. i18n: ectx: property (text), widget (QRadioButton, radioLayers)
-#: plugins/extensions/separate_channels/wdg_separations.ui:90
-#, kde-format
-msgid "To layers"
-msgstr "到圖層"
-
-#. i18n: ectx: property (text), widget (QRadioButton, radioImages)
-#: plugins/extensions/separate_channels/wdg_separations.ui:100
-#, kde-format
-msgid "To images"
-msgstr "到影像"
-
 #. i18n: ectx: property (title), widget (QGroupBox, grpAlpha)
-#: plugins/extensions/separate_channels/wdg_separations.ui:112
+#: plugins/extensions/separate_channels/wdg_separations.ui:86
 #, kde-format
 msgid "Alpha Options"
 msgstr "透明度選項"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioCopyAlpha)
-#: plugins/extensions/separate_channels/wdg_separations.ui:118
+#: plugins/extensions/separate_channels/wdg_separations.ui:92
 #, kde-format
 msgid "Copy alpha channel to each separated channel as an alpha channel"
 msgstr "將透明度色板複製為每個色彩色板各自的透明度色板"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioDiscardAlpha)
-#: plugins/extensions/separate_channels/wdg_separations.ui:125
+#: plugins/extensions/separate_channels/wdg_separations.ui:99
 #, kde-format
 msgid "Discard alpha channel"
 msgstr "拋棄透明度色板"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioSeparateAlpha)
-#: plugins/extensions/separate_channels/wdg_separations.ui:135
+#: plugins/extensions/separate_channels/wdg_separations.ui:109
 #, kde-format
 msgid "Create separate separation from alpha channel"
 msgstr "建立各色彩色板獨立於透明度色板的分離"
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkDownscale)
-#: plugins/extensions/separate_channels/wdg_separations.ui:145
+#: plugins/extensions/separate_channels/wdg_separations.ui:119
 #, kde-format
 msgid "Downscale to 8-bit before separating"
 msgstr "分離前將色板降為 8 位"
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkColors)
-#: plugins/extensions/separate_channels/wdg_separations.ui:152
+#: plugins/extensions/separate_channels/wdg_separations.ui:126
 #, kde-format
 msgid "Output to color, not grayscale"
 msgstr "輸出為彩色而非灰階"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, chkActivateCurrentChannel)
+#: plugins/extensions/separate_channels/wdg_separations.ui:133
+#, kde-format
+msgid ""
+"Activate only the current channel for the new node, deactivate all other "
+"channels."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, chkActivateCurrentChannel)
+#: plugins/extensions/separate_channels/wdg_separations.ui:136
+#, fuzzy, kde-format
+#| msgid "Save the current script"
+msgid "Activate the current channel"
+msgstr "儲存目前指令稿"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, WdgShearImage)
 #: plugins/extensions/shearimage/dlg_shearimage.cc:32
@@ -38947,6 +38936,12 @@ msgstr "不存在已有檔案"
 msgid "Please specify a document by opening it before reloading"
 msgstr "請在重新載入之前先開啟一個檔案以指定它。"
 
+#: plugins/python/scripter/ui_scripter/actions/runaction/runaction.py:46
+#: plugins/python/scripter/ui_scripter/actions/runaction/runaction.py:68
+#: plugins/python/scripter/ui_scripter/tabwidgets/outputwidget/outputwidget.py:28
+msgid "Output"
+msgstr "輸出"
+
 #: plugins/python/scripter/ui_scripter/actions/runaction/runaction.py:50
 msgid "Run"
 msgstr "執行"
@@ -42315,6 +42310,15 @@ msgstr "顯示原始輪廓"
 #, kde-format
 msgid "Work Recursively"
 msgstr "以遞迴方式作業"
+
+#~ msgid "Export Layer"
+#~ msgstr "匯出圖層"
+
+#~ msgid "To layers"
+#~ msgstr "到圖層"
+
+#~ msgid "To images"
+#~ msgstr "到影像"
 
 #~ msgid "Krita does not support this file format"
 #~ msgstr "Krita 不支援此檔案格式"

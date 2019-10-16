@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalarm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-11 08:06+0200\n"
+"POT-Creation-Date: 2019-10-16 07:54+0200\n"
 "PO-Revision-Date: 2018-05-19 11:56+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
@@ -1097,43 +1097,43 @@ msgctxt "@title:window"
 msgid "Defer Alarm"
 msgstr "延遲鬧鐘"
 
-#: deferdlg.cpp:62
+#: deferdlg.cpp:61
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Defer the alarm until the specified time."
 msgstr "將鬧鐘延遲到指定的時間。"
 
-#: deferdlg.cpp:65
+#: deferdlg.cpp:64
 #, kde-format
 msgctxt "@action:button"
 msgid "Cancel Deferral"
 msgstr "取消延遲"
 
-#: deferdlg.cpp:66
+#: deferdlg.cpp:65
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Cancel the deferred alarm. This does not affect future recurrences."
 msgstr "取消延遲鬧鐘。這不會影響到將來的循環。"
 
-#: deferdlg.cpp:109
+#: deferdlg.cpp:108
 #, kde-format
 msgctxt "@info"
 msgid "Cannot defer past the alarm's next sub-repetition (currently %1)"
 msgstr "您不能將鬧鐘延遲設定到超過鬧鐘下一次子重覆的時間（目前：%1）"
 
-#: deferdlg.cpp:113
+#: deferdlg.cpp:112
 #, kde-format
 msgctxt "@info"
 msgid "Cannot defer past the alarm's next recurrence (currently %1)"
 msgstr "您不能將鬧鐘延遲設定到超過鬧鐘下一次循環的時間（目前：%1）"
 
-#: deferdlg.cpp:117
+#: deferdlg.cpp:116
 #, kde-format
 msgctxt "@info"
 msgid "Cannot defer past the alarm's next reminder (currently %1)"
 msgstr "您不能將鬧鐘延遲設定到超過鬧鐘下一次提醒訊息的時間（目前：%1）"
 
-#: deferdlg.cpp:121
+#: deferdlg.cpp:120
 #, kde-format
 msgctxt "@info"
 msgid "Cannot defer reminder past the main alarm time (%1)"

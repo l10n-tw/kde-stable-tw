@@ -627,7 +627,8 @@ msgstr "掛載的共享(&S)"
 msgid ""
 "<qt>Closing the main window will keep Smb4K running in the system tray. Use "
 "<i>Quit</i> from the <i>File</i> menu to quit the application.</qt>"
-msgstr "關閉主視窗後 Smb4K 將在系統匣中繼續執行。可用檔案選單中的離開來退出程式。"
+msgstr ""
+"關閉主視窗後 Smb4K 將在系統匣中繼續執行。可用檔案選單中的離開來退出程式。"
 
 #: smb4k/smb4kmainwindow.cpp:444
 #, fuzzy, kde-format

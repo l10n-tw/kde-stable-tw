@@ -2,6 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: pan 93412\n"
+"PO-Revision-Date: 2019-10-19 15:18+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
 "Language: zh_TW\n"
@@ -10,7 +11,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"PO-Revision-Date: 2019-10-19 15:18+0800\n"
 "X-Generator: Lokalize 19.08.2\n"
 
 #: gstreamer/backend.cpp:220

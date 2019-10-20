@@ -2,6 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: pan 93412\n"
+"PO-Revision-Date: 2019-10-19 15:18+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
 "Language: zh_TW\n"
@@ -10,7 +11,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"PO-Revision-Date: 2019-10-19 15:18+0800\n"
 "X-Generator: Lokalize 19.08.2\n"
 
 #: backendselection.ui:151 backendselection.ui:154
@@ -133,7 +133,8 @@ msgctxt "DevicePreference|"
 msgid ""
 "Various categories of media use cases.  For each category, you may choose "
 "what device you prefer to be used by the Phonon applications."
-msgstr "各種類別的媒體使用案例。每個類別您可以選擇 Phonon 應用程式要使用哪個裝置。"
+msgstr ""
+"各種類別的媒體使用案例。每個類別您可以選擇 Phonon 應用程式要使用哪個裝置。"
 
 #: devicepreference.ui:47
 msgctxt "DevicePreference|"
@@ -155,7 +156,8 @@ msgctxt "DevicePreference|"
 msgid ""
 "Devices found on your system, suitable for the selected category.  Choose "
 "the device that you wish to be used by the applications."
-msgstr "在您的系統上找到了裝置，可用於選取的類別。請選擇此應用程式要使用哪一個裝置。"
+msgstr ""
+"在您的系統上找到了裝置，可用於選取的類別。請選擇此應用程式要使用哪一個裝置。"
 
 #: devicepreference.ui:116
 msgctxt "DevicePreference|"

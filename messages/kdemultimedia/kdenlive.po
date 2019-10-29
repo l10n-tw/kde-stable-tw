@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kdenlive 16.08.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-20 07:39+0200\n"
+"POT-Creation-Date: 2019-10-29 07:47+0100\n"
 "PO-Revision-Date: 2019-05-14 22:35+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
@@ -11411,23 +11411,23 @@ msgstr ""
 msgid "Invalid composition %1 found on track %2 at %3."
 msgstr "從 %2 的軌道 %1 中移除無效的素材\n"
 
-#: src/timeline2/model/builders/meltBuilder.cpp:188
+#: src/timeline2/model/builders/meltBuilder.cpp:192
 #, fuzzy, kde-format
 #| msgid "Default folder for project files"
 msgid "Problems found in your project file"
 msgstr "項目檔案的預設檔案夾"
 
-#: src/timeline2/model/builders/meltBuilder.cpp:302
+#: src/timeline2/model/builders/meltBuilder.cpp:306
 #, kde-format
 msgid "Invalid clip %1 (%2) not found in project bin, recovered."
 msgstr ""
 
-#: src/timeline2/model/builders/meltBuilder.cpp:305
+#: src/timeline2/model/builders/meltBuilder.cpp:309
 #, kde-format
 msgid "Project corrupted. Clip %1 (%2) not found in project bin."
 msgstr ""
 
-#: src/timeline2/model/builders/meltBuilder.cpp:326
+#: src/timeline2/model/builders/meltBuilder.cpp:330
 #, fuzzy, kde-format
 #| msgid "Invalid clip removed from track %1 at %2\n"
 msgid "Invalid clip %1 found on track %2 at %3."

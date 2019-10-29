@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-24 07:46+0200\n"
+"POT-Creation-Date: 2019-10-29 07:54+0100\n"
 "PO-Revision-Date: 2019-09-22 18:52+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
@@ -36,45 +36,45 @@ msgstr "密碼"
 msgid "Log In"
 msgstr "登入"
 
-#: ../sddm-theme/Main.qml:191 contents/lockscreen/LockScreenUi.qml:234
+#: ../sddm-theme/Main.qml:192 contents/lockscreen/LockScreenUi.qml:236
 msgid "Caps Lock is on"
 msgstr "大寫鎖定已開啟"
 
-#: ../sddm-theme/Main.qml:203 ../sddm-theme/Main.qml:383
+#: ../sddm-theme/Main.qml:204 ../sddm-theme/Main.qml:384
 #: contents/logout/Logout.qml:177
 msgctxt "Suspend to RAM"
 msgid "Sleep"
 msgstr "睡眠"
 
-#: ../sddm-theme/Main.qml:210 ../sddm-theme/Main.qml:390
+#: ../sddm-theme/Main.qml:211 ../sddm-theme/Main.qml:391
 #: contents/logout/Logout.qml:195
 msgid "Restart"
 msgstr "重新啟動"
 
-#: ../sddm-theme/Main.qml:217 ../sddm-theme/Main.qml:397
+#: ../sddm-theme/Main.qml:218 ../sddm-theme/Main.qml:398
 #: contents/logout/Logout.qml:205
 msgid "Shut Down"
 msgstr "關機"
 
-#: ../sddm-theme/Main.qml:224
+#: ../sddm-theme/Main.qml:225
 msgctxt "For switching to a username and password prompt"
 msgid "Other..."
 msgstr "其他…"
 
-#: ../sddm-theme/Main.qml:371
+#: ../sddm-theme/Main.qml:372
 msgid "Type in Username and Password"
 msgstr "請在「使用者名稱」和「密碼」框中輸入"
 
-#: ../sddm-theme/Main.qml:404
+#: ../sddm-theme/Main.qml:405
 msgid "List Users"
 msgstr "列出使用者"
 
-#: ../sddm-theme/Main.qml:429 contents/lockscreen/LockScreenUi.qml:499
+#: ../sddm-theme/Main.qml:430 contents/lockscreen/LockScreenUi.qml:501
 msgctxt "Button to show/hide virtual keyboard"
 msgid "Virtual Keyboard"
 msgstr "虛擬鍵盤"
 
-#: ../sddm-theme/Main.qml:454
+#: ../sddm-theme/Main.qml:455
 msgid "Login Failed"
 msgstr "登入失敗"
 
@@ -124,23 +124,23 @@ msgctxt "verb, to show something"
 msgid "Show"
 msgstr "顯示"
 
-#: contents/lockscreen/LockScreenUi.qml:42
+#: contents/lockscreen/LockScreenUi.qml:44
 msgid "Unlocking failed"
 msgstr "解除鎖定失敗"
 
-#: contents/lockscreen/LockScreenUi.qml:250
+#: contents/lockscreen/LockScreenUi.qml:252
 msgid "Switch User"
 msgstr "切換使用者"
 
-#: contents/lockscreen/LockScreenUi.qml:447
+#: contents/lockscreen/LockScreenUi.qml:449
 msgid "Switch to This Session"
 msgstr "切換至此工作階段"
 
-#: contents/lockscreen/LockScreenUi.qml:455
+#: contents/lockscreen/LockScreenUi.qml:457
 msgid "Start New Session"
 msgstr "開始新的作業階段"
 
-#: contents/lockscreen/LockScreenUi.qml:468
+#: contents/lockscreen/LockScreenUi.qml:470
 msgid "Back"
 msgstr "返回"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-27 06:55+0100\n"
+"POT-Creation-Date: 2019-10-29 07:52+0100\n"
 "PO-Revision-Date: 2019-08-31 19:01+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
@@ -82,27 +82,48 @@ msgstr "有可用的更新"
 msgid "New version: %1"
 msgstr "新版本：%1"
 
-#: notifier/main.cpp:51 notifier/main.cpp:52
+#: notifier/main.cpp:57
+#, kde-format
+msgid "Discover Notifier"
+msgstr ""
+
+#: notifier/main.cpp:57
+#, fuzzy, kde-format
+#| msgid "System up to date"
+msgid "System update status notifier"
+msgstr "系統已更新"
+
+#: notifier/main.cpp:58
+#, kde-format
+msgid "© 2010-2019 Plasma Development Team"
+msgstr ""
+
+#: notifier/main.cpp:65
+#, kde-format
+msgid "Replace an existing instance"
+msgstr ""
+
+#: notifier/main.cpp:88 notifier/main.cpp:89
 #, kde-format
 msgid "Updates"
 msgstr "更新"
 
-#: notifier/main.cpp:67
+#: notifier/main.cpp:104
 #, kde-format
 msgid "Open Software Center..."
 msgstr "開啟軟體中心…"
 
-#: notifier/main.cpp:70
+#: notifier/main.cpp:107
 #, kde-format
 msgid "See Updates..."
 msgstr "檢視更新…"
 
-#: notifier/main.cpp:73
+#: notifier/main.cpp:110
 #, kde-format
 msgid "Refresh..."
 msgstr "重新整理…"
 
-#: notifier/main.cpp:77
+#: notifier/main.cpp:114
 #, kde-format
 msgid "Restart..."
 msgstr "重新啟動…"

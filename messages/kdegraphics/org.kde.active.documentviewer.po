@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-30 07:44+0200\n"
+"POT-Creation-Date: 2019-11-02 08:12+0100\n"
 "PO-Revision-Date: 2018-05-19 11:54+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
@@ -23,13 +23,19 @@ msgstr ""
 msgid "Okular"
 msgstr "Okular"
 
-#: package/contents/ui/main.qml:46 package/contents/ui/main.qml:54
+#: package/contents/ui/main.qml:46
 msgid "Open..."
 msgstr "開啟…"
 
-#: package/contents/ui/main.qml:67
-msgid "Document to open..."
-msgstr "開啟檔案…"
+#: package/contents/ui/MainView.qml:36
+msgid "Remove bookmark"
+msgstr ""
+
+#: package/contents/ui/MainView.qml:36
+#, fuzzy
+#| msgid "Bookmarks"
+msgid "Bookmark this page"
+msgstr "書籤"
 
 #: package/contents/ui/OkularDrawer.qml:71
 msgid "Thumbnails"
@@ -43,6 +49,14 @@ msgstr "主目錄"
 msgid "Bookmarks"
 msgstr "書籤"
 
+#: package/contents/ui/TableOfContents.qml:38
+#: package/contents/ui/Thumbnails.qml:33
+msgid "Search..."
+msgstr ""
+
 #: package/contents/ui/ThumbnailsBase.qml:47
 msgid "No results found."
 msgstr "找不到資料。"
+
+#~ msgid "Document to open..."
+#~ msgstr "開啟檔案…"

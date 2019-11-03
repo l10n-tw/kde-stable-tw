@@ -15,14 +15,14 @@ msgstr ""
 "Project-Id-Version: okular\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-02 08:12+0100\n"
-"PO-Revision-Date: 2019-07-25 00:49+0800\n"
+"PO-Revision-Date: 2019-11-03 14:17+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 19.07.80\n"
+"X-Generator: Lokalize 19.08.2\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #, kde-format
@@ -190,13 +190,13 @@ msgstr "對比："
 #: conf/dlgaccessibilitybase.ui:357
 #, kde-format
 msgid "Speech"
-msgstr ""
+msgstr "語音"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: conf/dlgaccessibilitybase.ui:363
 #, kde-format
 msgid "Engine"
-msgstr ""
+msgstr "引擎"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: conf/dlgannotationsbase.ui:31
@@ -500,8 +500,7 @@ msgstr "自動調適"
 msgid ""
 "Keeps used memory as low as possible. Do not reuse anything. (For systems "
 "with low memory.)"
-msgstr ""
-"盡量減少記憶體使用量。不要重複使用任何東西。（給記憶體較少的系統用的。）"
+msgstr "盡量減少記憶體使用量。不要重複使用任何東西。（給記憶體較少的系統用的。）"
 
 #: conf/dlgperformance.cpp:58
 #, kde-format
@@ -1483,12 +1482,12 @@ msgstr "縮放模式："
 #: core/script/kjs_app.cpp:170
 #, kde-format
 msgid "Missing alert type"
-msgstr ""
+msgstr "缺少通知類型"
 
 #: core/script/kjs_app.cpp:225
 #, kde-format
 msgid "Do not show this message again"
-msgstr ""
+msgstr "請勿再次顯示此訊息"
 
 #: core/sourcereference.cpp:102
 #, kde-format
@@ -1876,8 +1875,7 @@ msgstr "此文件有表單。點擊按鈕可以查看，或是到「檢視」─
 msgid ""
 "All editing and interactive features for this document are disabled. Please "
 "save a copy and reopen to edit this document."
-msgstr ""
-"已在此文件停用所有編輯與互動功能。請儲存副本並重新開啟檔案即可編輯此文件。"
+msgstr "已在此文件停用所有編輯與互動功能。請儲存副本並重新開啟檔案即可編輯此文件。"
 
 #: part.cpp:1622
 #, kde-format
@@ -2268,8 +2266,7 @@ msgstr ""
 msgid ""
 "<qt>This error typically occurs if the file is corrupt. If you want to be "
 "sure, try to decompress the file manually using command-line tools.</qt>"
-msgstr ""
-"<qt>這個錯誤通常是因為檔案已損毀。您可以試著在命令列直接解壓此檔看看。</qt>"
+msgstr "<qt>這個錯誤通常是因為檔案已損毀。您可以試著在命令列直接解壓此檔看看。</qt>"
 
 #: part.cpp:3616
 #, kde-format
@@ -2592,33 +2589,33 @@ msgstr "修改時間：%1"
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Select a custom stamp symbol from file"
-msgstr ""
+msgstr "從檔案選取自訂印花標記"
 
 #: ui/annotationwidgets.cpp:161
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Annotation tool"
 #| msgid "Put a stamp symbol"
 msgctxt "@title:window file chooser"
 msgid "Select custom stamp symbol"
-msgstr "放置印花標記"
+msgstr "選取自訂印花標記"
 
 #: ui/annotationwidgets.cpp:162
 #, kde-format
 msgid ""
 "*.ico *.png *.xpm *.svg *.svgz | Icon Files (*.ico *.png *.xpm *.svg *.svgz)"
-msgstr ""
+msgstr "*.ico *.png *.xpm *.svg *.svgz | 圖示檔 (*.ico *.png *.xpm *.svg *.svgz)"
 
 #: ui/annotationwidgets.cpp:168
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Could not load the file <filename>%1</filename>"
-msgstr ""
+msgstr "無法載入 <filename>%1</filename> 檔案"
 
 #: ui/annotationwidgets.cpp:169
 #, kde-format
 msgctxt "@title:window"
 msgid "Invalid file"
-msgstr ""
+msgstr "檔案無效"
 
 #: ui/annotationwidgets.cpp:275
 #, kde-format
@@ -2707,6 +2704,8 @@ msgid ""
 "<warning>experimental feature.<nl/>Stamps inserted in PDF documents are not "
 "visible in PDF readers other than Okular.</warning>"
 msgstr ""
+"<warning>實驗性功能。<nl/>插入 PDF 文件的印花，不能在 Okular 以外的PDF 閱讀器"
+"中顯示。</warning>"
 
 #: ui/annotationwidgets.cpp:446
 #, kde-format
@@ -3715,7 +3714,7 @@ msgstr "停止語音"
 #: ui/pageview.cpp:717
 #, kde-format
 msgid "Pause/Resume Speaking"
-msgstr ""
+msgstr "暫停/繼續說話"
 
 #: ui/pageview.cpp:729
 #, kde-format
@@ -3850,10 +3849,10 @@ msgid "Copy Link Address"
 msgstr "複製連結位址"
 
 #: ui/pageview.cpp:4589
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Search for '%1' with"
 msgid "Search for '%1' in this document"
-msgstr "搜尋 %1 於？"
+msgstr "在這個文件搜尋「%1」"
 
 #: ui/pageview.cpp:5081
 #, kde-format
@@ -4218,7 +4217,7 @@ msgstr "是"
 #, kde-format
 msgctxt "Replacing missing font with another one"
 msgid "%1 (substituting with %2)"
-msgstr ""
+msgstr "%1（使用 %2 取代）"
 
 #: ui/propertiesdialog.cpp:364
 #, kde-format

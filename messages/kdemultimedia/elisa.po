@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: elisa\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-08-30 07:39+0200\n"
-"PO-Revision-Date: 2019-10-09 22:27+0800\n"
+"PO-Revision-Date: 2019-11-03 14:19+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
 "Language: Traditional Chinese\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 19.08.1\n"
+"X-Generator: Lokalize 19.08.2\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -401,7 +401,7 @@ msgstr "播放清單 (*.m3u)"
 #, kde-format
 msgctxt "message of passive notification when playlist load failed"
 msgid "Save of playlist failed"
-msgstr ""
+msgstr "儲存播放清單失敗"
 
 #: qml/MediaPlayListView.qml:111
 #, kde-format
@@ -511,13 +511,13 @@ msgstr "加入清單"
 #, kde-format
 msgctxt "Clear playlist and play"
 msgid "Replace and Play"
-msgstr ""
+msgstr "取代後播放"
 
 #: qml/NavigationActionBar.qml:203
 #, kde-format
 msgctxt "Clear playlist and add current list to it"
 msgid "Replace PlayList and Play Now"
-msgstr ""
+msgstr "取代播放列表後立即播放"
 
 #: qml/NavigationActionBar.qml:221
 #, kde-format
@@ -529,19 +529,19 @@ msgstr "顯示藝人"
 #, kde-format
 msgctxt "before the TextField input of the filter"
 msgid "Search: "
-msgstr ""
+msgstr "搜尋："
 
 #: qml/NavigationActionBar.qml:291
 #, kde-format
 msgctxt "Placeholder text in the filter text box"
 msgid "Album name, artist, etc."
-msgstr ""
+msgstr "專輯名稱、作家等等。"
 
 #: qml/NavigationActionBar.qml:333
 #, kde-format
 msgctxt "before the Rating widget input of the filter"
 msgid "Rating: "
-msgstr ""
+msgstr "評分："
 
 #: qml/PlayListEntry.qml:63
 #, kde-format

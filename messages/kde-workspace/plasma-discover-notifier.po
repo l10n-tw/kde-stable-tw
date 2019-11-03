@@ -51,7 +51,6 @@ msgstr "離線"
 
 #: notifier/DiscoverNotifier.cpp:183
 #, kde-format
-#| msgid "Restart..."
 msgctxt "@action:button"
 msgid "Restart"
 msgstr "重新啟動"
@@ -89,7 +88,6 @@ msgstr "Discover 提醒工具"
 
 #: notifier/main.cpp:57
 #, kde-format
-#| msgid "System up to date"
 msgid "System update status notifier"
 msgstr "系統更新狀態提醒工具"
 

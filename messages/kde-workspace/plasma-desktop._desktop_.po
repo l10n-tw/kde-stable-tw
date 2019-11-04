@@ -19,7 +19,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-16 06:01+0000\n"
+"POT-Creation-Date: 2019-11-04 07:09+0000\n"
 "PO-Revision-Date: 2019-08-12 18:49+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
@@ -574,7 +574,7 @@ msgctxt "Comment"
 msgid "Choose Plasma style"
 msgstr "選擇 Plasma 樣式"
 
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:66
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:67
 msgctxt "X-KDE-Keywords"
 msgid "Desktop Theme,Plasma Theme"
 msgstr "Desktop Theme,Plasma Theme,桌面主題,Plasma,主題"
@@ -900,7 +900,7 @@ msgctxt "Comment"
 msgid "Choose global look and feel"
 msgstr "選擇全域「外觀及感覺」"
 
-#: kcms/lookandfeel/kcm_lookandfeel.desktop:67
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:68
 msgctxt "X-KDE-Keywords"
 msgid "theme, look, feel"
 msgstr "theme, look, feel"

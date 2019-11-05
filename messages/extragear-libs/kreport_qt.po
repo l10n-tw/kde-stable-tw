@@ -391,82 +391,82 @@ msgctxt "KReportItemLabel|"
 msgid "Line Style"
 msgstr "線條樣式"
 
-#: items/text/KReportItemText.cpp:113
+#: items/text/KReportItemText.cpp:115
 msgctxt "KReportItemText|"
 msgid "Value"
 msgstr "數值"
 
-#: items/text/KReportItemText.cpp:113
+#: items/text/KReportItemText.cpp:115
 msgctxt "KReportItemText|"
 msgid "Value used if not bound to a field"
 msgstr "若未結合至欄位，則使用此數值"
 
-#: items/text/KReportItemText.cpp:117
+#: items/text/KReportItemText.cpp:119
 msgctxt "KReportItemText|"
 msgid "Left"
 msgstr "置左"
 
-#: items/text/KReportItemText.cpp:117 items/text/KReportItemText.cpp:123
+#: items/text/KReportItemText.cpp:119 items/text/KReportItemText.cpp:125
 msgctxt "KReportItemText|"
 msgid "Center"
 msgstr "置中"
 
-#: items/text/KReportItemText.cpp:117
+#: items/text/KReportItemText.cpp:119
 msgctxt "KReportItemText|"
 msgid "Right"
 msgstr "置右"
 
-#: items/text/KReportItemText.cpp:119
+#: items/text/KReportItemText.cpp:121
 msgctxt "KReportItemText|"
 msgid "Horizontal Alignment"
 msgstr "水平對齊"
 
-#: items/text/KReportItemText.cpp:123
+#: items/text/KReportItemText.cpp:125
 msgctxt "KReportItemText|"
 msgid "Top"
 msgstr "置頂"
 
-#: items/text/KReportItemText.cpp:123
+#: items/text/KReportItemText.cpp:125
 msgctxt "KReportItemText|"
 msgid "Bottom"
 msgstr "置底"
 
-#: items/text/KReportItemText.cpp:125
+#: items/text/KReportItemText.cpp:127
 msgctxt "KReportItemText|"
 msgid "Vertical Alignment"
 msgstr "垂直對齊"
 
-#: items/text/KReportItemText.cpp:127
+#: items/text/KReportItemText.cpp:129
 msgctxt "KReportItemText|"
 msgid "Font"
 msgstr "字型"
 
-#: items/text/KReportItemText.cpp:129
+#: items/text/KReportItemText.cpp:131
 msgctxt "KReportItemText|"
 msgid "Background Color"
 msgstr "背景顏色"
 
-#: items/text/KReportItemText.cpp:130
+#: items/text/KReportItemText.cpp:132
 msgctxt "KReportItemText|"
 msgid "Foreground Color"
 msgstr "前景顏色"
 
-#: items/text/KReportItemText.cpp:132
+#: items/text/KReportItemText.cpp:134
 msgctxt "KReportItemText|"
 msgid "Line Weight"
 msgstr "線條粗細"
 
-#: items/text/KReportItemText.cpp:134
+#: items/text/KReportItemText.cpp:136
 msgctxt "KReportItemText|"
 msgid "Line Color"
 msgstr "線條顏色"
 
-#: items/text/KReportItemText.cpp:135
+#: items/text/KReportItemText.cpp:137
 msgctxt "KReportItemText|"
 msgid "Line Style"
 msgstr "線條樣式"
 
-#: items/text/KReportItemText.cpp:136
+#: items/text/KReportItemText.cpp:138
 msgctxt "KReportItemText|"
 msgid "Background Opacity"
 msgstr "背景不透明度"

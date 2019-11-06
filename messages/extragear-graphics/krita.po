@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-05 07:47+0100\n"
+"POT-Creation-Date: 2019-11-06 07:56+0100\n"
 "PO-Revision-Date: 2019-10-26 23:07+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
@@ -7193,16 +7193,6 @@ msgid ""
 msgstr ""
 "無法載入 WinTab 驅動。如果你的數位板已連結，請確保其驅動程式已正確安裝。"
 
-#: libs/basicflakes/plugin/KoCreatePathToolFactory.cpp:30
-#, kde-format
-msgid "Draw path"
-msgstr "繪製路徑"
-
-#: libs/basicflakes/plugin/KoPencilToolFactory.cpp:29
-#, kde-format
-msgid "Freehand path"
-msgstr "手繪路徑"
-
 #: libs/basicflakes/tools/KoCreatePathTool.cpp:548
 #, kde-format
 msgid "Autosmooth curve"
@@ -7225,7 +7215,7 @@ msgstr "角度約束"
 
 #. i18n: ectx: property (text), widget (QLabel, lblPrecision)
 #: libs/basicflakes/tools/KoPencilTool.cpp:314
-#: plugins/paintops/libpaintop/forms/wdgbrushchooser.ui:148
+#: plugins/paintops/libpaintop/forms/wdgbrushchooser.ui:101
 #, kde-format
 msgid "Precision:"
 msgstr "精度："
@@ -7657,7 +7647,7 @@ msgstr "其他兩個形狀之間的聯結"
 
 #: libs/flake/KoMarkerCollection.cpp:81
 #: libs/flake/resources/KoSvgSymbolCollectionResource.cpp:154
-#: libs/odf/KoOdfReadStore.cpp:133 libs/ui/flake/kis_shape_layer.cc:525
+#: libs/odf/KoOdfReadStore.cpp:133 libs/ui/flake/kis_shape_layer.cc:527
 #, kde-format
 msgid ""
 "Parsing error in the main document at line %1, column %2\n"
@@ -7683,7 +7673,7 @@ msgstr "一個簡單路徑形狀"
 msgid "%1 Options"
 msgstr "%1的選項"
 
-#: libs/flake/KoToolManager.cpp:647
+#: libs/flake/KoToolManager.cpp:624
 #, kde-format
 msgid "Active tool: %1"
 msgstr "活動工具：%1"
@@ -7733,11 +7723,6 @@ msgstr "找不到 \"文字\" 節點！"
 #, kde-format
 msgid "Unknown error writing SVG text element"
 msgstr "寫入 SVG 文字元素時發生未知錯誤"
-
-#: libs/flake/tools/KoCreateShapesToolFactory.cpp:29
-#, kde-format
-msgid "Create object"
-msgstr "建立物件"
 
 #: libs/flake/tools/KoPathSegmentChangeStrategy.cpp:146
 msgctxt "(qtundo-format)"
@@ -8101,8 +8086,6 @@ msgstr "大小"
 #. i18n: ectx: property (suffix), widget (KisIntParseSpinBox, intRoundCornersX)
 #. i18n: ectx: property (suffix), widget (KisIntParseSpinBox, intRoundCornersY)
 #. i18n: ectx: property (suffix), widget (KisIntParseSpinBox, intCheckSize)
-#. i18n: ectx: property (suffix), widget (KisDoubleParseSpinBox, sizeToStartFromSpinBox)
-#. i18n: ectx: property (suffix), widget (KisDoubleParseSpinBox, deltaValueSpinBox)
 #. i18n: ectx: property (suffix), widget (QSpinBox, intWidth)
 #. i18n: ectx: property (suffix), widget (QSpinBox, intHeight)
 #. i18n: ectx: property (suffix), widget (KisIntParseSpinBox, intHSpacing)
@@ -8163,8 +8146,6 @@ msgstr "大小"
 #: plugins/paintops/hatching/kis_hatching_options.cpp:33
 #: plugins/paintops/hatching/kis_hatching_paintop_settings.cpp:165
 #: plugins/paintops/hatching/kis_hatching_paintop_settings.cpp:196
-#: plugins/paintops/libpaintop/forms/wdgbrushchooser.ui:105
-#: plugins/paintops/libpaintop/forms/wdgbrushchooser.ui:128
 #: plugins/paintops/libpaintop/kis_auto_brush_widget.cpp:63
 #: plugins/paintops/libpaintop/kis_brush_chooser.cpp:118
 #: plugins/paintops/libpaintop/kis_dynamic_sensor.cc:371
@@ -8288,11 +8269,6 @@ msgctxt "(qtundo-format)"
 msgid "Remove Layer"
 msgstr "移除圖層"
 
-#: libs/image/commands/kis_image_set_projection_color_space_command.cpp:29
-msgctxt "(qtundo-format)"
-msgid "Convert Image Type"
-msgstr "轉換影像類型"
-
 #: libs/image/commands/kis_node_compositeop_command.cpp:27
 msgctxt "(qtundo-format)"
 msgid "Composition Mode Change"
@@ -8344,7 +8320,7 @@ msgid "Node Rename"
 msgstr "節點重新命名"
 
 #: libs/image/commands_new/kis_image_resize_command.cpp:28
-#: libs/image/kis_image.cc:631
+#: libs/image/kis_image.cc:639
 msgctxt "(qtundo-format)"
 msgid "Resize Image"
 msgstr "調整影像大小"
@@ -8548,89 +8524,108 @@ msgstr "Mitchell 演算法"
 msgid "Pass Through"
 msgstr "穿透"
 
-#: libs/image/kis_image.cc:526
+#: libs/image/kis_image.cc:534
 #, kde-format
 msgid "background"
 msgstr "背景"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbType)
-#: libs/image/kis_image.cc:530 plugins/extensions/imagesize/imagesize.xmlgui:9
+#: libs/image/kis_image.cc:538 plugins/extensions/imagesize/imagesize.xmlgui:9
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:396
 #, kde-format
 msgid "Layer"
 msgstr "圖層"
 
-#: libs/image/kis_image.cc:630
+#: libs/image/kis_image.cc:638
 msgctxt "(qtundo-format)"
 msgid "Crop Image"
 msgstr "裁切影像"
 
-#: libs/image/kis_image.cc:672
+#: libs/image/kis_image.cc:680
 msgctxt "(qtundo-format)"
 msgid "Crop Layer"
 msgstr "裁切圖層"
 
-#: libs/image/kis_image.cc:673
+#: libs/image/kis_image.cc:681
 msgctxt "(qtundo-format)"
 msgid "Crop Mask"
 msgstr "裁切遮罩"
 
-#: libs/image/kis_image.cc:705
+#: libs/image/kis_image.cc:713
 msgctxt "(qtundo-format)"
 msgid "Scale Image"
 msgstr "縮放影像"
 
-#: libs/image/kis_image.cc:706
+#: libs/image/kis_image.cc:714
 msgctxt "(qtundo-format)"
 msgid "Change Image Resolution"
 msgstr "修改影像解析度"
 
-#: libs/image/kis_image.cc:753
+#: libs/image/kis_image.cc:761
 msgctxt "(qtundo-format)"
 msgid "Scale Layer"
 msgstr "縮放圖層"
 
-#: libs/image/kis_image.cc:880
+#: libs/image/kis_image.cc:888
 msgctxt "(qtundo-format)"
 msgid "Rotate Image"
 msgstr "旋轉影像"
 
-#: libs/image/kis_image.cc:886
+#: libs/image/kis_image.cc:894
 msgctxt "(qtundo-format)"
 msgid "Rotate Mask"
 msgstr "旋轉遮罩"
 
-#: libs/image/kis_image.cc:888
+#: libs/image/kis_image.cc:896
 msgctxt "(qtundo-format)"
 msgid "Rotate Layer"
 msgstr "旋轉圖層"
 
-#: libs/image/kis_image.cc:970
+#: libs/image/kis_image.cc:978
 msgctxt "(qtundo-format)"
 msgid "Shear Mask"
 msgstr "切變遮罩"
 
-#: libs/image/kis_image.cc:973
+#: libs/image/kis_image.cc:981
 msgctxt "(qtundo-format)"
 msgid "Shear Layer"
 msgstr "切變圖層"
 
-#: libs/image/kis_image.cc:980
+#: libs/image/kis_image.cc:988
 msgctxt "(qtundo-format)"
 msgid "Shear Image"
 msgstr "切變影像"
 
-#: libs/image/kis_image.cc:992
+#: libs/image/kis_image.cc:1004
+msgctxt "(qtundo-format)"
+msgid "Convert Layer Type"
+msgstr "轉換圖層類型"
+
+#: libs/image/kis_image.cc:1057
 msgctxt "(qtundo-format)"
 msgid "Convert Image Color Space"
 msgstr "轉換影像色彩空間"
 
-#: libs/image/kis_image.cc:1027
+#: libs/image/kis_image.cc:1058
 msgctxt "(qtundo-format)"
 msgid "Convert Projection Color Space"
 msgstr "轉換投影色彩空間"
 
-#: libs/image/kis_image.cc:1845
+#: libs/image/kis_image.cc:1124
+#, fuzzy
+#| msgid "Assign Profile to Image"
+msgctxt "(qtundo-format)"
+msgid "Assign Profile to Layer"
+msgstr "為影像指定特性檔案"
+
+#: libs/image/kis_image.cc:1154
+#, fuzzy
+#| msgid "Assign Profile"
+msgctxt "(qtundo-format)"
+msgid "Assign Profile"
+msgstr "指定特性檔案"
+
+#: libs/image/kis_image.cc:2000
 msgctxt "(qtundo-format)"
 msgid "Crop Selections"
 msgstr "裁切選取區域"
@@ -9271,7 +9266,7 @@ msgctxt "description of a file type"
 msgid "HEIC/HEIF Image"
 msgstr "HEIC/HEIF 影像"
 
-#: libs/libkis/Document.cpp:887 libs/ui/KisMainWindow.cpp:1849
+#: libs/libkis/Document.cpp:884 libs/ui/KisMainWindow.cpp:1849
 #, kde-format
 msgid "Import frames"
 msgstr "匯入影格"
@@ -9368,7 +9363,7 @@ msgstr "無效值。"
 msgid "Unknown"
 msgstr "未知"
 
-#: libs/odf/KoOdfReadStore.cpp:102 libs/ui/flake/kis_shape_layer.cc:571
+#: libs/odf/KoOdfReadStore.cpp:102 libs/ui/flake/kis_shape_layer.cc:573
 #, kde-format
 msgid "No store backend"
 msgstr "無資料存儲後端程式"
@@ -17404,7 +17399,7 @@ msgstr "開啟 %1 時遇到了一些問題。"
 msgid "Not Saved"
 msgstr "未儲存"
 
-#: libs/ui/KisDocument.cpp:1889
+#: libs/ui/KisDocument.cpp:1891
 #, kde-format
 msgctxt ""
 "progress dialog message when the user closes the document that is being saved"
@@ -18811,7 +18806,6 @@ msgstr "此圖層"
 
 #. i18n: ectx: property (text), widget (QLabel, lblThisMin_2)
 #. i18n: ectx: property (text), widget (QLabel, lblUnderMin_2)
-#. i18n: ectx: property (text), widget (QLabel, lblPrecisionValue)
 #. i18n: ectx: property (text), widget (QLabel, colorCount)
 #. i18n: ectx: property (text), widget (QLabel, fileSizeLabel)
 #. i18n: ectx: property (text), widget (QLabel, bppLabel)
@@ -18820,7 +18814,6 @@ msgstr "此圖層"
 #: plugins/filters/indexcolors/kiswdgindexcolors.ui:156
 #: plugins/impex/heightmap/kis_wdg_options_heightmap.ui:45
 #: plugins/impex/heightmap/kis_wdg_options_heightmap.ui:188
-#: plugins/paintops/libpaintop/forms/wdgbrushchooser.ui:135
 #: plugins/paintops/libpaintop/kis_dynamic_sensor.cc:208
 #, kde-format
 msgid "0"
@@ -26430,20 +26423,15 @@ msgstr "從目前選取區域減去(&M)"
 msgid "&Deselect"
 msgstr "取消選擇(&D)"
 
-#: plugins/extensions/colorspaceconversion/colorspaceconversion.cc:79
+#: plugins/extensions/colorspaceconversion/colorspaceconversion.cc:78
 #, kde-format
 msgid "Convert All Layers From %1"
 msgstr "轉換所有圖層空間，目前空間： %1"
 
-#: plugins/extensions/colorspaceconversion/colorspaceconversion.cc:108
+#: plugins/extensions/colorspaceconversion/colorspaceconversion.cc:107
 #, kde-format
 msgid "Convert Current Layer From %1"
 msgstr "轉換目前圖層空間，目前空間： %1"
-
-#: plugins/extensions/colorspaceconversion/colorspaceconversion.cc:117
-msgctxt "(qtundo-format)"
-msgid "Convert Layer Type"
-msgstr "轉換圖層類型"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, WdgConvertColorSpace)
 #: plugins/extensions/colorspaceconversion/wdgconvertcolorspace.ui:14
@@ -29421,19 +29409,19 @@ msgstr "半調"
 msgid "Colors:"
 msgstr "顏色："
 
-#: plugins/filters/imageenhancement/kis_simple_noise_reducer.cpp:42
+#: plugins/filters/imageenhancement/kis_simple_noise_reducer.cpp:43
 #, kde-format
 msgid "&Gaussian Noise Reduction..."
 msgstr "高斯降噪(&G)…"
 
-#: plugins/filters/imageenhancement/kis_simple_noise_reducer.cpp:55
+#: plugins/filters/imageenhancement/kis_simple_noise_reducer.cpp:57
 #: plugins/filters/imageenhancement/kis_wavelet_noise_reduction.cpp:52
 #: plugins/filters/threshold/threshold.h:53
 #, kde-format
 msgid "Threshold"
 msgstr "閾值"
 
-#: plugins/filters/imageenhancement/kis_simple_noise_reducer.cpp:56
+#: plugins/filters/imageenhancement/kis_simple_noise_reducer.cpp:58
 #, kde-format
 msgid "Window size"
 msgstr "視窗大小"
@@ -32793,8 +32781,8 @@ msgstr ""
 "是否選擇其他位置？"
 
 #: plugins/impex/libkra/kis_kra_load_visitor.cpp:159
-#: plugins/impex/libkra/kis_kra_loader.cpp:860
-#: plugins/impex/libkra/kis_kra_loader.cpp:1225
+#: plugins/impex/libkra/kis_kra_loader.cpp:862
+#: plugins/impex/libkra/kis_kra_loader.cpp:1227
 #, kde-format
 msgctxt "@title:window"
 msgid "File not found"
@@ -32894,7 +32882,7 @@ msgstr "影像未指定高度。"
 msgid "Image specifies an unsupported color model: %1."
 msgstr "影像指定了一個不支援的色彩模型：%1 。"
 
-#: plugins/impex/libkra/kis_kra_loader.cpp:470
+#: plugins/impex/libkra/kis_kra_loader.cpp:472
 #: plugins/impex/psd/psd_loader.cpp:349
 #, kde-format
 msgctxt ""
@@ -32902,27 +32890,27 @@ msgctxt ""
 msgid "<%1> (embedded)"
 msgstr "<%1> (內嵌)"
 
-#: plugins/impex/libkra/kis_kra_loader.cpp:668
+#: plugins/impex/libkra/kis_kra_loader.cpp:670
 #, kde-format
 msgid "Layer %1 specifies an unsupported color model: %2."
 msgstr "圖層 %1 指定了一個不支援的色彩模型：%2"
 
-#: plugins/impex/libkra/kis_kra_loader.cpp:696
+#: plugins/impex/libkra/kis_kra_loader.cpp:698
 #, kde-format
 msgid "Layer %1 has an unsupported type."
 msgstr "圖層 %1 含有不支援的類型。"
 
-#: plugins/impex/libkra/kis_kra_loader.cpp:730
+#: plugins/impex/libkra/kis_kra_loader.cpp:732
 #, kde-format
 msgid "Layer %1 has an unsupported type: %2."
 msgstr "圖層 %1 含有不支援的類型：%2 。"
 
-#: plugins/impex/libkra/kis_kra_loader.cpp:737
+#: plugins/impex/libkra/kis_kra_loader.cpp:739
 #, kde-format
 msgid "Failure loading layer %1 of type: %2."
 msgstr "載入類型為：%2 的圖層 %1 時出錯。"
 
-#: plugins/impex/libkra/kis_kra_loader.cpp:855
+#: plugins/impex/libkra/kis_kra_loader.cpp:857
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -32940,7 +32928,7 @@ msgstr ""
 "\n"
 "要手動定位該檔案嗎？"
 
-#: plugins/impex/libkra/kis_kra_loader.cpp:1220
+#: plugins/impex/libkra/kis_kra_loader.cpp:1222
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -35659,37 +35647,6 @@ msgstr "隨機度："
 msgid "Spikes:"
 msgstr "尖峰數："
 
-#. i18n: ectx: property (toolTip), widget (QLabel, label)
-#: plugins/paintops/libpaintop/forms/wdgbrushchooser.ui:95
-#, kde-format
-msgid ""
-"Use to set the size from which the Automatic Precision Setting should begin. "
-"The Precision will remain 5 before this value."
-msgstr "用於設定自動精度開始生效的筆刷大小。精度在達到此值之前將保持為 5 。"
-
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: plugins/paintops/libpaintop/forms/wdgbrushchooser.ui:98
-#, kde-format
-msgid "Starting Brush Size:"
-msgstr "筆刷全精度大小："
-
-#. i18n: ectx: property (toolTip), widget (QLabel, label_2)
-#: plugins/paintops/libpaintop/forms/wdgbrushchooser.ui:118
-#, kde-format
-msgid ""
-"This determines every interval after which the precision should change. For "
-"example: if the delta value is set to be 15.00, after every 15 pts change in "
-"the size of brush, the precision will change."
-msgstr ""
-"此選項控制精度每次變化的前後間隔。例如，當增量設為 15.00 時，筆刷每發生 15 "
-"點 (pts) 的大小變化，精度隨之發生變化。"
-
-#. i18n: ectx: property (text), widget (QLabel, label_2)
-#: plugins/paintops/libpaintop/forms/wdgbrushchooser.ui:121
-#, kde-format
-msgid "Delta :"
-msgstr "精度遞減區間："
-
 #. i18n: ectx: property (text), widget (QLabel, aspectLabel)
 #. i18n: ectx: property (text), widget (QLabel, aspectLbl)
 #: plugins/paintops/libpaintop/forms/wdgBrushSizeOptions.ui:142
@@ -36083,26 +36040,7 @@ msgstr "動畫影像"
 msgid "Predefined"
 msgstr "預製形狀"
 
-#: plugins/paintops/libpaintop/kis_brush_selection_widget.cpp:88
-#, kde-format
-msgid ""
-"Use to set the size from which the Automatic Precision Setting should "
-"begin. \n"
-"The Precision will remain 5 before this value."
-msgstr ""
-"用於設定自動精度開始生效的筆刷大小。\n"
-"精度在達到此值之前將保持為 5 。"
-
-#: plugins/paintops/libpaintop/kis_brush_selection_widget.cpp:89
-#, kde-format
-msgid ""
-"Use to set the interval at which the Automatic Precision will change. \n"
-"The Precision will decrease as brush size increases."
-msgstr ""
-"用於設定自動精度的變化間隔\n"
-"筆刷越大，精度越低。"
-
-#: plugins/paintops/libpaintop/kis_brush_selection_widget.cpp:191
+#: plugins/paintops/libpaintop/kis_brush_selection_widget.cpp:181
 #, kde-format
 msgid ""
 "Precision Level 1 (fastest)\n"
@@ -36117,7 +36055,7 @@ msgstr ""
 "\n"
 "為超大筆刷最佳化"
 
-#: plugins/paintops/libpaintop/kis_brush_selection_widget.cpp:199
+#: plugins/paintops/libpaintop/kis_brush_selection_widget.cpp:189
 #, kde-format
 msgid ""
 "Precision Level 2\n"
@@ -36132,7 +36070,7 @@ msgstr ""
 "\n"
 "為大筆刷最佳化"
 
-#: plugins/paintops/libpaintop/kis_brush_selection_widget.cpp:207
+#: plugins/paintops/libpaintop/kis_brush_selection_widget.cpp:197
 #, kde-format
 msgid ""
 "Precision Level 3\n"
@@ -36143,7 +36081,7 @@ msgstr ""
 "次像素精度：禁用\n"
 "筆刷大小精度：完全一致"
 
-#: plugins/paintops/libpaintop/kis_brush_selection_widget.cpp:213
+#: plugins/paintops/libpaintop/kis_brush_selection_widget.cpp:203
 #, kde-format
 msgid ""
 "Precision Level 4 (optimal)\n"
@@ -36158,7 +36096,7 @@ msgstr ""
 "\n"
 "與精度級別 5 相比，效能最多快 50%。"
 
-#: plugins/paintops/libpaintop/kis_brush_selection_widget.cpp:221
+#: plugins/paintops/libpaintop/kis_brush_selection_widget.cpp:211
 #, kde-format
 msgid ""
 "Precision Level 5 (best quality)\n"
@@ -42303,6 +42241,53 @@ msgstr "顯示原始輪廓"
 #, kde-format
 msgid "Work Recursively"
 msgstr "以遞迴方式作業"
+
+#~ msgid "Draw path"
+#~ msgstr "繪製路徑"
+
+#~ msgid "Freehand path"
+#~ msgstr "手繪路徑"
+
+#~ msgid "Create object"
+#~ msgstr "建立物件"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Convert Image Type"
+#~ msgstr "轉換影像類型"
+
+#~ msgid ""
+#~ "Use to set the size from which the Automatic Precision Setting should "
+#~ "begin. The Precision will remain 5 before this value."
+#~ msgstr "用於設定自動精度開始生效的筆刷大小。精度在達到此值之前將保持為 5 。"
+
+#~ msgid "Starting Brush Size:"
+#~ msgstr "筆刷全精度大小："
+
+#~ msgid ""
+#~ "This determines every interval after which the precision should change. "
+#~ "For example: if the delta value is set to be 15.00, after every 15 pts "
+#~ "change in the size of brush, the precision will change."
+#~ msgstr ""
+#~ "此選項控制精度每次變化的前後間隔。例如，當增量設為 15.00 時，筆刷每發生 "
+#~ "15 點 (pts) 的大小變化，精度隨之發生變化。"
+
+#~ msgid "Delta :"
+#~ msgstr "精度遞減區間："
+
+#~ msgid ""
+#~ "Use to set the size from which the Automatic Precision Setting should "
+#~ "begin. \n"
+#~ "The Precision will remain 5 before this value."
+#~ msgstr ""
+#~ "用於設定自動精度開始生效的筆刷大小。\n"
+#~ "精度在達到此值之前將保持為 5 。"
+
+#~ msgid ""
+#~ "Use to set the interval at which the Automatic Precision will change. \n"
+#~ "The Precision will decrease as brush size increases."
+#~ msgstr ""
+#~ "用於設定自動精度的變化間隔\n"
+#~ "筆刷越大，精度越低。"
 
 #~ msgid "Hide Window Scrollbars"
 #~ msgstr "隱藏視窗滾動條"

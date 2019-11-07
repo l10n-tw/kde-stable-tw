@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2018-12-05 07:20+0100\n"
+"POT-Creation-Date: 2019-11-07 07:46+0100\n"
 "PO-Revision-Date: 2018-12-19 23:02+0800\n"
 "Last-Translator: Franklin Weng <franklin@goodhorse.idv.tw>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
@@ -16,8 +16,10 @@ msgstr ""
 
 #. (itstool) path: component/name
 #: org.kde.gcompris.appdata.xml:6
-msgid "GCompris Educational Game"
-msgstr "GCompris 教育遊戲"
+#, fuzzy
+#| msgid "GCompris main menu"
+msgid "GCompris"
+msgstr "GCompris 主畫面"
 
 #. (itstool) path: component/summary
 #: org.kde.gcompris.appdata.xml:7
@@ -149,3 +151,6 @@ msgstr "「西洋棋殘局」遊戲"
 #: org.kde.gcompris.appdata.xml:75
 msgid "\"A sliding-block puzzle game\" activity"
 msgstr "「滑動方塊」解謎遊戲"
+
+#~ msgid "GCompris Educational Game"
+#~ msgstr "GCompris 教育遊戲"

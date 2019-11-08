@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-07 07:57+0100\n"
+"POT-Creation-Date: 2019-11-08 08:10+0100\n"
 "PO-Revision-Date: 2019-11-03 14:16+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
@@ -473,7 +473,7 @@ msgstr "系統設定"
 msgid "Local bundle"
 msgstr "本機 Bundle"
 
-#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1217
+#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1220
 #: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:488
 #, kde-format
 msgid "Malformed appstream url '%1'"
@@ -620,7 +620,7 @@ msgstr "使用"
 msgid "Log in information for %1"
 msgstr "%1 的登入資訊"
 
-#: libdiscover/backends/PackageKitBackend/AppPackageKitResource.cpp:234
+#: libdiscover/backends/PackageKitBackend/AppPackageKitResource.cpp:240
 #, kde-format
 msgid "Cannot launch %1"
 msgstr "無法啟動 %1"

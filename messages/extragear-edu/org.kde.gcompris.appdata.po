@@ -1,10 +1,11 @@
 # Franklin, 2015.
 # pan93412 <pan93412@gmail.com>, 2018.
+# Franklin Weng <franklin@goodhorse.idv.tw>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-11-07 07:46+0100\n"
-"PO-Revision-Date: 2018-12-19 23:02+0800\n"
+"PO-Revision-Date: 2019-11-10 09:25+0800\n"
 "Last-Translator: Franklin Weng <franklin@goodhorse.idv.tw>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
 "Language: zh_TW\n"
@@ -12,14 +13,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Lokalize 2.0\n"
 
 #. (itstool) path: component/name
 #: org.kde.gcompris.appdata.xml:6
-#, fuzzy
 #| msgid "GCompris main menu"
 msgid "GCompris"
-msgstr "GCompris 主畫面"
+msgstr "GCompris"
 
 #. (itstool) path: component/summary
 #: org.kde.gcompris.appdata.xml:7
@@ -31,8 +31,7 @@ msgstr "為 2-10 歲孩子設計的教育遊戲"
 msgid ""
 "GCompris is a high quality educational software suite, including a large "
 "number of activities for children aged 2 to 10."
-msgstr ""
-"GCompris 是一套教育軟體的集合，它提供適合兩歲到十歲兒童各種不同的遊戲。"
+msgstr "GCompris 是一套教育軟體的集合，它提供適合兩歲到十歲兒童各種不同的遊戲。"
 
 #. (itstool) path: description/p
 #: org.kde.gcompris.appdata.xml:10

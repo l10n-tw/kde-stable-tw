@@ -1,10 +1,10 @@
-# Franklin Weng <franklin@goodhorse.idv.tw>, 2015, 2016, 2017, 2018.
+# Franklin Weng <franklin@goodhorse.idv.tw>, 2015, 2016, 2017, 2018, 2019.
 # pan93412 <pan93412@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2019-02-14 19:46+0800\n"
+"PO-Revision-Date: 2019-11-10 14:12+0800\n"
 "Last-Translator: Franklin Weng <franklin@goodhorse.idv.tw>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
 "Language: zh_TW\n"
@@ -14,13 +14,13 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: zh_TW\n"
 "X-Qt-Contexts: true\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Lokalize 2.0\n"
 
 #. Activity title
 #: activities/advanced_colors/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Advanced colors"
-msgstr "進階顏色"
+msgstr "認識更多的顏色"
 
 #. Help title
 #: activities/advanced_colors/ActivityInfo.qml:29
@@ -601,7 +601,7 @@ msgstr ""
 #: activities/algebra_by/Algebra.qml:77
 msgctxt "Algebra|"
 msgid "Speed"
-msgstr ""
+msgstr "速度"
 
 #. Activity title
 #: activities/algebra_div/ActivityInfo.qml:27
@@ -834,12 +834,11 @@ msgstr "a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z"
 
 #. Activity title
 #: activities/baby_tangram/ActivityInfo.qml:27
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Assemble the puzzle"
 msgctxt "ActivityInfo|"
 msgid "Reassemble the shapes"
-msgstr "重組謎題"
+msgstr "重組形狀"
 
 #. Help title
 #: activities/baby_tangram/ActivityInfo.qml:29
@@ -862,7 +861,6 @@ msgstr "滑鼠操控"
 
 #. Help manual
 #: activities/baby_tangram/ActivityInfo.qml:36
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
 #| "Select the tangram to form. Move a piece by dragging it. The symmetrical "
@@ -876,8 +874,8 @@ msgid ""
 "drag around it to show the rotation you want. More complicated levels can be "
 "found in tangram activity."
 msgstr ""
-"選擇要組合的七巧板。用拖曳的來移動。按旋轉鈕，或是拖曳時旋轉都可以把板子轉不"
-"同角度。在第一關中，會用一些簡單的物體來讓您瞭解七巧板的觀念。"
+"選擇要組合的物件。用拖曳的來移動，支援對稱旋轉的物件上會顯示出對稱鈕。按旋轉鈕，或是拖曳時旋轉都可以把板子轉不"
+"同角度。後面還有更複雜的關卡喔。"
 
 #. Activity title
 #: activities/baby_wordprocessor/ActivityInfo.qml:27
@@ -1052,8 +1050,7 @@ msgstr "梵古，Bedroom in Arles, 1888 年"
 #: activities/babyshapes/resource/board/board7_4.qml:25
 msgctxt "board7_4|"
 msgid "Ambrosius Bosschaert the Elder, Flower Still Life - 1614"
-msgstr ""
-"老安布羅修斯 (Ambrosius Bosschaert the Elder), Flower Still Life - 1614"
+msgstr "老安布羅修斯 (Ambrosius Bosschaert the Elder), Flower Still Life - 1614"
 
 #. Activity title
 #: activities/balancebox/ActivityInfo.qml:30
@@ -1220,8 +1217,7 @@ msgid ""
 "Press the left and right arrow at the same time, to make the ball go in a "
 "straight line. On a touch screen you have to hit the two hands at the same "
 "time."
-msgstr ""
-"同時按下左鍵跟右鍵，來讓球直線前進。在觸控螢幕中，您必須同時用兩手來點。"
+msgstr "同時按下左鍵跟右鍵，來讓球直線前進。在觸控螢幕中，您必須同時用兩手來點。"
 
 #: activities/ballcatch/Ballcatch.qml:228
 msgctxt "Ballcatch|"
@@ -1342,8 +1338,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "Turn on the right bulbs to represent the binary of the given decimal number. "
 "When you have achieved it, press OK."
-msgstr ""
-"把題目的十進位數字轉成二進位，並開啟正確位置的燈泡。做好以後按下「確定」。"
+msgstr "把題目的十進位數字轉成二進位，並開啟正確位置的燈泡。做好以後按下「確定」。"
 
 #: activities/binary_bulb/binary_bulb.js:31
 msgctxt "binary_bulb|"
@@ -2074,77 +2069,68 @@ msgid "Colors"
 msgstr "顏色"
 
 #: activities/categorization/resource/board/category_colors.qml:34
-#, fuzzy
 #| msgctxt "category_shapes|"
 #| msgid "Place the objects matching a SPHERE to right and others to the left"
 msgctxt "category_colors|"
 msgid "Place the objects matching GREEN color to right and others to the left"
-msgstr "將球形物件放在右邊，其他物件放在左邊"
+msgstr "將綠色的物件放在右邊，其他物件放在左邊"
 
 #: activities/categorization/resource/board/category_colors.qml:43
-#, fuzzy
 #| msgctxt "category_shapes|"
 #| msgid "Place the objects matching a SPHERE to right and others to the left"
 msgctxt "category_colors|"
 msgid "Place the objects matching WHITE color to right and others to the left"
-msgstr "將球形物件放在右邊，其他物件放在左邊"
+msgstr "將白色的物件放在右邊，其他物件放在左邊"
 
 #: activities/categorization/resource/board/category_colors.qml:52
-#, fuzzy
 #| msgctxt "category_shapes|"
 #| msgid "Place the objects matching a CONE to right and others to the left"
 msgctxt "category_colors|"
 msgid "Place the objects matching PINK color to right and others to the left"
-msgstr "將錐形物件放在右邊，其他物件放在左邊"
+msgstr "將粉紅色的物件放在右邊，其他物件放在左邊"
 
 #: activities/categorization/resource/board/category_colors.qml:62
-#, fuzzy
 #| msgctxt "category_shapes|"
 #| msgid "Place the objects matching a SPHERE to right and others to the left"
 msgctxt "category_colors|"
 msgid "Place the objects matching RED color to right and others to the left"
-msgstr "將球形物件放在右邊，其他物件放在左邊"
+msgstr "將紅色的物件放在右邊，其他物件放在左邊"
 
 #: activities/categorization/resource/board/category_colors.qml:71
-#, fuzzy
 #| msgctxt "category_shapes|"
 #| msgid "Place the objects matching a CONE to right and others to the left"
 msgctxt "category_colors|"
 msgid "Place the objects matching BROWN color to right and others to the left"
-msgstr "將錐形物件放在右邊，其他物件放在左邊"
+msgstr "將棕色的物件放在右邊，其他物件放在左邊"
 
 #: activities/categorization/resource/board/category_colors.qml:80
-#, fuzzy
 #| msgctxt "category_shapes|"
 #| msgid "Place the objects matching a SPHERE to right and others to the left"
 msgctxt "category_colors|"
 msgid "Place the objects matching PURPLE color to right and others to the left"
-msgstr "將球形物件放在右邊，其他物件放在左邊"
+msgstr "將紫色的物件放在右邊，其他物件放在左邊"
 
 #: activities/categorization/resource/board/category_colors.qml:90
-#, fuzzy
 #| msgctxt "category_shapes|"
 #| msgid "Place the objects matching a SPHERE to right and others to the left"
 msgctxt "category_colors|"
 msgid "Place the objects matching GREY color to right and others to the left"
-msgstr "將球形物件放在右邊，其他物件放在左邊"
+msgstr "將灰色的物件放在右邊，其他物件放在左邊"
 
 #: activities/categorization/resource/board/category_colors.qml:99
-#, fuzzy
 #| msgctxt "category_shapes|"
 #| msgid ""
 #| "Place the objects matching a TRIANGLE to right and others to the left"
 msgctxt "category_colors|"
 msgid "Place the objects matching ORANGE color to right and others to the left"
-msgstr "將三角形物件放在右邊，其他物件放在左邊"
+msgstr "將橘色的物件放在右邊，其他物件放在左邊"
 
 #: activities/categorization/resource/board/category_colors.qml:108
-#, fuzzy
 #| msgctxt "category_shapes|"
 #| msgid "Place the objects matching a CONE to right and others to the left"
 msgctxt "category_colors|"
 msgid "Place the objects matching YELLOW color to right and others to the left"
-msgstr "將錐形物件放在右邊，其他物件放在左邊"
+msgstr "將黃色的物件放在右邊，其他物件放在左邊"
 
 #: activities/categorization/resource/board/category_fishes.qml:30
 msgctxt "category_fishes|"
@@ -2636,8 +2622,7 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid ""
 "The chess engine is p4wn &lt;https://github.com/douglasbagnall/p4wn&gt;."
-msgstr ""
-"電腦下棋的程式為 p4wn  &lt;https://github.com/douglasbagnall/p4wn&gt; 。"
+msgstr "電腦下棋的程式為 p4wn  &lt;https://github.com/douglasbagnall/p4wn&gt; 。"
 
 #: activities/chess/chess.js:131
 msgctxt "chess|"
@@ -3165,8 +3150,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "Draw the picture by clicking on each point in sequence. Each time a point is "
 "selected the next blue one appears."
-msgstr ""
-"按照順序點擊每個點來畫出圖片。每次點擊到一個藍點上，下一個藍點就會出現。"
+msgstr "按照順序點擊每個點來畫出圖片。每次點擊到一個藍點上，下一個藍點就會出現。"
 
 #. Activity title
 #: activities/clickgame/ActivityInfo.qml:27
@@ -3205,8 +3189,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "Fish are taken from the Unix utility xfishtank. All image credits belong to "
 "Guillaume Rousse."
-msgstr ""
-"Fish 取自 Unix 公用程式 xfishtank。所有的圖片版權屬於 Guillaume Rousse。"
+msgstr "Fish 取自 Unix 公用程式 xfishtank。所有的圖片版權屬於 Guillaume Rousse。"
 
 #. Activity title
 #: activities/clockgame/ActivityInfo.qml:27
@@ -3405,7 +3388,6 @@ msgstr "將主要顏色混合成指定的顏色。"
 
 #. Help manual
 #: activities/color_mix_light/ActivityInfo.qml:36
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
 #| "\n"
@@ -3428,14 +3410,13 @@ msgstr ""
 "\n"
 "這個活動教大家主要顏色的混合 (加色法，additive mixing)。\n"
 "\n"
-"跟減色法相反，您加的光越多，結果的顏色越亮。三種的主要顏色是紅、綠、藍。\n"
-"        "
+"光顏色的混合跟顏料顏色的混合正好相反！您加的光越多，結果的顏色越亮。三種的主要顏色是紅、綠、藍。"
 
 #. Activity title
 #: activities/colors/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Colors"
-msgstr "顏色"
+msgstr "認識顏色"
 
 #. Help title
 #: activities/colors/ActivityInfo.qml:29
@@ -3449,8 +3430,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "This activity teaches you to recognize different colors. When you hear the "
 "name of the color, touch the duck wearing it."
-msgstr ""
-"這個活動教您辨認不同的顏色。當您聽到顏色的名稱，就觸碰一下這種顏色的鴨子。"
+msgstr "這個活動教您辨認不同的顏色。當您聽到顏色的名稱，就觸碰一下這種顏色的鴨子。"
 
 #. Help prerequisite
 #: activities/colors/ActivityInfo.qml:34
@@ -4135,8 +4115,7 @@ msgctxt "Dataset|"
 msgid ""
 "A NOR gate takes 2 binary input and outputs 1 if both of them are 0, "
 "otherwise produces an output of 0."
-msgstr ""
-"NOR 閘接受兩個二進制輸入，並且在兩個輸入都是 0 的時候輸出 1，不然就輸出 0。"
+msgstr "NOR 閘接受兩個二進制輸入，並且在兩個輸入都是 0 的時候輸出 1，不然就輸出 0。"
 
 #: activities/digital_electricity/Dataset.qml:290
 msgctxt "Dataset|"
@@ -4364,7 +4343,6 @@ msgstr "基本計數"
 
 #. Help manual
 #: activities/enumerate/ActivityInfo.qml:36
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
 #| "First, properly organize the items so that you can count them. Then, "
@@ -4375,9 +4353,7 @@ msgid ""
 "First, properly organize the items so that you can count them. Then, select "
 "the item you want to answer in the top left area. Enter the answer with the "
 "keyboard."
-msgstr ""
-"首先，適當地安排物品，好讓您能數它們。然後，在右下區域中選擇您想要回答的物"
-"品。用鍵盤輸入答案。"
+msgstr "首先，適當地安排物品，好讓您能數它們。然後，在左上方區域中選擇您想要回答的物品。用鍵盤輸入答案。"
 
 #. Activity title
 #: activities/erase/ActivityInfo.qml:27
@@ -4516,8 +4492,7 @@ msgctxt "board1|"
 msgid ""
 "The chicken goes 'luck, cackle, cluck'. Chickens have over 200 different "
 "noises they can use to communicate."
-msgstr ""
-"雞的叫聲類似「咯~ 咯~」。但實際上牠們會發出兩百多種不同的聲音來彼此溝通。"
+msgstr "雞的叫聲類似「咯~ 咯~」。但實際上牠們會發出兩百多種不同的聲音來彼此溝通。"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:47
 msgctxt "board1|"
@@ -5815,8 +5790,7 @@ msgctxt "board1|"
 msgid ""
 "The jaguar's jaw is well developed. Because of this, it has the strongest "
 "bite of all the felines, being able to break even a tortoise shell!"
-msgstr ""
-"美洲虎的下顎很發達。因此牠擁有在貓科動物中最強的咬合力，甚至能咬破玳瑁的殼！"
+msgstr "美洲虎的下顎很發達。因此牠擁有在貓科動物中最強的咬合力，甚至能咬破玳瑁的殼！"
 
 #: activities/explore_world_animals/resource/board/board1.qml:41
 #: activities/explore_world_animals/resource/board/board1.qml:44
@@ -7971,12 +7945,11 @@ msgid "Select your locale"
 msgstr "選擇您的地區"
 
 #: activities/gletters/Gletters.qml:177
-#, fuzzy
 #| msgctxt "GraphColoring|"
 #| msgid "Select your mode"
 msgctxt "Gletters|"
 msgid "Select Domino mode"
-msgstr "請選擇您的模式"
+msgstr "請選擇牌組模式"
 
 #: activities/gletters/Gletters.qml:184
 msgctxt "Gletters|"
@@ -7986,7 +7959,7 @@ msgstr "大寫模式"
 #: activities/gletters/Gletters.qml:189
 msgctxt "Gletters|"
 msgid "Speed"
-msgstr ""
+msgstr "速度"
 
 #. Activity title
 #: activities/gnumch-equality/ActivityInfo.qml:27
@@ -8327,7 +8300,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "Drag the appropriate numbers and the operators to the boxes to obtain the "
 "number to guess in the instruction."
-msgstr ""
+msgstr "拖曳適當的數字與操作子以取得指示中要猜的數字。"
 
 #: activities/guesscount/Admin.qml:43
 #, qt-format
@@ -8539,7 +8512,6 @@ msgstr "將右方的塔移到左方的空白空間"
 
 #. Help manual
 #: activities/hanoi/ActivityInfo.qml:36
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
 #| "Drag and Drop one top piece at a time, from one peg to another, to "
@@ -9525,8 +9497,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "A letter is written and/or spoken. Some words are displayed, the children "
 "must find the word or the words in which this letter appears."
-msgstr ""
-"寫下或唸出一個字母。螢幕上會顯示一些單子。孩子們必須找到包含這個字母的單字。"
+msgstr "寫下或唸出一個字母。螢幕上會顯示一些單子。孩子們必須找到包含這個字母的單字。"
 
 #. Help goal
 #: activities/letter-in-word/ActivityInfo.qml:32
@@ -9546,8 +9517,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "A letter is displayed on the flag attached to the plane, select all the "
 "words or the objects in which the letter appears and then press OK."
-msgstr ""
-"寫下或唸出一個字母。螢幕上會顯示一些單字。孩子們必須找到包含這個字母的單字。"
+msgstr "寫下或唸出一個字母。螢幕上會顯示一些單字。孩子們必須找到包含這個字母的單字。"
 
 #: activities/letter-in-word/LetterInWord.qml:130
 msgctxt "LetterInWord|"
@@ -9623,7 +9593,6 @@ msgstr "目標是關掉所有的燈。"
 
 #. Help manual
 #: activities/lightsoff/ActivityInfo.qml:36
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
 #| "The effect of pressing a button is to toggle the state of that button, "
@@ -9637,7 +9606,7 @@ msgid ""
 "the sky depend on the number of clicks needed to solve the puzzle. If you "
 "click on Tux, the solution is shown."
 msgstr ""
-"按下某一個鍵會切換該鍵，還有跟它垂直與水平的鄰居的狀態。太陽與天空的顏色會依"
+"按下窗戶會切換窗戶的狀態，還有跟它垂直與水平的鄰居的狀態。太陽與天空的顏色會依"
 "解決此關卡需要點擊幾次而有所不同。點擊小企鵝的話就會顯示解答。"
 
 #: activities/lightsoff/ActivityInfo.qml:37
@@ -9999,8 +9968,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "Listen to the sound sequence played, and repeat it by clicking on the "
 "xylophone's bars. You can listen again by clicking on the repeat button."
-msgstr ""
-"聽聽聲音播放的順序，然後在木琴上敲出正確的音。您可以點擊重複按鍵再聽一次。"
+msgstr "聽聽聲音播放的順序，然後在木琴上敲出正確的音。您可以點擊重複按鍵再聽一次。"
 
 #. Activity title
 #: activities/memory-case-association-tux/ActivityInfo.qml:27
@@ -10829,8 +10797,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "GCompris is a high quality educational software suite, including a large "
 "number of activities for children aged 2 to 10."
-msgstr ""
-"GCompris 是一套高品質教育軟體的集合，它提供適合兩歲到十歲兒童各種不同的活動。"
+msgstr "GCompris 是一套高品質教育軟體的集合，它提供適合兩歲到十歲兒童各種不同的活動。"
 
 #. Help prerequisite
 #: activities/menu/ActivityInfo.qml:30
@@ -10892,59 +10859,58 @@ msgstr ""
 "  "
 
 #: activities/menu/BackgroundMusicList.qml:64
-#, fuzzy
 #| msgctxt "DownloadDialog|"
 #| msgid "Background"
 msgctxt "BackgroundMusicList|"
 msgid "Background music"
-msgstr "背景"
+msgstr "背景音樂"
 
 #: activities/menu/BackgroundMusicList.qml:126
 msgctxt "BackgroundMusicList|"
 msgid "Disable the background music if you don't want to play them."
-msgstr ""
+msgstr "如果不想聽的話可以關掉背景音樂。"
 
 #. Current background music playing
 #: activities/menu/BackgroundMusicList.qml:168
 msgctxt "BackgroundMusicList|"
 msgid "Now Playing:"
-msgstr ""
+msgstr "正在播放："
 
 #. Title of the current background music playing
 #: activities/menu/BackgroundMusicList.qml:177
-#, fuzzy, qt-format
+#, qt-format
 #| msgctxt "LyricsArea|"
 #| msgid "Title: %1"
 msgctxt "BackgroundMusicList|"
 msgid "Title: %1"
-msgstr "標題：%1"
+msgstr "標題： %1"
 
 #. Artist of the current background music playing
 #: activities/menu/BackgroundMusicList.qml:186
-#, fuzzy, qt-format
+#, qt-format
 #| msgctxt "LandSafe|"
 #| msgid "Altitude: %1"
 msgctxt "BackgroundMusicList|"
 msgid "Artist: %1"
-msgstr "高度：%1"
+msgstr "演出者：%1"
 
 #. Year of the current background music playing
 #: activities/menu/BackgroundMusicList.qml:195
-#, fuzzy, qt-format
+#, qt-format
 #| msgctxt "LandSafe|"
 #| msgid "Fuel: %1"
 msgctxt "BackgroundMusicList|"
 msgid "Year: %1"
-msgstr "燃料: %1"
+msgstr "年份：%1"
 
 #. Copyright of the current background music playing
 #: activities/menu/BackgroundMusicList.qml:204
-#, fuzzy, qt-format
+#, qt-format
 #| msgctxt "LyricsArea|"
 #| msgid "Origin: %1"
 msgctxt "BackgroundMusicList|"
 msgid "Copyright: %1"
-msgstr "來源：%1"
+msgstr "版權所有：%1"
 
 #: activities/menu/ConfigurationItem.qml:78
 msgctxt "ConfigurationItem|"
@@ -10961,8 +10927,7 @@ msgctxt "ConfigurationItem|"
 msgid ""
 "On <a href='https://gcompris.net'>https://gcompris.net</a> you will find the "
 "instructions to obtain an activation code."
-msgstr ""
-"在<a href='https://gcompris.net'>官方網站</a>上您會找到取得啟動代碼的說明。"
+msgstr "在<a href='https://gcompris.net'>官方網站</a>上您會找到取得啟動代碼的說明。"
 
 #: activities/menu/ConfigurationItem.qml:164
 msgctxt "ConfigurationItem|"
@@ -10995,52 +10960,48 @@ msgid "Enable audio effects"
 msgstr "開啟音效"
 
 #: activities/menu/ConfigurationItem.qml:221
-#, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "Enable audio effects"
 msgctxt "ConfigurationItem|"
 msgid "Audio effects volume"
-msgstr "開啟音效"
+msgstr "音效音量"
 
 #: activities/menu/ConfigurationItem.qml:243
-#, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "Enable audio voices"
 msgctxt "ConfigurationItem|"
 msgid "Enable background music"
-msgstr "開啟語音"
+msgstr "開啟背景音樂"
 
 #: activities/menu/ConfigurationItem.qml:254
-#, fuzzy
 #| msgctxt "DownloadDialog|"
 #| msgid "Background"
 msgctxt "ConfigurationItem|"
 msgid "Background Music"
-msgstr "背景"
+msgstr "背景音樂"
 
 #: activities/menu/ConfigurationItem.qml:281
 msgctxt "ConfigurationItem|"
 msgid "Not playing"
-msgstr ""
+msgstr "未播放"
 
 #: activities/menu/ConfigurationItem.qml:283
 #, qt-format
 msgctxt "ConfigurationItem|"
 msgid "Title: %1  Artist: %2"
-msgstr ""
+msgstr "標題：%1 演出者：%2"
 
 #: activities/menu/ConfigurationItem.qml:285
 msgctxt "ConfigurationItem|"
 msgid "Introduction music"
-msgstr ""
+msgstr "介紹音樂"
 
 #: activities/menu/ConfigurationItem.qml:301
-#, fuzzy
 #| msgctxt "DownloadDialog|"
 #| msgid "Background"
 msgctxt "ConfigurationItem|"
 msgid "Background music volume"
-msgstr "背景"
+msgstr "背景音樂音量"
 
 #: activities/menu/ConfigurationItem.qml:319
 msgctxt "ConfigurationItem|"
@@ -11157,15 +11118,13 @@ msgid "Do you want to download them now?"
 msgstr "您要現在下載嗎？"
 
 #: activities/menu/ConfigurationItem.qml:788
-#, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "The images for several activities are not yet installed. "
 msgctxt "ConfigurationItem|"
 msgid "The background music is not yet installed. "
-msgstr "有些活動的影像尚未安裝。 "
+msgstr "有些背景音樂尚未安裝。 "
 
 #: activities/menu/ConfigurationItem.qml:789
-#, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "Do you want to download them now?"
 msgctxt "ConfigurationItem|"
@@ -11190,71 +11149,68 @@ msgstr "全部小寫"
 #: activities/menu/Menu.qml:105
 msgctxt "Menu|"
 msgid "Logic"
-msgstr ""
+msgstr "邏輯"
 
 #: activities/menu/Menu.qml:106
 msgctxt "Menu|"
 msgid "Fine Arts"
-msgstr ""
+msgstr "精緻藝術"
 
 #: activities/menu/Menu.qml:107
 msgctxt "Menu|"
 msgid "Music"
-msgstr ""
+msgstr "音樂"
 
 #: activities/menu/Menu.qml:113
 msgctxt "Menu|"
 msgid "Experiment"
-msgstr ""
+msgstr "實驗"
 
 #: activities/menu/Menu.qml:114
 msgctxt "Menu|"
 msgid "History"
-msgstr ""
+msgstr "歷史"
 
 #: activities/menu/Menu.qml:115
 msgctxt "Menu|"
 msgid "Geography"
-msgstr ""
+msgstr "地理"
 
 #: activities/menu/Menu.qml:125
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Numeration training"
 msgctxt "Menu|"
 msgid "Numeration"
-msgstr "數量訓練"
+msgstr "計數"
 
 #: activities/menu/Menu.qml:126
 msgctxt "Menu|"
 msgid "Arithmetic"
-msgstr ""
+msgstr "運算"
 
 #: activities/menu/Menu.qml:127
 msgctxt "Menu|"
 msgid "Measures"
-msgstr ""
+msgstr "測量"
 
 #: activities/menu/Menu.qml:137
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Draw Letters"
 msgctxt "Menu|"
 msgid "Letters"
-msgstr "畫出字母"
+msgstr "字母"
 
 #: activities/menu/Menu.qml:138
 msgctxt "Menu|"
 msgid "Words"
-msgstr ""
+msgstr "單字"
 
 #: activities/menu/Menu.qml:139
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Vocabulary and reading"
 msgctxt "Menu|"
 msgid "Vocabulary"
-msgstr "字彙與閱讀"
+msgstr "字彙"
 
 #: activities/menu/Menu.qml:376
 msgctxt "Menu|"
@@ -11363,8 +11319,7 @@ msgctxt "Mining|"
 msgid ""
 "Hum, you are too far from the nugget to see it. Unzoom then zoom again as "
 "close as you can from the sparkle."
-msgstr ""
-"唔，您離金塊太遠了所以看不到它。把畫面縮小，然後再放大接近直到看到閃光為止。"
+msgstr "唔，您離金塊太遠了所以看不到它。把畫面縮小，然後再放大接近直到看到閃光為止。"
 
 #: activities/mining/Mining.qml:449
 msgctxt "Mining|"
@@ -11735,7 +11690,7 @@ msgstr "正確指出音符，達到 100% 分後即完成關卡。"
 #: activities/note_names/NoteNames.qml:130
 msgctxt "NoteNames|"
 msgid "Speed"
-msgstr ""
+msgstr "速度"
 
 #: activities/note_names/NoteNames.qml:222
 #, qt-format
@@ -11794,20 +11749,19 @@ msgstr ""
 #: activities/number_sequence/NumberSequence.qml:257
 msgctxt "NumberSequence|"
 msgid "Automatic"
-msgstr ""
+msgstr "自動"
 
 #: activities/number_sequence/NumberSequence.qml:258
-#, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Manual:"
 msgctxt "NumberSequence|"
 msgid "Manual"
-msgstr "說明："
+msgstr "手動"
 
 #: activities/number_sequence/NumberSequence.qml:269
 msgctxt "NumberSequence|"
 msgid "Go to next level"
-msgstr ""
+msgstr "前往下一關"
 
 #. Activity title
 #: activities/numbers-odd-even/ActivityInfo.qml:27
@@ -11834,37 +11788,36 @@ msgstr ""
 "點取目標也可以。至於要抓哪些數字，您要嘛就靠記憶力，不然也可以偷偷看右下角。"
 
 #: activities/numbers-odd-even/NumbersOddEven.qml:47
-#, fuzzy
 #| msgctxt "binary_bulb|"
 #| msgid ""
 #| "This activity teaches how to convert decimal numbers to binary numbers."
 msgctxt "NumbersOddEven|"
 msgid "This activity teaches about even and odd numbers."
-msgstr "這個遊戲教您如何從十進位數字轉成二進位。"
+msgstr "這個遊戲可以學習何謂奇數與偶數。"
 
 #: activities/numbers-odd-even/NumbersOddEven.qml:51
 #: activities/numbers-odd-even/NumbersOddEven.qml:61
 msgctxt "NumbersOddEven|"
 msgid "Even numbers are numbers which leave remainder 0 when divided by 2."
-msgstr ""
+msgstr "偶數是指除以 2 餘數是 0 的數字。"
 
 #: activities/numbers-odd-even/NumbersOddEven.qml:56
 msgctxt "NumbersOddEven|"
 msgid "What is meant by remainder of a number?"
-msgstr ""
+msgstr "什麼是餘數？"
 
 #: activities/numbers-odd-even/NumbersOddEven.qml:65
 msgctxt "NumbersOddEven|"
 msgid ""
 "Odd numbers are numbers which do not leave remainder 0 when divided by 2."
-msgstr ""
+msgstr "奇數是指除以 2 餘數不是 0 的數字。"
 
 #: activities/numbers-odd-even/NumbersOddEven.qml:69
 #: activities/numbers-odd-even/NumbersOddEven.qml:73
 #: activities/numbers-odd-even/NumbersOddEven.qml:77
 msgctxt "NumbersOddEven|"
 msgid "Exercise to test your understanding."
-msgstr ""
+msgstr "測試您的理解程度的練習。"
 
 #: activities/numbers-odd-even/resource/Tutorial1.qml:33
 msgctxt "Tutorial1|"
@@ -11874,6 +11827,9 @@ msgid ""
 " If 6 is divided by 2 the result is 3 and the remainder is 0.\n"
 " If 7 is divided by 2 the result is 3 and the remainder is 1."
 msgstr ""
+"餘數是指一個數字被另一個數字除了之後所「剩餘」的數字。\n"
+"例如 6 除以 2 答案是 3 餘數是 0。\n"
+"而 7 除以 2 答案是 3 餘數是 1。-"
 
 #: activities/numbers-odd-even/resource/Tutorial2.qml:33
 msgctxt "Tutorial2|"
@@ -11882,6 +11838,8 @@ msgid ""
 "892, 1000. All of these numbers are even numbers as they leave remainder 0 "
 "when divided by 2."
 msgstr ""
+"舉例而言：12, 38, 52, 68, 102, 118, 168, 188, 502, 532, 700, 798, 842, 892,"
+" 1000。所有這些數字除以 2 得到的餘數都是 0，所以都是偶數。"
 
 #: activities/numbers-odd-even/resource/Tutorial3.qml:33
 msgctxt "Tutorial3|"
@@ -11890,28 +11848,28 @@ msgid ""
 "897, 1001. All of these numbers are odd numbers as they do not leave "
 "remainder 0 when divided by 2."
 msgstr ""
+"舉例而言： 15, 19, 51, 65, 103, 119, 169, 185, 505, 533, 701, 799, 845, 897,"
+" 1001。所有這些數字除以 2 得到的餘數都是 1，所以都是奇數。"
 
 #: activities/numbers-odd-even/resource/TutorialBase.qml:43
-#, fuzzy
 #| msgctxt "board1|"
 #| msgid "Christ the Redeemer"
 msgctxt "TutorialBase|"
 msgid "Choose the even number:"
-msgstr "基督救世主（Christ the Redeemer）"
+msgstr "選擇偶數："
 
 #: activities/numbers-odd-even/resource/TutorialBase.qml:43
 msgctxt "TutorialBase|"
 msgid "Choose the odd number:"
-msgstr ""
+msgstr "選擇奇數："
 
 #: activities/numbers-odd-even/resource/TutorialBase.qml:68
 #: activities/numbers-odd-even/resource/TutorialBase.qml:98
-#, fuzzy
 #| msgctxt "board2|"
 #| msgid "Great Stupa"
 msgctxt "TutorialBase|"
 msgid "Great"
-msgstr "大佛塔"
+msgstr "很棒喔"
 
 #: activities/numbers-odd-even/resource/TutorialBase.qml:72
 #: activities/numbers-odd-even/resource/TutorialBase.qml:102
@@ -11920,7 +11878,7 @@ msgctxt "TutorialBase|"
 msgid ""
 "There is an error: when divided by 2, %1 leaves remainder as 1. Therefore "
 "this is an odd number."
-msgstr ""
+msgstr "有點問題喔！%1 除以 2 時餘數是 1，所以它應該是奇數才對。"
 
 #: activities/numbers-odd-even/resource/TutorialBase.qml:75
 #: activities/numbers-odd-even/resource/TutorialBase.qml:105
@@ -11929,7 +11887,7 @@ msgctxt "TutorialBase|"
 msgid ""
 "There is an error: when divided by 2, %1 leaves remainder as 0. Therefore "
 "this is an even number."
-msgstr ""
+msgstr "有點問題喔！%1 除以 2 時餘數是 0，所以它應該是偶數才對。"
 
 #. Activity title
 #: activities/paintings/ActivityInfo.qml:32
@@ -12527,8 +12485,7 @@ msgctxt "piano_composition|"
 msgid ""
 "Click on the note symbol to write different length notes such as whole "
 "notes, half notes, quarter notes and eighth notes."
-msgstr ""
-"在音符上點擊可以寫下不同長度的音符，如全音符、半音符、四分音符或八分音符。"
+msgstr "在音符上點擊可以寫下不同長度的音符，如全音符、半音符、四分音符或八分音符。"
 
 #: activities/piano_composition/piano_composition.js:51
 msgctxt "piano_composition|"
@@ -12877,7 +12834,7 @@ msgstr "跟著垂直線，在拍子上點擊或按空白鍵來正確地打出節
 #: activities/programmingMaze/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
 msgid "Programming Maze"
-msgstr ""
+msgstr "寫程式解謎"
 
 #. Help title
 #: activities/programmingMaze/ActivityInfo.qml:30
@@ -12886,23 +12843,24 @@ msgid ""
 "This activity teaches the kid to program the Tux to its goal using\n"
 "                    simple instructions like move forward, turn left etc"
 msgstr ""
+"這個活動教孩子透過簡單的程式指令，像是向前、向左等，\n"
+"引導小企鵝找到目標"
 
 #. Help goal
 #: activities/programmingMaze/ActivityInfo.qml:34
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
 #| "Tux is hungry. Help him find fish by counting to the correct ice spot."
 msgctxt "ActivityInfo|"
 msgid ""
 "Tux is hungry. Help him find fish by programming him to the correct ice spot."
-msgstr "小企鵝很餓。利用算出正確的浮冰數目來幫他找到魚。"
+msgstr "小企鵝很餓。利用程式指令來幫他在正確的冰洞找到魚。"
 
 #. Help prerequisite
 #: activities/programmingMaze/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid "Can read instructions. Thinking of the path logically"
-msgstr ""
+msgstr "可以閱讀指令。運用邏輯來思考移動路徑"
 
 #. Help manual
 #: activities/programmingMaze/ActivityInfo.qml:38
@@ -12911,7 +12869,7 @@ msgid ""
 "Choose the instructions from given menu. Arrange the instruction in an\n"
 "                order so that they can make the Tux reach to his goal."
 "<br><br>"
-msgstr ""
+msgstr "在指定的選單中選擇指令，並安排這些指令的順序，讓小企鵝能順利抵達目標。<br><br>"
 
 #: activities/programmingMaze/ActivityInfo.qml:40
 #: activities/railroad/ActivityInfo.qml:38
@@ -12924,103 +12882,102 @@ msgctxt "ActivityInfo|"
 msgid ""
 "1. <i><u>To navigate through instructions in the current code area having "
 "keyboard focus</i></u>:"
-msgstr ""
+msgstr "1. <i><u>在目前程式碼區檢閱指令的做法</i></u>："
 
 #: activities/programmingMaze/ActivityInfo.qml:42
 msgctxt "ActivityInfo|"
 msgid "<ul><li><b>Arrow keys</b></li></ul><br>"
-msgstr ""
+msgstr "<ul><li><b>方向鍵</b></li></ul><br>"
 
 #: activities/programmingMaze/ActivityInfo.qml:43
 msgctxt "ActivityInfo|"
 msgid ""
 "2. <i><u>To append an instruction from instruction area to the main/"
 "procedure code area</i></u>:"
-msgstr ""
+msgstr "2. <i><u>從指令區將指令新增到主程式/副程式程式碼區的做法</i></u>："
 
 #: activities/programmingMaze/ActivityInfo.qml:44
 msgctxt "ActivityInfo|"
 msgid ""
 "<ul><li>Select an instruction from the instruction area by pressing "
 "<b>SPACE</b>.</li>"
-msgstr ""
+msgstr "<ul><li>從指令區按下<b>空白鍵</b>來選擇一個指令。</li>"
 
 #: activities/programmingMaze/ActivityInfo.qml:45
 msgctxt "ActivityInfo|"
 msgid ""
 "<li>Navigate to the code areas by pressing <b>TAB</b>, then press <b>SPACE</"
 "b> to append the instruction.</li></ul><br>"
-msgstr ""
+msgstr "<li>用<b>TAB</b>鍵移到程式碼區，然後再按下<b>空白鍵</b>來新增指令。</li></ul><br>"
 
 #: activities/programmingMaze/ActivityInfo.qml:46
 msgctxt "ActivityInfo|"
 msgid ""
 "3. <i><u>To add an instruction at any particular position in the main/"
 "procedure code area</i></u>:"
-msgstr ""
+msgstr "3. <i><u>將指令新增到主程式/副程式的程式碼區中任何特定位置的做法</i></u>："
 
 #: activities/programmingMaze/ActivityInfo.qml:47
 msgctxt "ActivityInfo|"
 msgid ""
 "<ul><li>Navigate to the instruction at that position and press <b>SPACE</b> "
 "to add the selected instruction from the instruction area.</li></ul><br>"
-msgstr ""
+msgstr "<ul><li>用 1. 的方法移到要擺放的位置，然後按下<b>空白鍵</b>來插入選取的指令。</li></ul><br>"
 
 #: activities/programmingMaze/ActivityInfo.qml:48
 msgctxt "ActivityInfo|"
 msgid ""
 "4. <i><u>To delete the current navigated instruction in the main/procedure "
 "code area</i></u>:"
-msgstr ""
+msgstr "4. <i><u>在主程式/副程式的程式碼區中刪除目前檢閱指令的做法：</i></u>："
 
 #: activities/programmingMaze/ActivityInfo.qml:49
 msgctxt "ActivityInfo|"
 msgid "<ul><li><b>DELETE</b>.</li></ul><br>"
-msgstr ""
+msgstr "<ul><li>按<b>刪除鍵</b>。</li></ul><br>"
 
 #: activities/programmingMaze/ActivityInfo.qml:50
 msgctxt "ActivityInfo|"
 msgid ""
 "5. <i><u>To edit an instruction in the main/procedure code area</i></u>:"
-msgstr ""
+msgstr "5. <i><u>在主程式/副程式的程式碼區中編輯指令的做法：</i></u>："
 
 #: activities/programmingMaze/ActivityInfo.qml:51
 msgctxt "ActivityInfo|"
 msgid ""
 "<ul><li>Navigate to the instruction to edit using <b>Arrow keys</b>.</li>"
-msgstr ""
+msgstr "<ul><li>用<b>方向鍵</b>找到要編輯的指令。</li>"
 
 #: activities/programmingMaze/ActivityInfo.qml:52
 msgctxt "ActivityInfo|"
 msgid "<li>Press <b>SPACE</b> to select it.</li>"
-msgstr ""
+msgstr "<li>按下<b>空白鍵</b>選取。</li>"
 
 #: activities/programmingMaze/ActivityInfo.qml:53
 msgctxt "ActivityInfo|"
 msgid ""
 "<li>Then navigate to the instruction area using <b>TAB</b> and select the "
 "new instruction by pressing <b>SPACE</b>.</li></ul><br>"
-msgstr ""
+msgstr "<li>然後按<b>TAB</b>鍵移回指令區，選擇新的指令，再按下<b>空白鍵</b>。</li></ul><br>"
 
 #: activities/programmingMaze/ActivityInfo.qml:54
 msgctxt "ActivityInfo|"
 msgid ""
 "6. <i><u>To run the code or reset Tux when it fails to reach the fish</i></"
 "u>:"
-msgstr ""
+msgstr "6. <i><u>執行程式碼，或當小企鵝迷路失敗時重來的做法</i></u>："
 
 #: activities/programmingMaze/ActivityInfo.qml:55
 msgctxt "ActivityInfo|"
 msgid "<ul><li><b>ENTER</b> or <b>RETURN</b>.</li></ul>"
-msgstr ""
+msgstr "<ul><li>按下<b>Enter</b>鍵或<b>Return</b>鍵。</li></ul>"
 
 #: activities/programmingMaze/InstructionArea.qml:45
-#, fuzzy
 #| msgctxt "Lang|"
 #| msgid "construction"
 msgctxt "InstructionArea|"
 msgid "Choose the instructions"
-msgstr "建築"
+msgstr "選取指令"
 
 #: activities/programmingMaze/programmingMaze.js:97
 msgctxt "programmingMaze|"
@@ -13032,6 +12989,8 @@ msgid ""
 "Turn right:</b> Turns Tux in the right direction from where it is facing.</"
 "li>"
 msgstr ""
+"<b><h7>指令區：</b></h7>要引導小企鵝抓到魚，您有三個指令可以使用：<b><li>1. 往前：</b>讓小企鵝朝面對的方向往前走一步。<"
+"/li><b><li>2. 往左：</b>將小企鵝往左轉。</li><b><li>3. 往右：</b>將小企鵝往右轉。</li>"
 
 #: activities/programmingMaze/programmingMaze.js:105
 msgctxt "programmingMaze|"
@@ -13041,6 +13000,8 @@ msgid ""
 "add them to the <b>Main Function</b></li><li>-The instructions will execute "
 "in order until there's none left, dead-end or Tux reaches the fish.</li>"
 msgstr ""
+"<b><h7>主程式：</b></h6><li>-程式從這裡開始執行。</li><li>-點擊在<b>指令區</b>的任何指令可以將指令新增到<b"
+">主程式</b></li><li>-指令會依照它們放置的順序執行，直到沒有指令可執行，走到死路，或是小企鵝走到目標抓到魚為止。</li>"
 
 #: activities/programmingMaze/programmingMaze.js:115
 msgctxt "programmingMaze|"
@@ -13051,32 +13012,33 @@ msgid ""
 "Function area</b> to add your code, click on the label <b>Procedure</b> or "
 "<b>Main Function</b>.</li>"
 msgstr ""
+"<b><h7>副程式：</b></h7><li>-<b>副程式</b>是一群指令，可以被重覆呼叫使用。</b></li><li>-要在<b>副程式</b"
+">與<b>主程式</b>間切換以便新增指令，您只要點擊一下<b>副程式</b>或<b>主程式</b>的標籤即可。</li>"
 
 #: activities/programmingMaze/ProgrammingMaze.qml:197
 msgctxt "ProgrammingMaze|"
 msgid ""
 "Click on Tux or press Enter key to reset it or RELOAD button to reload the "
 "level."
-msgstr ""
+msgstr "點擊小企鵝或按 Enter 鍵，或是點擊重新載入鍵可以重新來過。"
 
 #: activities/programmingMaze/ProgrammingMaze.qml:198
 #, qt-format
 msgctxt "ProgrammingMaze|"
 msgid "Reach the fish in less than %1 instructions."
-msgstr ""
+msgstr "在 %1 個指令內抓到魚。"
 
 #: activities/programmingMaze/ProgrammingMaze.qml:266
-#, fuzzy
 #| msgctxt "Lang|"
 #| msgid "action"
 msgctxt "ProgrammingMaze|"
 msgid "Main function"
-msgstr "動作"
+msgstr "主程式"
 
 #: activities/programmingMaze/ProgrammingMaze.qml:294
 msgctxt "ProgrammingMaze|"
 msgid "Procedure"
-msgstr ""
+msgstr "副程式"
 
 #. Activity title
 #: activities/railroad/ActivityInfo.qml:28
@@ -13190,7 +13152,7 @@ msgstr "選擇您的地區"
 #: activities/readingh/Readingh.qml:112
 msgctxt "Readingh|"
 msgid "Speed"
-msgstr ""
+msgstr "速度"
 
 #: activities/readingh/Readingh.qml:263
 #, qt-format
@@ -13253,8 +13215,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "First, select the proper color from the toolbar. Then click on the grid and "
 "drag to paint, then release the click to stop painting."
-msgstr ""
-"首先，從工具列中選擇適當的顏色。然後在格線上點擊並拖曳以繪圖，放開就停止。"
+msgstr "首先，從工具列中選擇適當的顏色。然後在格線上點擊並拖曳以繪圖，放開就停止。"
 
 #. Activity title
 #: activities/redraw_symmetrical/ActivityInfo.qml:27
@@ -13947,8 +13908,7 @@ msgctxt "board3|"
 msgid ""
 "Thomas wants to share his 11 pieces of candy with his friends: three boys "
 "and one girl. Can you help him?"
-msgstr ""
-"湯瑪士有 11 顆糖，打算分給他的朋友：三個男孩與一個女孩。您可以幫幫他嗎？"
+msgstr "湯瑪士有 11 顆糖，打算分給他的朋友：三個男孩與一個女孩。您可以幫幫他嗎？"
 
 #: activities/share/resource/board/board4.qml:28
 msgctxt "board4|"
@@ -14647,13 +14607,12 @@ msgid "Fifth"
 msgstr "第五"
 
 #: activities/solar_system/Dataset.js:151
-#, fuzzy
 #| msgctxt "Dataset|"
 #| msgid ""
 #| "How long does it take for Neptune to make one revolution around the Sun?"
 msgctxt "Dataset|"
 msgid "How long does it take for Earth to make one revolution around the Sun?"
-msgstr "海王星繞太陽一圈要多久？"
+msgstr "地球繞太陽一圈要多久？"
 
 #: activities/solar_system/Dataset.js:152
 msgctxt "Dataset|"
@@ -14800,13 +14759,12 @@ msgid "24.5 hours"
 msgstr "24.5 小時"
 
 #: activities/solar_system/Dataset.js:215
-#, fuzzy
 #| msgctxt "Dataset|"
 #| msgid ""
 #| "How long does it take for Neptune to make one revolution around the Sun?"
 msgctxt "Dataset|"
 msgid "How long does it take for Mars to make one revolution around the Sun?"
-msgstr "海王星繞太陽一圈要多久？"
+msgstr "火星繞太陽一圈要多久？"
 
 #: activities/solar_system/Dataset.js:216
 msgctxt "Dataset|"
@@ -14879,14 +14837,13 @@ msgid "10 hours"
 msgstr "10 小時"
 
 #: activities/solar_system/Dataset.js:259
-#, fuzzy
 #| msgctxt "Dataset|"
 #| msgid ""
 #| "How long does it take for Neptune to make one revolution around the Sun?"
 msgctxt "Dataset|"
 msgid ""
 "How long does it take for Jupiter to make one revolution around the Sun?"
-msgstr "海王星繞太陽一圈要多久？"
+msgstr "木星繞太陽一圈要多久？"
 
 #: activities/solar_system/Dataset.js:260
 msgctxt "Dataset|"
@@ -14973,13 +14930,12 @@ msgid "-100 °C"
 msgstr "-100 °C"
 
 #: activities/solar_system/Dataset.js:298
-#, fuzzy
 #| msgctxt "Dataset|"
 #| msgid ""
 #| "How long does it take for Neptune to make one revolution around the Sun?"
 msgctxt "Dataset|"
 msgid "How long does it take for Saturn to make one revolution around the Sun?"
-msgstr "海王星繞太陽一圈要多久？"
+msgstr "土星繞太陽一圈要多久？"
 
 #: activities/solar_system/Dataset.js:299
 msgctxt "Dataset|"
@@ -15215,8 +15171,7 @@ msgctxt "SolarSystem|"
 msgid ""
 "Click on the Sun or any planet to reveal questions. Each question will have "
 "4 options, out of which one is correct."
-msgstr ""
-"點擊太陽或任何行星就會出現問題。每個問題有四個選項，其中一個是完全正確的。"
+msgstr "點擊太陽或任何行星就會出現問題。每個問題有四個選項，其中一個是完全正確的。"
 
 #: activities/solar_system/SolarSystem.qml:108
 msgctxt "SolarSystem|"
@@ -15316,7 +15271,6 @@ msgstr "移動並按下滑鼠，物理基本概念"
 
 #. Help manual
 #: activities/submarine/ActivityInfo.qml:36
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
 #| "Control the various parts of the submarine (the engine, rudders and "
@@ -15639,7 +15593,6 @@ msgstr ""
 
 #. Help manual
 #: activities/tangram/ActivityInfo.qml:43
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
 #| "Select the tangram to form. Move a piece by dragging it. The symmetrical "
@@ -15653,14 +15606,14 @@ msgid ""
 "drag around it to show the rotation you want. Check baby tangram activity "
 "for an introduction to tangram."
 msgstr ""
-"選擇要組合的七巧板。用拖曳的來移動。按旋轉鈕，或是拖曳時旋轉都可以把板子轉不"
-"同角度。在第一關中，會用一些簡單的物體來讓您瞭解七巧板的觀念。"
+"選擇要組合的七巧板。用拖曳的來移動，支援對稱旋轉的物件上會顯示出對稱鈕。按旋轉鈕，或是拖曳時旋轉都可以把板子轉不同角度。七巧板的介紹可以去看看「重組形狀」活"
+"動的介紹。"
 
 #. Activity title
 #: activities/target/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Practice addition with a target game"
-msgstr "利用射飛標遊戲來練習加法"
+msgstr "利用射飛鏢遊戲來練習加法"
 
 #. Help title
 #: activities/target/ActivityInfo.qml:29
@@ -15758,8 +15711,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "Each car can only move either horizontally or vertically. You must make some "
 "room in order to let the red car move through the gate on the right."
-msgstr ""
-"每輛車只能以橫向或直向移動。您必須挪出一些空間才能讓紅色的車子通過右邊的門。"
+msgstr "每輛車只能以橫向或直向移動。您必須挪出一些空間才能讓紅色的車子通過右邊的門。"
 
 #: activities/traffic/Traffic.qml:117
 msgctxt "Traffic|"
@@ -15833,8 +15785,7 @@ msgid ""
 "Rain causes rivers to swell up and this water is transported to us via motor "
 "pumps through water-tower. Click on the motor pump to supply water to "
 "residents."
-msgstr ""
-"下雨後會讓河流水漲，而這些水透過幫浦系統進到水塔中。點擊幫浦來將水抽到水塔。"
+msgstr "下雨後會讓河流水漲，而這些水透過幫浦系統進到水塔中。點擊幫浦來將水抽到水塔。"
 
 #: activities/watercycle/Watercycle.qml:70
 msgctxt "Watercycle|"
@@ -15949,37 +15900,37 @@ msgstr "購買完整版"
 #: core/ChangeLog.qml:41
 msgctxt "ChangeLog|"
 msgid "New sub-categories to organize activities"
-msgstr ""
+msgstr "增加新的子類別"
 
 #: core/ChangeLog.qml:42
 msgctxt "ChangeLog|"
 msgid "New activities Programming Maze and Baby Tangram"
-msgstr ""
+msgstr "新增寫程式與重組形狀遊戲。"
 
 #: core/ChangeLog.qml:43
 msgctxt "ChangeLog|"
 msgid "New background music and volume settings."
-msgstr ""
+msgstr "新增背景音樂與音量設定。"
 
 #: core/ChangeLog.qml:44
 msgctxt "ChangeLog|"
 msgid "New speed setting in several activities."
-msgstr ""
+msgstr "在一些活動中新增速度設定。"
 
 #: core/ChangeLog.qml:45
 msgctxt "ChangeLog|"
 msgid "New option in chess to display captured pieces."
-msgstr ""
+msgstr "西洋棋遊戲中新增選項顯示被吃掉的子。"
 
 #: core/ChangeLog.qml:46
 msgctxt "ChangeLog|"
 msgid "New images in Colors, Advanced colors and Target game."
-msgstr ""
+msgstr "在「認識顏色」、「認識更多的顏色」與「射飛鏢」等遊戲加上新圖片。"
 
 #: core/ChangeLog.qml:47
 msgctxt "ChangeLog|"
 msgid "New voices for US English."
-msgstr ""
+msgstr "新增美式英文語音。"
 
 #: core/ChangeLog.qml:48 core/ChangeLog.qml:56
 msgctxt "ChangeLog|"
@@ -16316,16 +16267,14 @@ msgstr "區塊："
 
 #. "Dots" is for representation of the points in a domino in the form of dots
 #: core/Domino.qml:68
-#, fuzzy
 #| msgctxt "Reversecount|"
 #| msgid "Dots"
 msgctxt "Domino|"
 msgid "Dots"
-msgstr "點"
+msgstr "多點"
 
 #. "Arabic Numbers" is for representation of the points in a domino in the form of integer numbers
 #: core/Domino.qml:70
-#, fuzzy
 #| msgctxt "Reversecount|"
 #| msgid "Arabic numbers"
 msgctxt "Domino|"
@@ -16334,7 +16283,6 @@ msgstr "阿拉伯數字"
 
 #. "Roman Numbers" is for representation of the points in a domino in the form of roman numbers
 #: core/Domino.qml:72
-#, fuzzy
 #| msgctxt "Reversecount|"
 #| msgid "Roman numbers"
 msgctxt "Domino|"
@@ -16343,7 +16291,6 @@ msgstr "羅馬數字"
 
 #. "Images" is for representation of the points in a domino in the form of an image (containing a specific count of same elements)
 #: core/Domino.qml:74
-#, fuzzy
 #| msgctxt "Reversecount|"
 #| msgid "Images"
 msgctxt "Domino|"
@@ -16584,10 +16531,9 @@ msgstr "否"
 #: core/main.qml:225
 msgctxt "main|"
 msgid "The background music is not yet downloaded. "
-msgstr ""
+msgstr "背景音樂尚未下載。"
 
 #: core/main.qml:226
-#, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "Do you want to download them now?"
 msgctxt "main|"

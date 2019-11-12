@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdereview\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-06-29 05:38+0000\n"
+"POT-Creation-Date: 2019-11-12 07:18+0000\n"
 "PO-Revision-Date: 2018-07-27 00:09+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
@@ -26,12 +26,12 @@ msgctxt "Name"
 msgid "Wacom Tablet Settings"
 msgstr "Wacom 平板裝置設定"
 
-#: src/applet/package/metadata.desktop:47
+#: src/applet/package/metadata.desktop:48
 msgctxt "Comment"
 msgid "Hotplugging and profile support for Wacom tablets"
 msgstr "Wacom 手寫板的熱插拔與設定檔支援"
 
-#: src/applet/package/metadata.desktop:90
+#: src/applet/package/metadata.desktop:92
 msgctxt "Keywords"
 msgid "Wacom"
 msgstr "Wacom"
@@ -46,12 +46,12 @@ msgctxt "Name"
 msgid "Graphic Tablet"
 msgstr "圖形平板裝置"
 
-#: src/kcmodule/kcm_wacomtablet.desktop:60
+#: src/kcmodule/kcm_wacomtablet.desktop:61
 msgctxt "Comment"
 msgid "Wacom Tablet Settings"
 msgstr "Wacom 平板裝置設定"
 
-#: src/kcmodule/kcm_wacomtablet.desktop:106
+#: src/kcmodule/kcm_wacomtablet.desktop:108
 msgctxt "X-KDE-Keywords"
 msgid "Tablet,Input Devices,Wacom,Stylus"
 msgstr "Tablet,Input Devices,Wacom,Stylus"
@@ -61,7 +61,7 @@ msgctxt "Name"
 msgid "Wacom Tablet"
 msgstr "Wacom 平板裝置"
 
-#: src/kded/wacomtablet.desktop:58
+#: src/kded/wacomtablet.desktop:59
 msgctxt "Comment"
 msgid "Wacom tablet control daemon"
 msgstr "Wacom 平板裝置控制伺服程式"
@@ -71,37 +71,37 @@ msgctxt "Comment"
 msgid "Wacom Tablet"
 msgstr "Wacom 平板裝置"
 
-#: src/kded/wacomtablet.notifyrc:49
+#: src/kded/wacomtablet.notifyrc:50
 msgctxt "Name"
 msgid "WacomTablet"
 msgstr "Wacom 平板裝置"
 
-#: src/kded/wacomtablet.notifyrc:94
+#: src/kded/wacomtablet.notifyrc:96
 msgctxt "Name"
 msgid "New tablet connected"
 msgstr "新的平板裝置已連線"
 
-#: src/kded/wacomtablet.notifyrc:137
+#: src/kded/wacomtablet.notifyrc:140
 msgctxt "Comment"
 msgid "New graphic tablet connected"
 msgstr "新的圖形平板裝置已連線"
 
-#: src/kded/wacomtablet.notifyrc:184
+#: src/kded/wacomtablet.notifyrc:188
 msgctxt "Name"
 msgid "Tablet removed"
 msgstr "平板裝置已移除"
 
-#: src/kded/wacomtablet.notifyrc:227
+#: src/kded/wacomtablet.notifyrc:232
 msgctxt "Comment"
 msgid "Graphic tablet removed"
 msgstr "圖形平板裝置已移除"
 
-#: src/kded/wacomtablet.notifyrc:273
+#: src/kded/wacomtablet.notifyrc:279
 msgctxt "Name"
 msgid "A tablet error"
 msgstr "平板裝置錯誤"
 
-#: src/kded/wacomtablet.notifyrc:317
+#: src/kded/wacomtablet.notifyrc:324
 msgctxt "Comment"
 msgid "An error occurred with the tablet"
 msgstr "平板裝置發生錯誤"
@@ -111,7 +111,7 @@ msgctxt "Name"
 msgid "Wacom Tablet finder"
 msgstr "Wacom 平板裝置搜尋"
 
-#: src/tabletfinder/kde_wacom_tabletfinder.desktop:38
+#: src/tabletfinder/kde_wacom_tabletfinder.desktop:39
 msgctxt "GenericName"
 msgid "Helper tool to detect Wacom Tablets"
 msgstr "偵測 Wacom 平百裝置的工具"

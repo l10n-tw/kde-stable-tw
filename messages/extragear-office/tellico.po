@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tellico\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-21 07:36+0200\n"
+"POT-Creation-Date: 2019-11-14 08:05+0100\n"
 "PO-Revision-Date: 2019-05-14 22:35+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
@@ -2831,34 +2831,34 @@ msgstr "Tellico 無法從檔案載入影像 - %1。"
 msgid "Untitled"
 msgstr "未命名"
 
-#: src/detailedlistview.cpp:520
+#: src/detailedlistview.cpp:522
 #, kde-format
 msgid "View Columns"
 msgstr "檢視欄位"
 
-#: src/detailedlistview.cpp:535
+#: src/detailedlistview.cpp:537
 #, kde-format
 msgctxt "Noun, Menu name"
 msgid "Columns"
 msgstr "欄位"
 
-#: src/detailedlistview.cpp:538
+#: src/detailedlistview.cpp:540
 #, fuzzy, kde-format
 #| msgid "Hide All Columns"
 msgid "Hide This Column"
 msgstr "隱藏所有欄位"
 
-#: src/detailedlistview.cpp:540
+#: src/detailedlistview.cpp:542
 #, kde-format
 msgid "Resize to Content"
 msgstr "將大小調整到符合內容"
 
-#: src/detailedlistview.cpp:545
+#: src/detailedlistview.cpp:547
 #, kde-format
 msgid "Show All Columns"
 msgstr "顯示所有欄位"
 
-#: src/detailedlistview.cpp:547
+#: src/detailedlistview.cpp:549
 #, kde-format
 msgid "Hide All Columns"
 msgstr "隱藏所有欄位"

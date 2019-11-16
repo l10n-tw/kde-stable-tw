@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kplatoui\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-16 07:49+0100\n"
+"POT-Creation-Date: 2019-11-09 02:31+0100\n"
 "PO-Revision-Date: 2011-12-26 08:35+0800\n"
 "Last-Translator: Franklin Weng <franklin@mail.everfocus.com.tw>\n"
 "Language-Team: Chinese Traditional <zh-l10n@linux.org.tw>\n"
@@ -480,9 +480,10 @@ msgid "Calculation took: %1"
 msgstr "計算花了：%1"
 
 #: kernel/kptproject.cpp:765
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Schedule tasks forward"
 msgid "Start calculating forward"
-msgstr ""
+msgstr "將工作往前安排"
 
 #: kernel/kptproject.cpp:811
 #, fuzzy, kde-format
@@ -491,9 +492,10 @@ msgid "Finished calculating forward: %1 ms"
 msgstr "延遲完成已計算：%1"
 
 #: kernel/kptproject.cpp:829
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Schedule tasks backward"
 msgid "Start calculating backward"
-msgstr ""
+msgstr "將工作往後安排"
 
 #: kernel/kptproject.cpp:875
 #, fuzzy, kde-format
@@ -508,9 +510,10 @@ msgid "Start scheduling forward"
 msgstr "將工作往前安排"
 
 #: kernel/kptproject.cpp:911
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Late finish calculated: %1"
 msgid "Finished scheduling forward: %1 ms"
-msgstr ""
+msgstr "延遲完成已計算：%1"
 
 #: kernel/kptproject.cpp:930
 #, fuzzy, kde-format
@@ -519,9 +522,10 @@ msgid "Start scheduling backward"
 msgstr "將工作往後安排"
 
 #: kernel/kptproject.cpp:950
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Late finish calculated: %1"
 msgid "Finished scheduling backward: %1 ms"
-msgstr ""
+msgstr "延遲完成已計算：%1"
 
 #: kernel/kptproject.cpp:2678
 #, kde-format
@@ -738,9 +742,10 @@ msgid "Finishing later than late finish"
 msgstr "完成時間比預計的延遲完成還晚"
 
 #: kernel/kpttask.cpp:1994
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Late finish calculated: %1"
 msgid "Finished schedule forward: %1 ms"
-msgstr ""
+msgstr "延遲完成已計算：%1"
 
 #: kernel/kpttask.cpp:2084
 #, kde-format
@@ -1335,10 +1340,9 @@ msgid "En&crypt Document"
 msgstr "文件"
 
 #: main/KoMainWindow.cpp:311
-#, fuzzy, kde-format
-#| msgid "Direction"
+#, kde-format
 msgid "&Uncompress to Directory"
-msgstr "方向"
+msgstr ""
 
 #: main/KoMainWindow.cpp:317
 #, fuzzy, kde-format
@@ -3965,9 +3969,11 @@ msgid "Task Module Parameters"
 msgstr "工作備忘"
 
 #: models/kptnodeitemmodel.cpp:4079
+#, fuzzy
+#| msgid "Per task"
 msgctxt "(qtundo-format)"
 msgid "Insert task module"
-msgstr ""
+msgstr "每個工作"
 
 #: models/kptnodeitemmodel.cpp:4137
 #, kde-format
@@ -4527,16 +4533,20 @@ msgid "Modify schedule name"
 msgstr "變更行事曆名稱"
 
 #: models/kptschedulemodel.cpp:443
-#, kde-kuit-format
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:tooltip"
+#| msgid "The scheduled finish time"
 msgctxt "@info:tooltip"
 msgid "The schedule is in Manual Mode, calculation must be initiated manually"
-msgstr ""
+msgstr "排程結束時間"
 
 #: models/kptschedulemodel.cpp:445
-#, kde-kuit-format
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:tooltip"
+#| msgid "The schedules state"
 msgctxt "@info:tooltip"
 msgid "The schedule is in Auto Mode, it will be calculated automatically"
-msgstr ""
+msgstr "排程狀態"
 
 #: models/kptschedulemodel.cpp:449
 #, kde-kuit-format
@@ -4761,16 +4771,20 @@ msgid "None"
 msgstr "無"
 
 #: models/kptschedulemodel.cpp:887
-#, kde-kuit-format
+#, fuzzy, kde-kuit-format
+#| msgctxt "(qtundo-format)"
+#| msgid "Modify scheduling direction"
 msgctxt "@info:tooltip"
 msgid "Scheduling granularity not supported"
-msgstr ""
+msgstr "變更排程方向"
 
 #: models/kptschedulemodel.cpp:891
-#, kde-kuit-format
+#, fuzzy, kde-kuit-format
+#| msgctxt "(qtundo-format)"
+#| msgid "Modify scheduling direction"
 msgctxt "@info:tooltip"
 msgid "Selected scheduling granularity: %1"
-msgstr ""
+msgstr "變更排程方向"
 
 #: models/kptschedulemodel.cpp:916
 #, fuzzy
@@ -5673,10 +5687,11 @@ msgid "Add Sub-Milestone..."
 msgstr "新增子里程碑..."
 
 #: ui/kptdependencyeditor.cpp:2362 ui/kpttaskeditor.cpp:899
-#, kde-kuit-format
+#, fuzzy, kde-kuit-format
+#| msgid "Open"
 msgctxt "@action"
 msgid "Link"
-msgstr ""
+msgstr "開啟"
 
 #: ui/kptdocumentsdialog.cpp:37
 #, fuzzy, kde-format
@@ -6470,10 +6485,9 @@ msgstr "資源"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, resourcesType)
 #: ui/kptmainprojectpanelbase.ui:233 ui/projectview/ProjectView.cpp:55
-#, fuzzy, kde-format
-#| msgid "Open"
+#, kde-format
 msgid "File"
-msgstr "開啟"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, resourcesBrowseBtn)
 #. i18n: ectx: property (text), widget (QPushButton, projectsBrowseBtn)
@@ -6593,9 +6607,10 @@ msgstr "工作備忘"
 
 #. i18n: ectx: property (text), widget (QToolButton, ui_insertModule)
 #: ui/kptmainprojectpanelbase.ui:526
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Per task"
 msgid "Insert"
-msgstr ""
+msgstr "每個工作"
 
 #. i18n: ectx: property (text), widget (QCheckBox, ui_useLocalModules)
 #: ui/kptmainprojectpanelbase.ui:550
@@ -8272,10 +8287,11 @@ msgstr "變更工作相依性"
 
 #. i18n: ectx: property (text), widget (QToolButton, addBtn)
 #: ui/RelationEditorDialog.ui:131
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Per task"
 msgctxt "Insert task dependency"
 msgid "Insert"
-msgstr ""
+msgstr "每個工作"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #. i18n: ectx: property (title), widget (QGroupBox, ui_fromgroup)
@@ -8461,9 +8477,10 @@ msgstr "區隔多個頁面上的圖表"
 #. i18n: ectx: property (text), widget (QCheckBox, headerEvenpages)
 #. i18n: ectx: property (text), widget (QCheckBox, footerEvenpages)
 #: ui/reports/reportsectionswidget.ui:95 ui/reports/reportsectionswidget.ui:150
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Go to first page"
 msgid "Even pages"
-msgstr ""
+msgstr "前往第一頁"
 
 #. i18n: @info:tooltip
 #. i18n: ectx: property (toolTip), widget (QCheckBox, headerAllpages)
@@ -8663,10 +8680,11 @@ msgid "Footer"
 msgstr "註腳"
 
 #: ui/reports/reportview.cpp:1077
-#, kde-kuit-format
+#, fuzzy, kde-kuit-format
+#| msgid "Header"
 msgctxt "@title:column"
 msgid "Page Break"
-msgstr ""
+msgstr "標頭"
 
 #: ui/reports/reportview.cpp:1080
 #, kde-kuit-format
@@ -9641,28 +9659,6 @@ msgstr "發布（Distribution）"
 msgid "All supported formats"
 msgstr ""
 
-#~ msgctxt "@info:tooltip 1=list of task names"
-#~ msgid "Cannot start, waiting for:<nl/>%1"
-#~ msgstr "無法開始，因為正在等待：<nl/>%1"
-
-#~ msgid "Send..."
-#~ msgstr "送出..."
-
-#~ msgid "Per Resource"
-#~ msgstr "每個資源"
-
-#~ msgid "Add Resource..."
-#~ msgstr "新增資源..."
-
-#~ msgid "Send To..."
-#~ msgstr "傳送到..."
-
-#, fuzzy
-#~| msgctxt "@title:window"
-#~| msgid "Report Designer"
-#~ msgid "Report file generated: %1"
-#~ msgstr "報告設計器"
-
 #, fuzzy
 #~| msgid "Show Project"
 #~ msgid "New project"
@@ -9683,3 +9679,16 @@ msgstr ""
 #~| msgid "Product"
 #~ msgid "Introduction"
 #~ msgstr "產品"
+
+#, fuzzy
+#~| msgctxt "@title:window"
+#~| msgid "Report Designer"
+#~ msgctxt "@title"
+#~ msgid "Report Generation"
+#~ msgstr "報告設計器"
+
+#, fuzzy
+#~| msgid "Remove"
+#~ msgctxt "Remove selected dependencies"
+#~ msgid "Remove"
+#~ msgstr "移除"

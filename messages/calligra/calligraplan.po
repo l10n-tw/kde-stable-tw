@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kplato\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-16 07:49+0100\n"
+"POT-Creation-Date: 2019-10-30 02:35+0100\n"
 "PO-Revision-Date: 2012-06-14 08:33+0800\n"
 "Last-Translator: Franklin Weng <franklin@goodhorse.idv.tw>\n"
 "Language-Team: Chinese Traditional <zh-l10n@linux.org.tw>\n"
@@ -1745,9 +1745,10 @@ msgstr "插入..."
 
 #. i18n: ectx: property (toolTip), widget (QLabel, categoryLabel)
 #: kptviewlistaddview.ui:20 kptviewlisteditview.ui:20
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Type of estimate"
 msgid "The category of the view"
-msgstr ""
+msgstr "估計類型"
 
 #. i18n: ectx: property (text), widget (QLabel, categoryLabel)
 #: kptviewlistaddview.ui:23 kptviewlisteditview.ui:23
@@ -1783,9 +1784,10 @@ msgstr "檢視型態："
 
 #. i18n: ectx: property (toolTip), widget (QLabel, viewnameLabel)
 #: kptviewlistaddview.ui:95 kptviewlisteditview.ui:78
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Type of estimate"
 msgid "The name of the view"
-msgstr ""
+msgstr "估計類型"
 
 #. i18n: ectx: property (text), widget (QLabel, viewnameLabel)
 #. i18n: ectx: property (text), widget (QLabel, categoryLabel)
@@ -2010,11 +2012,8 @@ msgstr ""
 msgid "The description of the category"
 msgstr ""
 
-#~ msgid "Project"
-#~ msgstr "專案"
-
-#~ msgid "General"
-#~ msgstr "一般"
+#~ msgid "Edit Main Project..."
+#~ msgstr "編輯主專案..."
 
 #~ msgid ""
 #~ "The person responsible for this task.\n"
@@ -2027,6 +2026,20 @@ msgstr ""
 #~ "\n"
 #~ "不一定要是在資源群組裡的人，可以是任何人。您甚至可以直接從您的通訊錄中指"
 #~ "定。"
+
+#, fuzzy
+#~| msgid "Duration"
+#~ msgid "Documentation:"
+#~ msgstr "期間"
+
+#, fuzzy
+#~| msgid "Tasks by resources"
+#~ msgctxt "@info:tooltip"
+#~ msgid "Check to enable shared resources"
+#~ msgstr "依資源檢視工作狀態"
+
+#~ msgid "General"
+#~ msgstr "一般"
 
 #, fuzzy
 #~| msgctxt "Project manager"
@@ -2049,8 +2062,30 @@ msgstr ""
 #~ msgid "Browse..."
 #~ msgstr "選擇..."
 
+#, fuzzy
+#~| msgid "Tasks by resources"
+#~ msgid "Shared projects:"
+#~ msgstr "依資源檢視工作狀態"
+
 #~ msgid "Description"
 #~ msgstr "描述"
+
+#, fuzzy
+#~| msgid "Task Colors"
+#~ msgid "Task Modules Path"
+#~ msgstr "工作顏色"
+
+#, fuzzy
+#~| msgctxt "@action:inmenu Insert View"
+#~| msgid "Insert..."
+#~ msgid "Insert"
+#~ msgstr "插入..."
+
+#, fuzzy
+#~| msgctxt "@action:inmenu remove view"
+#~| msgid "Remove"
+#~ msgid "Remove"
+#~ msgstr "移除"
 
 #, fuzzy
 #~| msgctxt "@label:chooser"
@@ -2127,6 +2162,9 @@ msgstr ""
 #~ msgid "Immediate on change"
 #~ msgstr "變更時立即計算"
 
+#~ msgid "Constraints"
+#~ msgstr "強制"
+
 #~ msgid "Allow overbooking of resources"
 #~ msgstr "允許資源超額"
 
@@ -2141,6 +2179,9 @@ msgstr ""
 
 #~ msgid "Choose..."
 #~ msgstr "選擇..."
+
+#~ msgid "Scheduling constraint:"
+#~ msgstr "排程限制："
 
 #~ msgid "As Soon as Possible"
 #~ msgstr "越快越好"
@@ -2205,23 +2246,6 @@ msgstr ""
 #~ msgid "Pessimistic estimate:"
 #~ msgstr "悲觀估計："
 
-#~ msgid "New work packages detected. Merge data with existing tasks?"
-#~ msgstr "偵測到新的工作套件。要將資料與現有工作合併嗎？"
-
-#~ msgid ""
-#~ "The package owner '%1' is not a resource in this project. You must handle "
-#~ "this manually."
-#~ msgstr "套件擁有者 %1 不是此專案中的資源。您必須手動處理。"
-
-#~ msgid "Nothing to save from this package"
-#~ msgstr "此套件中沒有東西可儲存"
-
-#~ msgid "Edit Main Project..."
-#~ msgstr "編輯主專案..."
-
-#~ msgid "Configure Plan..."
-#~ msgstr "設定 Plan..."
-
 #, fuzzy
 #~| msgid "Project Status"
 #~ msgid "Project Defaults"
@@ -2230,17 +2254,42 @@ msgstr ""
 #~ msgid "Task Defaults"
 #~ msgstr "工作預設值"
 
+#~ msgid "Task Colors"
+#~ msgstr "工作顏色"
+
+#, fuzzy
+#~| msgid "Task Colors"
+#~ msgid "Task Modules"
+#~ msgstr "工作顏色"
+
+#~ msgid "Work Package"
+#~ msgstr "工作套件"
+
+#, fuzzy
+#~| msgid "Duration"
+#~ msgid "Documentation"
+#~ msgstr "期間"
+
+#~ msgid "Configure Plan..."
+#~ msgstr "設定 Plan..."
+
+#, fuzzy
+#~| msgid "Retrieve URL:"
+#~ msgid "Retrieve"
+#~ msgstr "取得網址："
+
 #~ msgid "Check for work packages"
 #~ msgstr "檢查工作套件"
 
-#~ msgid "Retrieve URL:"
+#, fuzzy
+#~| msgid "Retrieve URL:"
+#~ msgid "Retrieve:"
 #~ msgstr "取得網址："
 
 #~ msgid "Delete file after it has been retrieved"
 #~ msgstr "在取得後刪除檔案"
 
-#~ msgid "Save file after it has been retrieved"
+#, fuzzy
+#~| msgid "Save file after it has been retrieved"
+#~ msgid "Archive file after it has been retrieved"
 #~ msgstr "在取得後儲存檔案"
-
-#~ msgid "Save URL:"
-#~ msgstr "儲存網址："

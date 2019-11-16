@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krossmodulekplato\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-30 07:37+0200\n"
+"POT-Creation-Date: 2019-11-16 07:49+0100\n"
 "PO-Revision-Date: 2011-09-20 08:48+0800\n"
 "Last-Translator: Franklin Weng <franklin@goodhorse.idv.tw>\n"
 "Language-Team: Chinese Traditional <zh-l10n@linux.org.tw>\n"
@@ -18,37 +18,37 @@ msgstr ""
 "X-Generator: Lokalize 1.2\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: Project.cpp:374 Project.cpp:377 Project.cpp:389 Project.cpp:392
+#: Project.cpp:375 Project.cpp:378 Project.cpp:390 Project.cpp:393
 msgctxt "(qtundo-format)"
 msgid "Add task"
 msgstr "新增工作"
 
-#: Project.cpp:432 Project.cpp:440
+#: Project.cpp:433 Project.cpp:441
 msgctxt "(qtundo-format)"
 msgid "Add resource group"
 msgstr "新增資源群組"
 
-#: Project.cpp:518 Project.cpp:536
+#: Project.cpp:519 Project.cpp:537
 msgctxt "(qtundo-format)"
 msgid "Add resource"
 msgstr "新增資源"
 
-#: Project.cpp:639
+#: Project.cpp:640
 msgctxt "(qtundo-format)"
 msgid "Add external appointment"
 msgstr "新增外部約會"
 
-#: Project.cpp:649 Project.cpp:656
+#: Project.cpp:650 Project.cpp:657
 msgctxt "(qtundo-format)"
 msgid "Clear external appointments"
 msgstr "清除外部約會"
 
-#: Project.cpp:663
+#: Project.cpp:664
 msgctxt "(qtundo-format)"
 msgid "Clear all external appointments"
 msgstr "清除所有外部約會"
 
-#: Resource.cpp:101
+#: Resource.cpp:102
 msgctxt "(qtundo-format)"
 msgid "Set resource team members"
 msgstr "設定資源團隊成員"
@@ -89,7 +89,7 @@ msgstr "帳號"
 msgid "Include headers"
 msgstr "包含標頭"
 
-#: ScriptingWidgets.cpp:61
+#: ScriptingWidgets.cpp:62
 #, kde-format
 msgid "Schedule Name"
 msgstr "排程名稱"

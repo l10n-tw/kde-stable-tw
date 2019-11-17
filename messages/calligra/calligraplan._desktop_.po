@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-01 01:20+0000\n"
+"POT-Creation-Date: 2019-11-17 06:50+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
@@ -17,7 +17,7 @@ msgctxt "Name"
 msgid "Plan Scheduler Plugin"
 msgstr ""
 
-#: src/libs/kernel/plan_schedulerplugin.desktop:24
+#: src/libs/kernel/plan_schedulerplugin.desktop:5
 msgctxt "Comment"
 msgid "A plugin that calculates a project schedule"
 msgstr ""
@@ -27,8 +27,8 @@ msgctxt "Name"
 msgid "Plan"
 msgstr ""
 
-#: src/org.kde.calligraplan.desktop:23
-#: src/workpackage/org.kde.calligraplanwork.desktop:21
+#: src/org.kde.calligraplan.desktop:3
+#: src/workpackage/org.kde.calligraplanwork.desktop:3
 msgctxt "GenericName"
 msgid "Project Management"
 msgstr ""
@@ -63,7 +63,7 @@ msgctxt "Name"
 msgid "RCPS Scheduler"
 msgstr ""
 
-#: src/plugins/schedulers/rcps/planrcpsscheduler.desktop:26
+#: src/plugins/schedulers/rcps/planrcpsscheduler.desktop:7
 msgctxt "Comment"
 msgid "Genetics based Resource Constrained Project Scheduler"
 msgstr ""
@@ -73,7 +73,7 @@ msgctxt "Name"
 msgid "TJ Scheduler"
 msgstr ""
 
-#: src/plugins/schedulers/tj/plantjscheduler.desktop:27
+#: src/plugins/schedulers/tj/plantjscheduler.desktop:7
 msgctxt "Comment"
 msgid "The TaskJuggler scheduler"
 msgstr ""
@@ -119,7 +119,7 @@ msgctxt "Name"
 msgid "Plan WorkPackage Handler"
 msgstr ""
 
-#: src/workpackage/org.kde.calligraplanwork.desktop:42
+#: src/workpackage/org.kde.calligraplanwork.desktop:4
 msgctxt "Comment"
 msgid "Work Package handler for the Plan project planning tool"
 msgstr ""
@@ -129,7 +129,7 @@ msgctxt "Name"
 msgid "Empty Document"
 msgstr ""
 
-#: src/workpackage/templates/Simple/Empty.desktop:26
+#: src/workpackage/templates/Simple/Empty.desktop:6
 msgctxt "Comment"
 msgid "Creates an empty document"
 msgstr ""

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_extragear-network_kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-30 05:56+0000\n"
+"POT-Creation-Date: 2019-11-18 07:02+0000\n"
 "PO-Revision-Date: 2019-07-31 17:05+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
@@ -42,7 +42,7 @@ msgctxt "Name"
 msgid "Send file via KDE Connect service"
 msgstr "使用 KDE Connect 服務傳送檔案"
 
-#: fileitemactionplugin/kdeconnectsendfile.desktop:29
+#: fileitemactionplugin/kdeconnectsendfile.desktop:30
 msgctxt "X-KDE-Submenu"
 msgid "Connect"
 msgstr "連線"

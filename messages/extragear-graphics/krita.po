@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-20 08:03+0100\n"
+"POT-Creation-Date: 2019-11-21 07:46+0100\n"
 "PO-Revision-Date: 2019-11-09 19:53+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
@@ -7153,13 +7153,13 @@ msgctxt "action"
 msgid "Workspaces"
 msgstr "作業空間"
 
-#: krita/main.cc:452 libs/ui/KisApplication.cpp:367
+#: krita/main.cc:454 libs/ui/KisApplication.cpp:367
 #, kde-format
 msgctxt "@title:window"
 msgid "Krita: Warning"
 msgstr "Krita：警告"
 
-#: krita/main.cc:453
+#: krita/main.cc:455
 #, kde-format
 msgid ""
 "You are running an unsupported version of Windows: %1.\n"
@@ -7170,12 +7170,12 @@ msgstr ""
 "我們不建議這樣做，請勿為此報告問題。\n"
 "請升級到下列支援的 Windows 版本之一：Windows 7、8、8.1、10。"
 
-#: krita/main.cc:475 krita/main.cc:480
+#: krita/main.cc:477 krita/main.cc:482
 #, kde-format
 msgid "Krita Tablet Support"
 msgstr "Krita 數位板支援"
 
-#: krita/main.cc:476
+#: krita/main.cc:478
 #, kde-format
 msgid ""
 "Cannot load WinTab driver and no Windows Ink pen devices are found. If you "
@@ -7185,7 +7185,7 @@ msgstr ""
 "無法載入 WinTab 驅動，且未發現 Windows Ink 裝置。如果數位板已連結，請確保其驅"
 "動程式已正確安裝。"
 
-#: krita/main.cc:481
+#: krita/main.cc:483
 #, kde-format
 msgid ""
 "Cannot load WinTab driver. If you have a drawing tablet, please make sure "

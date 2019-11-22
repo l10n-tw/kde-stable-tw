@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalarm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-21 07:55+0100\n"
+"POT-Creation-Date: 2019-11-22 08:02+0100\n"
 "PO-Revision-Date: 2018-05-19 11:56+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
@@ -5942,7 +5942,7 @@ msgctxt "@info A prompt for user to enter what to search for"
 msgid "Search"
 msgstr ""
 
-#: resources/resourcetype.cpp:282
+#: resources/resourcetype.cpp:285
 #, fuzzy, kde-format
 #| msgctxt "@info"
 #| msgid "Calendar Files"
@@ -5950,26 +5950,26 @@ msgctxt "@info"
 msgid "KAlarm Calendar File"
 msgstr "行事曆檔案"
 
-#: resources/resourcetype.cpp:282
+#: resources/resourcetype.cpp:285
 #, fuzzy, kde-format
 #| msgid "Path to KAlarm directory."
 msgctxt "@info"
 msgid "KAlarm Calendar Directory"
 msgstr "KAlarm 目錄的路徑。"
 
-#: resources/resourcetype.cpp:283
+#: resources/resourcetype.cpp:286
 #, kde-format
 msgctxt "@info"
 msgid "File"
 msgstr "檔案"
 
-#: resources/resourcetype.cpp:284
+#: resources/resourcetype.cpp:287
 #, kde-format
 msgctxt "@info"
 msgid "URL"
 msgstr "網址"
 
-#: resources/resourcetype.cpp:285
+#: resources/resourcetype.cpp:288
 #, kde-format
 msgctxt "@info Directory in filesystem"
 msgid "Directory"

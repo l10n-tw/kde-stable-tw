@@ -12907,12 +12907,12 @@ msgctxt "ActivityInfo|"
 msgid "<ul><li><b>ENTER</b> or <b>RETURN</b>.</li></ul>"
 msgstr "<ul><li>按下<b>Enter</b>鍵或<b>Return</b>鍵。</li></ul>"
 
-#: activities/programmingMaze/InstructionArea.qml:45
+#: activities/programmingMaze/InstructionArea.qml:46
 msgctxt "InstructionArea|"
 msgid "Choose the instructions"
 msgstr "選取指令"
 
-#: activities/programmingMaze/programmingMaze.js:97
+#: activities/programmingMaze/programmingMaze.js:95
 msgctxt "programmingMaze|"
 msgid ""
 "<b><h7>Instruction Area:</b></h7>There are 3 instructions which you have to "
@@ -12926,7 +12926,7 @@ msgstr ""
 "往前：</b>讓小企鵝朝面對的方向往前走一步。</li><b><li>2. 往左：</b>將小企鵝往"
 "左轉。</li><b><li>3. 往右：</b>將小企鵝往右轉。</li>"
 
-#: activities/programmingMaze/programmingMaze.js:105
+#: activities/programmingMaze/programmingMaze.js:103
 msgctxt "programmingMaze|"
 msgid ""
 "<b><h7>Main Function:</b></h7><li>-The execution of code starts here on "
@@ -12938,7 +12938,7 @@ msgstr ""
 "b>的任何指令可以將指令新增到<b>主程式</b></li><li>-指令會依照它們放置的順序執"
 "行，直到沒有指令可執行，走到死路，或是小企鵝走到目標抓到魚為止。</li>"
 
-#: activities/programmingMaze/programmingMaze.js:115
+#: activities/programmingMaze/programmingMaze.js:113
 msgctxt "programmingMaze|"
 msgid ""
 "<b><h7>Procedure:</b></h7><li>-<b>Procedure</b> is a reusable set of "
@@ -12951,25 +12951,25 @@ msgstr ""
 "b></li><li>-要在<b>副程式</b>與<b>主程式</b>間切換以便新增指令，您只要點擊一"
 "下<b>副程式</b>或<b>主程式</b>的標籤即可。</li>"
 
-#: activities/programmingMaze/ProgrammingMaze.qml:197
+#: activities/programmingMaze/ProgrammingMaze.qml:199
 msgctxt "ProgrammingMaze|"
 msgid ""
 "Click on Tux or press Enter key to reset it or RELOAD button to reload the "
 "level."
 msgstr "點擊小企鵝或按 Enter 鍵，或是點擊重新載入鍵可以重新來過。"
 
-#: activities/programmingMaze/ProgrammingMaze.qml:198
+#: activities/programmingMaze/ProgrammingMaze.qml:200
 #, qt-format
 msgctxt "ProgrammingMaze|"
 msgid "Reach the fish in less than %1 instructions."
 msgstr "在 %1 個指令內抓到魚。"
 
-#: activities/programmingMaze/ProgrammingMaze.qml:266
+#: activities/programmingMaze/ProgrammingMaze.qml:273
 msgctxt "ProgrammingMaze|"
 msgid "Main function"
 msgstr "主程式"
 
-#: activities/programmingMaze/ProgrammingMaze.qml:294
+#: activities/programmingMaze/ProgrammingMaze.qml:301
 msgctxt "ProgrammingMaze|"
 msgid "Procedure"
 msgstr "副程式"

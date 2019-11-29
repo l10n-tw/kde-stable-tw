@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: akregator\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-18 07:54+0100\n"
+"POT-Creation-Date: 2019-11-29 08:00+0100\n"
 "PO-Revision-Date: 2019-03-22 00:34+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
@@ -948,7 +948,7 @@ msgstr "變更 feeds 時重置快速過濾器"
 
 #: kontactplugin/akregator_plugin.cpp:43 src/aboutdata.cpp:35
 #: src/akregator_part.cpp:185
-#: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:145
+#: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:146
 #: src/trayicon.cpp:48 src/trayicon.cpp:49 src/trayicon.cpp:62
 #, kde-format
 msgid "Akregator"
@@ -1671,7 +1671,7 @@ msgctxt "Articlelist's column header"
 msgid "Content"
 msgstr "內容"
 
-#: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:146
+#: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:147
 #, kde-format
 msgid "Akregator is a KDE news feed reader."
 msgstr "Akregator 是個 KDE 新聞 Feed 閱讀器"

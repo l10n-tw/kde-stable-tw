@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-24 07:05+0000\n"
+"POT-Creation-Date: 2019-11-29 07:08+0000\n"
 "PO-Revision-Date: 2019-11-10 09:25+0800\n"
 "Last-Translator: Franklin Weng <franklin@goodhorse.idv.tw>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -26,7 +26,7 @@ msgid "Educational Game"
 msgstr "教育遊戲"
 
 #: org.kde.gcompris.desktop:49
-#: platforms/sailfishOS/harbour-gcompris-qt.desktop:69
+#: platforms/sailfishOS/harbour-gcompris-qt.desktop:71
 msgctxt "Comment"
 msgid "Multi-Activity Educational game for children 2 to 10"
 msgstr "為 2-10 歲孩子設計的教育遊戲"
@@ -36,7 +36,7 @@ msgctxt "Name"
 msgid "GCompris Educational Game"
 msgstr "GCompris 教育遊戲"
 
-#: platforms/sailfishOS/harbour-gcompris-qt.desktop:35
+#: platforms/sailfishOS/harbour-gcompris-qt.desktop:36
 msgctxt "GenericName"
 msgid "Educational game"
 msgstr "教育遊戲"

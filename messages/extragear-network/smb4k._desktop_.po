@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-08 05:47+0000\n"
+"POT-Creation-Date: 2019-12-02 07:16+0000\n"
 "PO-Revision-Date: 2019-06-02 20:23+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
@@ -61,237 +61,237 @@ msgctxt "Name"
 msgid "Share mounted"
 msgstr "分享資料夾已掛載"
 
-#: core/smb4k.notifyrc:295
+#: core/smb4k.notifyrc:296
 msgctxt "Comment"
 msgid "A share has been mounted"
 msgstr "分享資料夾已掛載"
 
-#: core/smb4k.notifyrc:328
+#: core/smb4k.notifyrc:330
 msgctxt "Name"
 msgid "Share unmounted"
 msgstr "分享資料夾已卸載"
 
-#: core/smb4k.notifyrc:357
+#: core/smb4k.notifyrc:360
 msgctxt "Comment"
 msgid "A share has been unmounted"
 msgstr "分享資料夾已卸載"
 
-#: core/smb4k.notifyrc:390
+#: core/smb4k.notifyrc:394
 msgctxt "Name"
 msgid "Shares mounted"
 msgstr "分享資料夾已掛載"
 
-#: core/smb4k.notifyrc:419
+#: core/smb4k.notifyrc:424
 msgctxt "Comment"
 msgid "Multiple shares have been mounted"
 msgstr "多個分享資料夾已掛載"
 
-#: core/smb4k.notifyrc:452
+#: core/smb4k.notifyrc:458
 msgctxt "Name"
 msgid "Shares unmounted"
 msgstr "分享資料夾已卸載"
 
-#: core/smb4k.notifyrc:481
+#: core/smb4k.notifyrc:488
 msgctxt "Comment"
 msgid "Multiple shares have been unmounted"
 msgstr "多個分享資料夾已卸載"
 
-#: core/smb4k.notifyrc:514
+#: core/smb4k.notifyrc:522
 msgctxt "Name"
 msgid "Opening wallet failed"
 msgstr "開啟錢包失敗"
 
-#: core/smb4k.notifyrc:543
+#: core/smb4k.notifyrc:552
 msgctxt "Comment"
 msgid "The network wallet could not be opened"
 msgstr "無法開啟網路錢包"
 
-#: core/smb4k.notifyrc:577
+#: core/smb4k.notifyrc:587
 msgctxt "Name"
 msgid "Credentials not accessible"
 msgstr "無法取得帳號密碼資訊"
 
-#: core/smb4k.notifyrc:606
+#: core/smb4k.notifyrc:617
 msgctxt "Comment"
 msgid "The credentials could not be read from the wallet"
 msgstr "無法從錢包中讀取帳號密碼資訊"
 
-#: core/smb4k.notifyrc:640
+#: core/smb4k.notifyrc:652
 msgctxt "Name"
 msgid "Mimetype not supported"
 msgstr "MIME 型態不支援"
 
-#: core/smb4k.notifyrc:669
+#: core/smb4k.notifyrc:682
 msgctxt "Comment"
 msgid "The mimetype of the file that is to be printed is not supported"
 msgstr "要列印的檔案 MIME 型態未被支援"
 
-#: core/smb4k.notifyrc:702
+#: core/smb4k.notifyrc:716
 msgctxt "Name"
 msgid "Bookmark exists"
 msgstr "書籤已存在"
 
-#: core/smb4k.notifyrc:731
+#: core/smb4k.notifyrc:746
 msgctxt "Comment"
 msgid "The bookmark exists"
 msgstr "書籤已存在"
 
-#: core/smb4k.notifyrc:765
+#: core/smb4k.notifyrc:781
 msgctxt "Name"
 msgid "Bookmark label in use"
 msgstr "書籤標記已在使用中"
 
-#: core/smb4k.notifyrc:794
+#: core/smb4k.notifyrc:811
 msgctxt "Comment"
 msgid "The label for the bookmark already exists"
 msgstr "書籤的標記已存在"
 
-#: core/smb4k.notifyrc:828
+#: core/smb4k.notifyrc:846
 msgctxt "Name"
 msgid "Configuration file for Samba missing"
 msgstr "Samba 設定檔遺失"
 
-#: core/smb4k.notifyrc:855
+#: core/smb4k.notifyrc:874
 msgctxt "Comment"
 msgid "The configuration file for the Samba suite is missing"
 msgstr "Smaba 套件的設定檔遺失"
 
-#: core/smb4k.notifyrc:887
+#: core/smb4k.notifyrc:907
 msgctxt "Name"
 msgid "Mounting failed"
 msgstr "掛載失敗"
 
-#: core/smb4k.notifyrc:917
+#: core/smb4k.notifyrc:938
 msgctxt "Comment"
 msgid "Mounting a share failed"
 msgstr "掛載分享資料夾失敗"
 
-#: core/smb4k.notifyrc:951
+#: core/smb4k.notifyrc:973
 msgctxt "Name"
 msgid "Unmounting failed"
 msgstr "卸載失敗"
 
-#: core/smb4k.notifyrc:981
+#: core/smb4k.notifyrc:1004
 msgctxt "Comment"
 msgid "Unmounting a share failed"
 msgstr "卸載分享資料夾失敗"
 
-#: core/smb4k.notifyrc:1015
+#: core/smb4k.notifyrc:1039
 msgctxt "Name"
 msgid "Unmounting not allowed"
 msgstr "不允許卸載"
 
-#: core/smb4k.notifyrc:1044
+#: core/smb4k.notifyrc:1069
 msgctxt "Comment"
 msgid "The unmounting of a certain share is not allowed"
 msgstr "不允許卸載特定分享資料夾"
 
-#: core/smb4k.notifyrc:1078
+#: core/smb4k.notifyrc:1104
 msgctxt "Name"
 msgid "Synchronization failed"
 msgstr "同步失敗"
 
-#: core/smb4k.notifyrc:1107
+#: core/smb4k.notifyrc:1134
 msgctxt "Comment"
 msgid "The synchronization of a share and a local copy failed"
 msgstr "將分享資源與本地端複本同步失敗"
 
-#: core/smb4k.notifyrc:1140
+#: core/smb4k.notifyrc:1168
 msgctxt "Name"
 msgid "Command not found"
 msgstr "找不到指令"
 
-#: core/smb4k.notifyrc:1169
+#: core/smb4k.notifyrc:1198
 msgctxt "Comment"
 msgid "A required command could not be found"
 msgstr "找不到需要的指令"
 
-#: core/smb4k.notifyrc:1202
+#: core/smb4k.notifyrc:1232
 msgctxt "Name"
 msgid "Cannot bookmark printer"
 msgstr "無法將印表機加入書籤"
 
-#: core/smb4k.notifyrc:1230
+#: core/smb4k.notifyrc:1261
 msgctxt "Comment"
 msgid "A printer cannot be bookmarked"
 msgstr "無法將印表機加入書籤"
 
-#: core/smb4k.notifyrc:1263
+#: core/smb4k.notifyrc:1295
 msgctxt "Name"
 msgid "File not found"
 msgstr "找不到檔案"
 
-#: core/smb4k.notifyrc:1293
+#: core/smb4k.notifyrc:1326
 msgctxt "Comment"
 msgid "A file could not be found"
 msgstr "找不到檔案"
 
-#: core/smb4k.notifyrc:1326
+#: core/smb4k.notifyrc:1360
 msgctxt "Name"
 msgid "Opening file failed"
 msgstr "開啟檔案失敗"
 
-#: core/smb4k.notifyrc:1354
+#: core/smb4k.notifyrc:1389
 msgctxt "Comment"
 msgid "A file could not be opened"
 msgstr "無法開啟檔案"
 
-#: core/smb4k.notifyrc:1387
+#: core/smb4k.notifyrc:1423
 msgctxt "Name"
 msgid "Reading file failed"
 msgstr "讀取檔案失敗"
 
-#: core/smb4k.notifyrc:1415
+#: core/smb4k.notifyrc:1452
 msgctxt "Comment"
 msgid "A file could not be read"
 msgstr "無法讀取檔案"
 
-#: core/smb4k.notifyrc:1448
+#: core/smb4k.notifyrc:1486
 msgctxt "Name"
 msgid "mkdir failed"
 msgstr "建立目錄失敗"
 
-#: core/smb4k.notifyrc:1476
+#: core/smb4k.notifyrc:1515
 msgctxt "Comment"
 msgid "A directory could not be created"
 msgstr "無法建立目錄"
 
-#: core/smb4k.notifyrc:1509
+#: core/smb4k.notifyrc:1549
 msgctxt "Name"
 msgid "Process error"
 msgstr "行程錯誤"
 
-#: core/smb4k.notifyrc:1539
+#: core/smb4k.notifyrc:1580
 msgctxt "Comment"
 msgid "A process error occurred"
 msgstr "行程發生錯誤"
 
-#: core/smb4k.notifyrc:1572
+#: core/smb4k.notifyrc:1614
 msgctxt "Name"
 msgid "Action failed"
 msgstr "動作失敗"
 
-#: core/smb4k.notifyrc:1601
+#: core/smb4k.notifyrc:1644
 msgctxt "Comment"
 msgid "A KAuth action failed"
 msgstr "KAuth 動作失敗"
 
-#: core/smb4k.notifyrc:1634
+#: core/smb4k.notifyrc:1678
 msgctxt "Name"
 msgid "Invalid URL"
 msgstr "不合法的網址"
 
-#: core/smb4k.notifyrc:1664
+#: core/smb4k.notifyrc:1709
 msgctxt "Comment"
 msgid "An invalid URL was passed"
 msgstr "傳遞了不合法的網址"
 
-#: core/smb4k.notifyrc:1697
+#: core/smb4k.notifyrc:1743
 msgctxt "Name"
 msgid "Network communication failed"
 msgstr "網路通訊失敗"
 
-#: core/smb4k.notifyrc:1718
+#: core/smb4k.notifyrc:1765
 msgctxt "Comment"
 msgid "A network related action could not be performed or failed"
 msgstr "網路相關動作無法執行或是執行失敗。"

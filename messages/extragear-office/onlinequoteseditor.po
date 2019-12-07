@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: onlinequoteseditor\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-30 07:39+0200\n"
+"POT-Creation-Date: 2019-12-07 07:57+0100\n"
 "PO-Revision-Date: 2019-03-22 00:29+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
@@ -48,33 +48,33 @@ msgstr "(C) 2018-2019 Ralf Habacker"
 msgid "&About %1"
 msgstr ""
 
-#: mainwindow.cpp:91
+#: mainwindow.cpp:92
 #, kde-format
 msgid "Profiles"
 msgstr ""
 
-#: mainwindow.cpp:96
+#: mainwindow.cpp:97
 #, kde-format
 msgid "Profile details"
 msgstr ""
 
-#: mainwindow.cpp:101
+#: mainwindow.cpp:102
 #, fuzzy, kde-format
 #| msgid "Online Quotes Editor"
 msgid "Online quotes"
 msgstr "線上報價編輯器"
 
-#: mainwindow.cpp:106
+#: mainwindow.cpp:107
 #, kde-format
 msgid "Debug"
 msgstr ""
 
-#: mainwindow.cpp:111
+#: mainwindow.cpp:112
 #, kde-format
 msgid "Quote details"
 msgstr ""
 
-#: mainwindow.cpp:116
+#: mainwindow.cpp:117
 #, kde-format
 msgid "Browser"
 msgstr ""

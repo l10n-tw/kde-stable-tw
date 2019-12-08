@@ -4,16 +4,28 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json_extragear-network_kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-30 07:58+0000\n"
-"PO-Revision-Date: 2019-07-31 17:06+0800\n"
+"POT-Creation-Date: 2019-11-26 03:43+0000\n"
+"PO-Revision-Date: 2019-11-26 21:17+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
-"Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
+"Language-Team: Chinese <chinese-l10n@googlegroups.com>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 19.07.80\n"
+"X-Generator: Lokalize 19.11.80\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: plugins/sms/kdeconnect_sms.json plugins/contacts/kdeconnect_contacts.json
+msgctxt "Authors Name"
+msgid "Simon Redman"
+msgstr "Simon Redman"
+
+#: plugins/photo/kdeconnect_photo.json
+#: plugins/remotesystemvolume/kdeconnect_remotesystemvolume.json
+#: plugins/systemvolume/kdeconnect_systemvolume.json
+msgctxt "Authors Name"
+msgid "Nicolas Fella"
+msgstr "Nicolas Fella"
 
 #: plugins/pausemusic/kdeconnect_pausemusic.json
 #: plugins/notifications/kdeconnect_notifications.json
@@ -27,7 +39,6 @@ msgctxt "Authors Name"
 msgid "Albert Vaca"
 msgstr "Albert Vaca"
 
-#: plugins/sendnotifications/kdeconnect_sendnotifications.json
 #: plugins/remotekeyboard/kdeconnect_remotekeyboard.json
 msgctxt "Authors Name"
 msgid "Holger Kaelberer"
@@ -41,6 +52,7 @@ msgstr "Pramod Dematagoda"
 #: plugins/remotecontrol/kdeconnect_remotecontrol.json
 #: plugins/lockdevice/kdeconnect_lockdevice.json
 #: plugins/remotecommands/kdeconnect_remotecommands.json
+#: plugins/presenter/kdeconnect_presenter.json
 #: plugins/mprisremote/kdeconnect_mprisremote.json
 msgctxt "Authors Name"
 msgid "Aleix Pol"
@@ -52,21 +64,40 @@ msgctxt "Authors Name"
 msgid "David Edmundson"
 msgstr "David Edmundson"
 
-#: plugins/mousepad_windows/kdeconnect_mousepad.json
-#: plugins/mousepad/kdeconnect_mousepad.json
-msgctxt "Authors Name"
-msgid "Ahmed I. Khalil"
-msgstr "Ahmed I. Khalil"
-
 #: plugins/sftp/kdeconnect_sftp.json
 msgctxt "Authors Name"
 msgid "Samoilenko Yuri"
 msgstr "Samoilenko Yuri"
 
+#: plugins/mousepad/kdeconnect_mousepad.json
+msgctxt "Authors Name"
+msgid "Ahmed I. Khalil"
+msgstr "Ahmed I. Khalil"
+
+#: plugins/findthisdevice/kdeconnect_findthisdevice.json
+msgctxt "Authors Name"
+msgid "Friedrich W. H. Kossebau"
+msgstr "Friedrich W. H. Kossebau"
+
 #: plugins/findmyphone/kdeconnect_findmyphone.json
 msgctxt "Authors Name"
 msgid "Apoorv Parle"
 msgstr "Apoorv Parle"
+
+#: fileitemactionplugin/kdeconnectsendfile.json
+msgctxt "Name"
+msgid "Send file via KDE Connect"
+msgstr "使用 KDE 連線傳送檔案"
+
+#: plugins/sms/kdeconnect_sms.json
+msgctxt "Name"
+msgid "SMS"
+msgstr "文字簡訊"
+
+#: plugins/photo/kdeconnect_photo.json
+msgctxt "Name"
+msgid "Photo"
+msgstr "相片"
 
 #: plugins/pausemusic/kdeconnect_pausemusic.json
 msgctxt "Name"
@@ -77,11 +108,6 @@ msgstr "在通話過程中暫停媒體"
 msgctxt "Name"
 msgid "Receive notifications"
 msgstr "收到通知"
-
-#: plugins/sendnotifications/kdeconnect_sendnotifications.json
-msgctxt "Name"
-msgid "Send notifications"
-msgstr "傳送通知"
 
 #: plugins/remotekeyboard/kdeconnect_remotekeyboard.json
 msgctxt "Name"
@@ -113,16 +139,20 @@ msgctxt "Name"
 msgid "Run commands"
 msgstr "執行命令"
 
+#: plugins/remotesystemvolume/kdeconnect_remotesystemvolume.json
+msgctxt "Name"
+msgid "Remote system volume"
+msgstr "遠端系統音量"
+
+#: plugins/systemvolume/kdeconnect_systemvolume.json
+msgctxt "Name"
+msgid "System volume"
+msgstr "系統音量"
+
 #: plugins/lockdevice/kdeconnect_lockdevice.json
 msgctxt "Name"
 msgid "LockDevice"
 msgstr "鎖定裝置"
-
-#: plugins/mousepad_windows/kdeconnect_mousepad.json
-#: plugins/mousepad/kdeconnect_mousepad.json
-msgctxt "Name"
-msgid "Virtual input"
-msgstr "虛擬輸入"
 
 #: plugins/mpriscontrol/kdeconnect_mpriscontrol.json
 msgctxt "Name"
@@ -138,6 +168,11 @@ msgstr "遠端檔案瀏覽器"
 msgctxt "Name"
 msgid "Host remote commands"
 msgstr "主機與遠端指令"
+
+#: plugins/presenter/kdeconnect_presenter.json
+msgctxt "Name"
+msgid "Presenter"
+msgstr "提供者"
 
 #: plugins/telephony/kdeconnect_telephony.json
 msgctxt "Name"
@@ -159,10 +194,40 @@ msgctxt "Name"
 msgid "MprisRemote"
 msgstr "MprisRemote"
 
+#: plugins/contacts/kdeconnect_contacts.json
+msgctxt "Name"
+msgid "Contacts"
+msgstr "聯絡人"
+
+#: plugins/mousepad/kdeconnect_mousepad.json
+msgctxt "Name"
+msgid "Virtual input"
+msgstr "虛擬輸入"
+
+#: plugins/findthisdevice/kdeconnect_findthisdevice.json
+msgctxt "Name"
+msgid "Find this device"
+msgstr "尋找這個裝置"
+
 #: plugins/findmyphone/kdeconnect_findmyphone.json
 msgctxt "Name"
 msgid "Ring my phone"
 msgstr "撥打我的電話"
+
+#: fileitemactionplugin/kdeconnectsendfile.json
+msgctxt "Description"
+msgid "Send file to other device using KDE Connect"
+msgstr "使用 KDE 連線傳送檔案至其他裝置"
+
+#: plugins/sms/kdeconnect_sms.json
+msgctxt "Description"
+msgid "Send and receive SMS"
+msgstr "傳送和接收文字簡訊"
+
+#: plugins/photo/kdeconnect_photo.json
+msgctxt "Description"
+msgid "Use a connected device to take a photo"
+msgstr "使用連結裝置拍照"
 
 #: plugins/pausemusic/kdeconnect_pausemusic.json
 msgctxt "Description"
@@ -173,13 +238,6 @@ msgstr "在通話過程中暫停音樂與影片"
 msgctxt "Description"
 msgid "Show device's notifications on this computer and keep them in sync"
 msgstr "在電腦上顯示裝置通知並且保持同步"
-
-#: plugins/sendnotifications/kdeconnect_sendnotifications.json
-msgctxt "Description"
-msgid ""
-"Broadcast this computer's notifications, so they can be shown on other "
-"devices."
-msgstr "廣播此電腦的通知，使那些訊息能在其他裝置上顯示。"
 
 #: plugins/remotekeyboard/kdeconnect_remotekeyboard.json
 msgctxt "Description"
@@ -211,16 +269,20 @@ msgctxt "Description"
 msgid "Execute console commands remotely"
 msgstr "遠程執行控制台命令"
 
+#: plugins/remotesystemvolume/kdeconnect_remotesystemvolume.json
+msgctxt "Description"
+msgid "Control the volume of the connected device"
+msgstr "控制連線裝置的音量"
+
+#: plugins/systemvolume/kdeconnect_systemvolume.json
+msgctxt "Description"
+msgid "Control the system volume from your phone"
+msgstr "控制手機的系統音量"
+
 #: plugins/lockdevice/kdeconnect_lockdevice.json
 msgctxt "Description"
 msgid "Locks your systems"
 msgstr "鎖定您的系統"
-
-#: plugins/mousepad_windows/kdeconnect_mousepad.json
-#: plugins/mousepad/kdeconnect_mousepad.json
-msgctxt "Description"
-msgid "Use your phone as a touchpad and keyboard"
-msgstr "讓您的智慧型手機當作觸碰板與鍵盤"
 
 #: plugins/mpriscontrol/kdeconnect_mpriscontrol.json
 msgctxt "Description"
@@ -237,10 +299,16 @@ msgctxt "Description"
 msgid "Trigger commands predefined on the remote device"
 msgstr "預先設定在遠端裝置上的執行命令"
 
+#: plugins/presenter/kdeconnect_presenter.json
+#, fuzzy
+msgctxt "Description"
+msgid "Use your mobile device to point to things on the screen"
+msgstr "將您的行動裝置作為螢幕指標使用"
+
 #: plugins/telephony/kdeconnect_telephony.json
 msgctxt "Description"
-msgid "Show notifications for calls and SMS"
-msgstr "顯示來電與簡訊通知"
+msgid "Show notifications for incoming calls"
+msgstr "顯示來電通知"
 
 #: plugins/ping/kdeconnect_ping.json
 msgctxt "Description"
@@ -256,6 +324,21 @@ msgstr "在裝置之間共享剪貼簿"
 msgctxt "Description"
 msgid "Control MPRIS services"
 msgstr "控制 MPRIS 服務"
+
+#: plugins/contacts/kdeconnect_contacts.json
+msgctxt "Description"
+msgid "Synchronize Contacts Between the Desktop and the Connected Device"
+msgstr "在電腦與連線裝置之間同步聯絡人"
+
+#: plugins/mousepad/kdeconnect_mousepad.json
+msgctxt "Description"
+msgid "Use your phone as a touchpad and keyboard"
+msgstr "讓您的智慧型手機當作觸碰板與鍵盤"
+
+#: plugins/findthisdevice/kdeconnect_findthisdevice.json
+msgctxt "Description"
+msgid "Find this device by making it play an alarm sound"
+msgstr "讓手機發出警報聲，以讓您找到這個裝置。"
 
 #: plugins/findmyphone/kdeconnect_findmyphone.json
 msgctxt "Description"

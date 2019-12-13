@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kmail\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-08 08:00+0100\n"
+"POT-Creation-Date: 2019-12-13 08:24+0100\n"
 "PO-Revision-Date: 2015-06-17 09:27+0800\n"
 "Last-Translator: Franklin\n"
 "Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
@@ -607,7 +607,7 @@ msgstr "列印模式"
 msgid "[vcard]"
 msgstr "[vcard]"
 
-#: header/grantleeheaderformatter.cpp:455 viewer/viewer_p.cpp:2467
+#: header/grantleeheaderformatter.cpp:455 viewer/viewer_p.cpp:2466
 #, kde-format
 msgid "Attachments:"
 msgstr "附加檔："
@@ -1705,7 +1705,7 @@ msgstr "開啟通訊錄(&O)"
 msgid "&Copy Email Address"
 msgstr "複製電子郵件地址(&C)"
 
-#: viewer/urlhandlermanager.cpp:645 viewer/viewer_p.cpp:2791
+#: viewer/urlhandlermanager.cpp:645 viewer/viewer_p.cpp:2790
 #, kde-format
 msgid "Address copied to clipboard."
 msgstr "信件位址已複製到剪貼簿。"
@@ -1798,13 +1798,13 @@ msgctxt "@title:menu"
 msgid "&Open With..."
 msgstr "開啟方式(&O)..."
 
-#: viewer/viewer_p.cpp:573 viewer/viewer_p.cpp:1820
+#: viewer/viewer_p.cpp:573 viewer/viewer_p.cpp:1819
 #, kde-format
 msgctxt "to open"
 msgid "Open"
 msgstr "開啟"
 
-#: viewer/viewer_p.cpp:593 viewer/viewer_p.cpp:1830
+#: viewer/viewer_p.cpp:593 viewer/viewer_p.cpp:1829
 #, kde-format
 msgctxt "to view something"
 msgid "View"
@@ -1820,7 +1820,7 @@ msgstr "捲軸至"
 msgid "Save As..."
 msgstr "另存新檔..."
 
-#: viewer/viewer_p.cpp:613 viewer/viewer_p.cpp:1842
+#: viewer/viewer_p.cpp:613 viewer/viewer_p.cpp:1841
 #, kde-format
 msgid "Copy"
 msgstr "複製"
@@ -1838,7 +1838,7 @@ msgstr "回覆給原作者(&U)..."
 msgid "Reply To All"
 msgstr "全部回覆"
 
-#: viewer/viewer_p.cpp:652 viewer/viewer_p.cpp:1848
+#: viewer/viewer_p.cpp:652 viewer/viewer_p.cpp:1847
 #, kde-format
 msgid "Properties"
 msgstr "屬性"
@@ -1947,7 +1947,7 @@ msgstr "複製到(&C)"
 msgid "Select All Text"
 msgstr "選取所有文字"
 
-#: viewer/viewer_p.cpp:1669 viewer/viewer_p.cpp:2149
+#: viewer/viewer_p.cpp:1669 viewer/viewer_p.cpp:2148
 #, kde-format
 msgid "Copy Link Address"
 msgstr "複製連結位址"
@@ -2037,74 +2037,74 @@ msgstr "在信件中尋找(&F)..."
 msgid "Disable Emoticon"
 msgstr ""
 
-#: viewer/viewer_p.cpp:1815
+#: viewer/viewer_p.cpp:1814
 #, kde-format
 msgid "Save &As..."
 msgstr "另存新檔(&A)..."
 
-#: viewer/viewer_p.cpp:1827
+#: viewer/viewer_p.cpp:1826
 #, kde-format
 msgid "Open With..."
 msgstr "開啟用..."
 
-#: viewer/viewer_p.cpp:1835
+#: viewer/viewer_p.cpp:1834
 #, kde-format
 msgid "Save All Attachments..."
 msgstr "儲存所有附件..."
 
-#: viewer/viewer_p.cpp:2067
+#: viewer/viewer_p.cpp:2066
 #, kde-format
 msgid "The network is broken."
 msgstr ""
 
-#: viewer/viewer_p.cpp:2067 viewer/viewer_p.cpp:2071
+#: viewer/viewer_p.cpp:2066 viewer/viewer_p.cpp:2070
 #, kde-format
 msgid "Check Phishing URL"
 msgstr ""
 
-#: viewer/viewer_p.cpp:2070
+#: viewer/viewer_p.cpp:2069
 #, fuzzy, kde-format
 #| msgid "Grantlee theme \"%1\" is not valid."
 msgid "The URL %1 is not valid."
 msgstr "Grantlee 主題 %1 不合法。"
 
-#: viewer/viewer_p.cpp:2092
+#: viewer/viewer_p.cpp:2091
 #, kde-format
 msgid "This web site is a malware, do you want to continue to show it?"
 msgstr ""
 
-#: viewer/viewer_p.cpp:2093
+#: viewer/viewer_p.cpp:2092
 #, kde-format
 msgid "Malware"
 msgstr ""
 
-#: viewer/viewer_p.cpp:2147
+#: viewer/viewer_p.cpp:2146
 #, kde-format
 msgid "Copy Email Address"
 msgstr "複製電子郵件地址"
 
-#: viewer/viewer_p.cpp:2241
+#: viewer/viewer_p.cpp:2240
 #, kde-format
 msgid "Message as Plain Text"
 msgstr "純文字信件"
 
-#: viewer/viewer_p.cpp:2422
+#: viewer/viewer_p.cpp:2421
 #, fuzzy, kde-format
 #| msgid "Documentation"
 msgid "Print Document"
 msgstr "文件"
 
-#: viewer/viewer_p.cpp:2797
+#: viewer/viewer_p.cpp:2796
 #, kde-format
 msgid "URL copied to clipboard."
 msgstr "URL 已複製到剪貼簿。"
 
-#: viewer/viewer_p.cpp:2947
+#: viewer/viewer_p.cpp:2946
 #, kde-format
 msgid "Message loading failed: %1."
 msgstr "信件載入失敗：%1。"
 
-#: viewer/viewer_p.cpp:2952
+#: viewer/viewer_p.cpp:2951
 #, kde-format
 msgid "Message not found."
 msgstr "找不到信件。"

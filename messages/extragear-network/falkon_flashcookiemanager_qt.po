@@ -269,27 +269,27 @@ msgctxt "FCM_Notification|"
 msgid "View"
 msgstr "檢視"
 
-#: fcm_plugin.cpp:59
+#: fcm_plugin.cpp:60
 msgctxt "FCM_Button|"
 msgid "Flash Cookie Manager button"
 msgstr "Flash Cookie 管理器按鈕"
 
-#: fcm_plugin.cpp:132 fcm_plugin.cpp:362
+#: fcm_plugin.cpp:133 fcm_plugin.cpp:363
 msgctxt "FCM_Plugin|"
 msgid "Flash Cookie Manager"
 msgstr "Flash Cookie 管理員"
 
-#: fcm_plugin.cpp:363
+#: fcm_plugin.cpp:364
 msgctxt "FCM_Plugin|"
 msgid "Show Flash Cookie Manager"
 msgstr "顯示 Flash Cookie 管理員"
 
-#: fcm_plugin.cpp:444
+#: fcm_plugin.cpp:445
 msgctxt "FCM_Plugin|"
 msgid "!default"
 msgstr "!預設"
 
-#: fcm_plugin.cpp:456
+#: fcm_plugin.cpp:457
 msgctxt "FCM_Plugin|"
 msgid "!other"
 msgstr "!其他"

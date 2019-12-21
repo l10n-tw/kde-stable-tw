@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: okteta\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-29 07:43+0100\n"
+"POT-Creation-Date: 2019-12-21 08:24+0100\n"
 "PO-Revision-Date: 2016-11-15 21:29+0800\n"
 "Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
@@ -3024,13 +3024,13 @@ msgctxt "@item name of the generated data"
 msgid "Pattern"
 msgstr "樣式"
 
-#: gui/io/generator/randomdata/bytearrayrandomdatagenerator.cpp:45
+#: gui/io/generator/randomdata/bytearrayrandomdatagenerator.cpp:50
 #, kde-format
 msgctxt "name of the generated data"
 msgid "Random Data..."
 msgstr "隨機資料..."
 
-#: gui/io/generator/randomdata/bytearrayrandomdatagenerator.cpp:74
+#: gui/io/generator/randomdata/bytearrayrandomdatagenerator.cpp:87
 #, kde-format
 msgid "RandomData inserted."
 msgstr "隨機資料已插入。"

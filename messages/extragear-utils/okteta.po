@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: okteta\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-30 07:40+0200\n"
+"POT-Creation-Date: 2019-12-23 08:01+0100\n"
 "PO-Revision-Date: 2018-04-14 12:31+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -44,7 +44,7 @@ msgstr "十六進位資料編輯器"
 #: about.cpp:34
 #, fuzzy, kde-format
 #| msgid "Copyright 2006-2018 Friedrich W. H. Kossebau"
-msgid "Copyright 2006-2019 Friedrich W. H. Kossebau"
+msgid "Copyright 2006-2020 Friedrich W. H. Kossebau"
 msgstr "Copyright 2006-2018 Friedrich W. H. Kossebau"
 
 #: about.cpp:35

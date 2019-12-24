@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Kdenlive 16.08.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-19 08:17+0100\n"
+"POT-Creation-Date: 2019-12-24 08:11+0100\n"
 "PO-Revision-Date: 2019-05-14 22:35+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -8293,41 +8293,41 @@ msgstr "正在載入素材"
 msgid "Playlist has a different framerate (%1/%2fps), not recommended."
 msgstr ""
 
-#: src/jobs/loadjob.cpp:376 src/mltcontroller/clippropertiescontroller.cpp:1130
+#: src/jobs/loadjob.cpp:378 src/mltcontroller/clippropertiescontroller.cpp:1130
 #: src/mltcontroller/clippropertiescontroller.cpp:1155
 #: src/profiles/profilerepository.cpp:184
 #, fuzzy, kde-format
 msgid "Cannot open file %1"
 msgstr "無法寫入檔案 %1"
 
-#: src/jobs/loadjob.cpp:378
+#: src/jobs/loadjob.cpp:380
 #, kde-format
 msgid "ERROR: Could not load clip %1: producer is invalid"
 msgstr ""
 
-#: src/jobs/loadjob.cpp:557
+#: src/jobs/loadjob.cpp:559
 #, fuzzy, kde-format
 msgid "Import selected clips"
 msgstr "移除所選素材"
 
-#: src/jobs/loadjob.cpp:559
+#: src/jobs/loadjob.cpp:561
 #, fuzzy, kde-format
 msgid ""
 "Additional streams for clip\n"
 " %1"
 msgstr "添加轉場特效到素材"
 
-#: src/jobs/loadjob.cpp:568 src/mltcontroller/clippropertiescontroller.cpp:562
+#: src/jobs/loadjob.cpp:570 src/mltcontroller/clippropertiescontroller.cpp:562
 #, fuzzy, kde-format
 msgid "Video stream %1"
 msgstr "視訊軌"
 
-#: src/jobs/loadjob.cpp:583
+#: src/jobs/loadjob.cpp:585
 #, fuzzy, kde-format
 msgid "Audio stream %1"
 msgstr "聲訊軌"
 
-#: src/jobs/loadjob.cpp:607
+#: src/jobs/loadjob.cpp:609
 #, fuzzy, kde-format
 msgid "Add additional streams for clip"
 msgstr "添加轉場特效到素材"
@@ -8352,19 +8352,19 @@ msgstr "無法寫入檔案 %1"
 msgid "Creating proxy %1"
 msgstr "正在建立 ISO 鏡像檔案"
 
-#: src/jobs/proxyclipjob.cpp:161
+#: src/jobs/proxyclipjob.cpp:173
 #, fuzzy, kde-format
 msgid "Cannot load image %1."
 msgstr "無法寫入檔案 %1"
 
-#: src/jobs/proxyclipjob.cpp:214 src/jobs/transcodeclipjob.cpp:134
+#: src/jobs/proxyclipjob.cpp:226 src/jobs/transcodeclipjob.cpp:134
 #, kde-format
 msgid ""
 "Failed to create proxy. FFmpeg not found, please set path in Kdenlive's "
 "settings Environment"
 msgstr ""
 
-#: src/jobs/proxyclipjob.cpp:288
+#: src/jobs/proxyclipjob.cpp:300
 #, kde-format
 msgid "Failed to create proxy clip."
 msgstr ""
@@ -12395,7 +12395,7 @@ msgstr "偏移"
 msgid "Click to add composition"
 msgstr "更多選項"
 
-#: src/timeline2/view/qml/Clip.qml:818
+#: src/timeline2/view/qml/Clip.qml:702
 #, fuzzy, kde-format
 #| msgid "Position"
 msgid ""
@@ -12403,7 +12403,7 @@ msgid ""
 "Position:%2"
 msgstr "使用濾鏡的區段"
 
-#: src/timeline2/view/qml/Clip.qml:900
+#: src/timeline2/view/qml/Clip.qml:772
 #, kde-format
 msgid "Out: "
 msgstr ""

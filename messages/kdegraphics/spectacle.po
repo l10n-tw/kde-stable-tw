@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: spectacle\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-06 08:03+0100\n"
-"PO-Revision-Date: 2019-09-28 15:30+0800\n"
+"PO-Revision-Date: 2019-12-29 17:00+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
 "Language: Traditional Chinese\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 19.08.1\n"
+"X-Generator: Lokalize 19.12.0\n"
 
 #: desktop/MigrateShortcuts.cpp:74 src/SpectacleConfig.cpp:45
 #, kde-format
@@ -54,12 +54,12 @@ msgctxt "@info"
 msgid ""
 "Cannot save screenshot because creating the directory failed:<nl/><filename>"
 "%1</filename>"
-msgstr "無法儲存螢幕截圖，因為建立目錄失敗：<nl/><filename>%1</filename>"
+msgstr "無法儲存螢幕擷取，因為建立目錄失敗：<nl/><filename>%1</filename>"
 
 #: src/ExportManager.cpp:326
 #, kde-format
 msgid "Cannot save screenshot. Error while writing file."
-msgstr "無法儲存螢幕快照。寫入檔案時失敗。"
+msgstr "無法儲存螢幕擷取。寫入檔案時失敗。"
 
 #: src/ExportManager.cpp:347
 #, kde-kuit-format
@@ -67,12 +67,12 @@ msgctxt "@info"
 msgid ""
 "Cannot save screenshot because creating the remote directory failed:<nl/"
 "><filename>%1</filename>"
-msgstr "無法儲存螢幕截圖，因為建立遠端目錄失敗：<nl/><filename>%1</filename>"
+msgstr "無法儲存螢幕擷取，因為建立遠端目錄失敗：<nl/><filename>%1</filename>"
 
 #: src/ExportManager.cpp:358 src/ExportManager.cpp:409
 #, kde-format
 msgid "Cannot save screenshot. Error while writing temporary local file."
-msgstr "無法儲存螢幕快照。寫入暫存檔案時失敗。"
+msgstr "無法儲存螢幕擷取。寫入暫存檔案時失敗。"
 
 #: src/ExportManager.cpp:366
 #, kde-format
@@ -82,12 +82,12 @@ msgstr "無法儲存影像。無法上傳檔案到遠端。"
 #: src/ExportManager.cpp:416
 #, kde-format
 msgid "Cannot save screenshot. The save filename is invalid."
-msgstr "無法儲存螢幕快照。儲存的檔名不合法。"
+msgstr "無法儲存螢幕擷取。儲存的檔名不合法。"
 
 #: src/ExportManager.cpp:449 src/ExportManager.cpp:510
 #, kde-format
 msgid "Cannot save an empty screenshot image."
-msgstr "無法儲存空白的螢幕快照影像。"
+msgstr "無法儲存空白的螢幕擷取影像。"
 
 #: src/ExportManager.cpp:544
 #, kde-format
@@ -237,7 +237,7 @@ msgstr "複製到剪貼簿"
 #: src/Gui/KSMainWindow.cpp:162
 #, kde-format
 msgid "Copy the current screenshot image to the clipboard."
-msgstr "將目前的螢幕快照複製到剪貼簿。"
+msgstr "將目前的螢幕擷取複製到剪貼簿。"
 
 #: src/Gui/KSMainWindow.cpp:177
 #, kde-format
@@ -292,18 +292,18 @@ msgstr "分享的圖片連結 (<a href=\"%1\">%1</a>) 已經複製到剪貼簿�
 #: src/Gui/KSMainWindow.cpp:476
 #, kde-format
 msgid "The screenshot has been copied to the clipboard."
-msgstr "螢幕快照已複製到剪貼簿。"
+msgstr "螢幕擷取已複製到剪貼簿。"
 
 #: src/Gui/KSMainWindow.cpp:490
 #, kde-format
 msgid "The screenshot was saved as <a href=\"%1\">%2</a>"
-msgstr "螢幕截圖已儲存成 <a href=\"%1\">%2</a>"
+msgstr "螢幕擷取已儲存成 <a href=\"%1\">%2</a>"
 
 #: src/Gui/KSMainWindow.cpp:499
 #, kde-format
 msgid ""
 "The screenshot was copied to the clipboard and saved as <a href=\"%1\">%2</a>"
-msgstr "螢幕截圖已複製至剪貼簿，且已存為 <a href=\"%1\">%2</a>"
+msgstr "螢幕擷取已複製至剪貼簿，且已存為 <a href=\"%1\">%2</a>"
 
 #: src/Gui/KSWidget.cpp:52
 #, kde-format
@@ -353,7 +353,7 @@ msgstr "點選時"
 #: src/Gui/KSWidget.cpp:83
 #, kde-format
 msgid "Wait for a mouse click before capturing the screenshot image"
-msgstr "滑鼠點選時擷取螢幕快照"
+msgstr "滑鼠點選時擷取螢幕擷取"
 
 #: src/Gui/KSWidget.cpp:92
 #, kde-format
@@ -378,7 +378,7 @@ msgstr "包含滑鼠游標"
 #: src/Gui/KSWidget.cpp:101
 #, kde-format
 msgid "Show the mouse cursor in the screenshot image"
-msgstr "在螢幕快照的圖片中顯示滑鼠游標"
+msgstr "在螢幕擷取的圖片中顯示滑鼠游標"
 
 #: src/Gui/KSWidget.cpp:104
 #, kde-format
@@ -419,7 +419,7 @@ msgstr "手動儲存或複製影像後離開 Spectacle"
 #: src/Gui/KSWidget.cpp:126
 #, kde-format
 msgid "Take a New Screenshot"
-msgstr "拍一張新的螢幕快照"
+msgstr "拍一張新的螢幕擷取"
 
 #: src/Gui/KSWidget.cpp:130
 #, kde-format
@@ -434,7 +434,7 @@ msgstr "當 Spectacle 執行時"
 #: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:45
 #, kde-format
 msgid "Take a new screenshot"
-msgstr "擷取一張螢幕截圖"
+msgstr "擷取一張螢幕擷取"
 
 #: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:46
 #, kde-format
@@ -444,7 +444,7 @@ msgstr "開啟新 Spectacle 視窗"
 #: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:52
 #, kde-format
 msgid "Press screenshot key to:"
-msgstr "按下「擷取螢幕截圖」鍵要做的動作："
+msgstr "按下「擷取螢幕擷取」鍵要做的動作："
 
 #: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:56
 #, kde-format
@@ -459,7 +459,7 @@ msgstr "複製影像到剪貼簿"
 #: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:66
 #, kde-format
 msgid "After taking a screenshot:"
-msgstr "擷取螢幕截圖後："
+msgstr "擷取螢幕擷取後："
 
 #: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:68
 #, kde-format
@@ -626,7 +626,7 @@ msgstr "Spectacle"
 #: src/Main.cpp:47
 #, kde-format
 msgid "KDE Screenshot Utility"
-msgstr "KDE 螢幕快照擷取工具"
+msgstr "KDE 螢幕擷取擷取工具"
 
 #: src/Main.cpp:49
 #, kde-format
@@ -687,7 +687,7 @@ msgstr "以圖形化使用介面模式啟動（預設）"
 #: src/Main.cpp:68
 #, kde-format
 msgid "Take a screenshot and exit without showing the GUI"
-msgstr "拍一張螢幕快照並結束而不顯示圖形介面"
+msgstr "拍一張螢幕擷取並結束而不顯示圖形介面"
 
 #: src/Main.cpp:69
 #, kde-format
@@ -698,7 +698,7 @@ msgstr "以 DBus 活化模式啟動"
 #, kde-format
 msgid ""
 "In background mode, do not pop up a notification when the screenshot is taken"
-msgstr "在背景模式下，當螢幕快照擷取後，不要彈出通知"
+msgstr "在背景模式下，當螢幕擷取擷取後，不要彈出通知"
 
 #: src/Main.cpp:71
 #, kde-format
@@ -713,12 +713,12 @@ msgstr "在背景模式下，在擷取前延遲（以毫秒計）"
 #: src/Main.cpp:73
 #, kde-format
 msgid "In background mode, copy screenshot to clipboard"
-msgstr "在背景模式下，將螢幕截圖複製至剪貼簿"
+msgstr "在背景模式下，將螢幕擷取複製至剪貼簿"
 
 #: src/Main.cpp:74
 #, kde-format
 msgid "Wait for a click before taking screenshot. Invalidates delay"
-msgstr "在拍攝螢幕快照前等待滑鼠點選。延遲無效"
+msgstr "在拍攝螢幕擷取前等待滑鼠點選。延遲無效"
 
 #: src/QuickEditor/QuickEditor.cpp:67
 #, kde-format
@@ -730,7 +730,7 @@ msgstr "長按拖曳來繪製選取區塊的矩形，或按 Esc 退出"
 #: src/QuickEditor/QuickEditor.cpp:558 src/QuickEditor/QuickEditor.cpp:563
 #, kde-format
 msgid "Take Screenshot:"
-msgstr "拍攝螢幕截圖："
+msgstr "拍攝螢幕擷取："
 
 #: src/QuickEditor/QuickEditor.cpp:558
 #, kde-format
@@ -843,7 +843,7 @@ msgstr "%1×%2"
 #: src/SpectacleCore.cpp:310
 #, kde-format
 msgid "Screenshot capture canceled or failed"
-msgstr "螢幕快照擷取取消或失敗"
+msgstr "螢幕擷取擷取取消或失敗"
 
 #: src/SpectacleCore.cpp:328
 #, kde-format
@@ -878,18 +878,18 @@ msgstr "已擷取矩形區域"
 #: src/SpectacleCore.cpp:350
 #, kde-format
 msgid "A screenshot was saved to your clipboard."
-msgstr "一張螢幕截圖已經儲存至您的剪貼簿。"
+msgstr "一張螢幕擷取已經儲存至您的剪貼簿。"
 
 #: src/SpectacleCore.cpp:352
 #, kde-format
 msgctxt "Placeholder is filename"
 msgid "A screenshot was saved as '%1' to your Pictures folder."
-msgstr "螢幕快照被儲存為「%1」到您的圖片資料夾中。"
+msgstr "螢幕擷取被儲存為「%1」到您的圖片資料夾中。"
 
 #: src/SpectacleCore.cpp:354
 #, kde-format
 msgid "A screenshot was saved as '%1' to '%2'."
-msgstr "螢幕快照被儲存為「%1」到「%2」中。"
+msgstr "螢幕擷取被儲存為「%1」到「%2」中。"
 
 #: src/SpectacleCore.cpp:359
 #, kde-format

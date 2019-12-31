@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: juk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-27 08:06+0100\n"
+"POT-Creation-Date: 2019-12-31 08:08+0100\n"
 "PO-Revision-Date: 2019-08-06 23:06+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -216,7 +216,7 @@ msgstr "請選擇音樂搜尋時要排除的資料夾："
 msgid "Import playlists"
 msgstr "匯入播放清單"
 
-#: exampleoptions.cpp:56 main.cpp:63 playermanager.cpp:406 playlist.cpp:130
+#: exampleoptions.cpp:56 main.cpp:63 playermanager.cpp:401 playlist.cpp:130
 #: systemtray.cpp:492 systemtray.cpp:503
 #, kde-format
 msgid "JuK"
@@ -1109,7 +1109,7 @@ msgctxt "%1 is the artist and %2 is the title of the currently playing track."
 msgid "%1 - %2 :: JuK"
 msgstr "%1 - %2 :: JuK"
 
-#: playermanager.cpp:376
+#: playermanager.cpp:371
 #, kde-format
 msgctxt ""
 "%1 will be the /path/to/file, %2 will be some string from Phonon describing "

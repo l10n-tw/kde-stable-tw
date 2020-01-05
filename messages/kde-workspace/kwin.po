@@ -755,7 +755,7 @@ msgstr "工作"
 #: debug_console.cpp:1096
 #, kde-format
 msgid "X11 Client Windows"
-msgstr "X11 客戶端視窗"
+msgstr "X11 用戶端視窗"
 
 #: debug_console.cpp:1098
 #, kde-format

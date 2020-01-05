@@ -1434,7 +1434,7 @@ msgstr "KTorrent"
 #: ktorrent/main.cpp:123
 #, kde-format
 msgid "Bittorrent client by KDE"
-msgstr "來自 KDE 的 Bittorent 客戶端"
+msgstr "來自 KDE 的 Bittorent 用戶端"
 
 #: ktorrent/main.cpp:124
 #, kde-format
@@ -2610,7 +2610,7 @@ msgid ""
 "µTP."
 msgstr ""
 "對 bittorrent 連線不使用 TCP，只使用 µTP 協定。這樣會造成速度較慢，同時並非所"
-"有的 bittorrent 客戶端程式都支援 µTP。"
+"有的 bittorrent 用戶端程式都支援 µTP。"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_onlyUseUtp)
 #: ktorrent/pref/networkpref.ui:245
@@ -5462,7 +5462,7 @@ msgstr "國家"
 #: plugins/infowidget/peerviewmodel.cpp:267
 #, kde-format
 msgid "Client"
-msgstr "客戶端"
+msgstr "用戶端"
 
 #: plugins/infowidget/peerviewmodel.cpp:270
 #, kde-format
@@ -5522,7 +5522,7 @@ msgstr "端點所在的國家"
 #: plugins/infowidget/peerviewmodel.cpp:290
 #, kde-format
 msgid "Which client the peer is using"
-msgstr "端點使用哪個客戶端程式"
+msgstr "端點使用哪個用戶端程式"
 
 #: plugins/infowidget/peerviewmodel.cpp:291
 #, kde-format

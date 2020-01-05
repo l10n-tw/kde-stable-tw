@@ -4,13 +4,13 @@
 # This file is distributed under the same license as the kate package.
 #
 # Automatically generated, 2019.
-# pan93412 <pan93412@gmail.com>, 2019.
+# pan93412 <pan93412@gmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-01-02 07:51+0100\n"
-"PO-Revision-Date: 2019-09-29 20:32+0800\n"
+"PO-Revision-Date: 2020-01-05 15:43+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
 "Language: zh_TW\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 19.08.1\n"
+"X-Generator: Lokalize 19.12.0\n"
 
 #. i18n: ectx: Menu (LSPClient Menubar)
 #: lspclientconfigpage.cpp:71 lspclientconfigpage.cpp:76
@@ -26,7 +26,7 @@ msgstr ""
 #: lspclientpluginview.cpp:1611 ui.rc:6
 #, kde-format
 msgid "LSP Client"
-msgstr "LSP 客戶端"
+msgstr "LSP 用戶端"
 
 #: lspclientpluginview.cpp:306
 #, kde-format
@@ -210,7 +210,7 @@ msgstr "新名稱（警告：不是所有參考都會被取代）"
 #, kde-kuit-format
 msgctxt "@info"
 msgid "<b>LSP Client:</b> %1"
-msgstr "<b>LSP 客戶端：</b>%1"
+msgstr "<b>LSP 用戶端：</b>%1"
 
 #: lspclientservermanager.cpp:481
 #, kde-format
@@ -235,7 +235,7 @@ msgstr "無法讀取伺服器設定：%1"
 #: lspclientsymbolview.cpp:179
 #, kde-format
 msgid "LSP Client Symbol Outline"
-msgstr "LSP 客戶端符號外框"
+msgstr "LSP 用戶端符號外框"
 
 #: lspclientsymbolview.cpp:191
 #, kde-format

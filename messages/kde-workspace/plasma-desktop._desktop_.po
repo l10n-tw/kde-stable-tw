@@ -13,21 +13,21 @@
 # Frank Weng (a.k.a. Franklin) <franklin@goodhorse.idv.tw>, 2009, 2010.
 # Franklin Weng <franklin@goodhorse.idv.tw>, 2010, 2011, 2012, 2013, 2014, 2015.
 # Jeff Huang <s8321414@gmail.com>, 2016, 2017.
-# pan93412 <pan93412@gmail.com>, 2018, 2019.
+# pan93412 <pan93412@gmail.com>, 2018, 2019, 2020.
 # Frank Weng (a.k.a. Franklin) <franklin at goodhorse dot idv dot tw>, 2006-2008, 2009, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-01-07 07:54+0000\n"
-"PO-Revision-Date: 2019-08-12 18:49+0800\n"
+"PO-Revision-Date: 2020-01-09 18:15+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 19.07.90\n"
+"X-Generator: Lokalize 19.12.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: applets/icontasks/metadata.desktop:2
@@ -236,8 +236,7 @@ msgctxt "Comment"
 msgid ""
 "A modifier key (e.g. Shift or Ctrl) has been locked and is now active for "
 "all of the following keypresses"
-msgstr ""
-"一個組合鍵（如 Shift 或 Ctrl 等）已被鎖定，現在再按任何鍵都視為快捷鍵組合"
+msgstr "一個組合鍵（如 Shift 或 Ctrl 等）已被鎖定，現在再按任何鍵都視為快捷鍵組合"
 
 #: kaccess/kaccess.notifyrc:560
 msgctxt "Name"
@@ -929,7 +928,7 @@ msgstr ""
 #: kcms/nightcolor/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Night Color"
-msgstr "夜間模式"
+msgstr "夜色模式"
 
 #: kcms/nightcolor/kcm_nightcolor.desktop:51
 #: kcms/nightcolor/package/metadata.desktop:37

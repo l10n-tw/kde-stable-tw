@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: umbrello\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-09 08:26+0100\n"
+"POT-Creation-Date: 2020-01-10 08:30+0100\n"
 "PO-Revision-Date: 2019-08-12 18:54+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -8159,67 +8159,67 @@ msgstr ""
 msgid "Name Not Valid"
 msgstr "名稱無效"
 
-#: umlscene.cpp:698
+#: umlscene.cpp:700
 #, kde-format
 msgid "Diagram: %2 Page %1"
 msgstr "圖表：%2  頁：%1"
 
-#: umlscene.cpp:1460
+#: umlscene.cpp:1470
 #, kde-format
 msgid "Use fill color"
 msgstr "使用填充顏色"
 
-#: umlscene.cpp:1462
+#: umlscene.cpp:1472
 #, kde-format
 msgid "No fill color"
 msgstr "不填充顏色"
 
-#: umlscene.cpp:1477
+#: umlscene.cpp:1487
 #, kde-format
 msgid "Change font"
 msgstr "變更字型"
 
-#: umlscene.cpp:1491
+#: umlscene.cpp:1501
 #, kde-format
 msgid "Change line color"
 msgstr "改變線顏色"
 
-#: umlscene.cpp:1509
+#: umlscene.cpp:1519
 #, kde-format
 msgid "Change line width"
 msgstr "改變線寬度"
 
-#: umlscene.cpp:1529
+#: umlscene.cpp:1539
 #, kde-format
 msgid "Change fill color"
 msgstr "更改填充顏色"
 
-#: umlscene.cpp:1544
+#: umlscene.cpp:1554
 #, kde-format
 msgid "Change visual property"
 msgstr "改變可見屬性"
 
-#: umlscene.cpp:1595
+#: umlscene.cpp:1605
 #, kde-format
 msgid "Delete widgets"
 msgstr "刪除元件"
 
-#: umlscene.cpp:1641
+#: umlscene.cpp:1651
 #, kde-format
 msgid "Resize widgets"
 msgstr "改變元件大小"
 
-#: umlscene.cpp:3283
+#: umlscene.cpp:3293
 #, kde-format
 msgid "Enter Diagram Name"
 msgstr "輸入圖表名稱"
 
-#: umlscene.cpp:3284
+#: umlscene.cpp:3294
 #, kde-format
 msgid "Enter the new name of the diagram:"
 msgstr "輸入圖表的新名稱："
 
-#: umlscene.cpp:3300
+#: umlscene.cpp:3310
 #, kde-format
 msgid "Failed to import from file."
 msgstr "匯入堆疊追蹤失敗。"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_extragear-network_kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-10 07:40+0000\n"
+"POT-Creation-Date: 2020-01-14 07:41+0000\n"
 "PO-Revision-Date: 2019-09-29 21:03+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -43,12 +43,12 @@ msgctxt "GenericName"
 msgid "Open on connected device via KDE Connect"
 msgstr "使用 KDE 連線於連線裝置中開啟"
 
-#: data/org.kde.kdeconnect_open.desktop:29
+#: data/org.kde.kdeconnect_open.desktop:30
 msgctxt "Name"
 msgid "Open on connected device via KDE Connect"
 msgstr "使用 KDE 連線於連線裝置中開啟"
 
-#: data/org.kde.kdeconnect_open.desktop:56
+#: data/org.kde.kdeconnect_open.desktop:58
 msgctxt "Comment"
 msgid "Open on a connected device using KDE Connect"
 msgstr "使用 KDE 連線於連線裝置中開啟"
@@ -123,57 +123,57 @@ msgctxt "Name"
 msgid "Missed Call"
 msgstr "未接來電"
 
-#: plugins/kdeconnect.notifyrc:296
+#: plugins/kdeconnect.notifyrc:297
 msgctxt "Comment"
 msgid "You have a missed call"
 msgstr "您有一通未接來電"
 
-#: plugins/kdeconnect.notifyrc:341
+#: plugins/kdeconnect.notifyrc:342
 msgctxt "Name"
 msgid "SMS Received"
 msgstr "您有收到短訊"
 
-#: plugins/kdeconnect.notifyrc:381
+#: plugins/kdeconnect.notifyrc:382
 msgctxt "Comment"
 msgid "Someone sent you an SMS"
 msgstr "有人送來一封簡訊"
 
-#: plugins/kdeconnect.notifyrc:426
+#: plugins/kdeconnect.notifyrc:427
 msgctxt "Name"
 msgid "Battery Low"
 msgstr "電池低電量"
 
-#: plugins/kdeconnect.notifyrc:465
+#: plugins/kdeconnect.notifyrc:466
 msgctxt "Comment"
 msgid "Your battery is in low state"
 msgstr "您的電池處於低容量狀態"
 
-#: plugins/kdeconnect.notifyrc:510
+#: plugins/kdeconnect.notifyrc:511
 msgctxt "Name"
 msgid "Ping Received"
 msgstr "收到 Ping 回應"
 
-#: plugins/kdeconnect.notifyrc:550
+#: plugins/kdeconnect.notifyrc:551
 msgctxt "Comment"
 msgid "Ping received"
 msgstr "接收到遠端 Ping 回應封包"
 
-#: plugins/kdeconnect.notifyrc:595
+#: plugins/kdeconnect.notifyrc:596
 msgctxt "Name"
 msgid "Generic Notification"
 msgstr "通用通知"
 
-#: plugins/kdeconnect.notifyrc:635
+#: plugins/kdeconnect.notifyrc:636
 msgctxt "Comment"
 msgid "Notification received"
 msgstr "收到通知"
 
-#: plugins/kdeconnect.notifyrc:680
+#: plugins/kdeconnect.notifyrc:681
 msgctxt "Name"
 msgid "File Transfer"
 msgstr "檔案傳輸"
 
-#: plugins/kdeconnect.notifyrc:721
+#: plugins/kdeconnect.notifyrc:722
 msgctxt "Comment"
 msgid "Incoming file"
 msgstr "接收檔案"
@@ -218,7 +218,7 @@ msgctxt "Name"
 msgid "Run command"
 msgstr "執行指令"
 
-#: runners/remotecommands/plasma-runner-kdeconnect-remotecommands.desktop:29
+#: runners/remotecommands/plasma-runner-kdeconnect-remotecommands.desktop:30
 msgctxt "Comment"
 msgid "Run commands on connected devices"
 msgstr "在連結的裝置上執行指令"
@@ -233,12 +233,12 @@ msgctxt "Name"
 msgid "KDE Connect SMS"
 msgstr "KDE 連線簡訊"
 
-#: smsapp/org.kde.kdeconnect.sms.desktop:32
+#: smsapp/org.kde.kdeconnect.sms.desktop:33
 msgctxt "GenericName"
 msgid "SMS"
 msgstr "簡訊"
 
-#: smsapp/org.kde.kdeconnect.sms.desktop:62
+#: smsapp/org.kde.kdeconnect.sms.desktop:64
 msgctxt "Comment"
 msgid "Text Messaging"
 msgstr "純文字簡訊"

@@ -2,13 +2,13 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Jeff Huang <s8321414@gmail.com>, 2016, 2017, 2018, 2019.
-# pan93412 <pan93412@gmail.com>, 2018, 2019.
+# pan93412 <pan93412@gmail.com>, 2018, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-01-13 08:16+0100\n"
-"PO-Revision-Date: 2019-10-26 23:03+0800\n"
+"PO-Revision-Date: 2020-01-15 23:53+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
 "Language: zh_TW\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 19.08.2\n"
+"X-Generator: Lokalize 19.12.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -745,8 +745,7 @@ msgstr ""
 msgid ""
 "There are layouts with the same name, that is not permitted!!! Please update "
 "these names to re-apply the changes..."
-msgstr ""
-"有一些相同名稱的佈局，這是不被允許的！！！請更新它們的名稱以重新套用變更..."
+msgstr "有一些相同名稱的佈局，這是不被允許的！！！請更新它們的名稱以重新套用變更..."
 
 #: app/settings/settingsdialog.cpp:1597
 #, kde-format
@@ -1815,8 +1814,7 @@ msgstr "🅰 透過全域快捷鍵啟用以位置為基礎"
 msgid ""
 "This view is used for based on position global shortcuts. Take note that "
 "only one view can have that option enabled for each layout"
-msgstr ""
-"此檢視用於以位置為基礎的全域快捷鍵。注意僅有一個檢視可以為每個佈局啟用選項"
+msgstr "此檢視用於以位置為基礎的全域快捷鍵。注意僅有一個檢視可以為每個佈局啟用選項"
 
 #: shell/package/contents/configuration/pages/BehaviorConfig.qml:724
 #, kde-format
@@ -1881,7 +1879,7 @@ msgstr "預設"
 #: shell/package/contents/configuration/pages/EffectsConfig.qml:221
 #, kde-format
 msgid "Default shadow for applets"
-msgstr "元件的預設陰影"
+msgstr "小工具的預設陰影"
 
 #: shell/package/contents/configuration/pages/EffectsConfig.qml:228
 #, kde-format
@@ -2088,7 +2086,7 @@ msgstr "只在「工作」區塊新增啟動器"
 #: shell/package/contents/configuration/pages/TasksConfig.qml:140
 #, kde-format
 msgid "Launchers are added only in the taskmanager and not as plasma applets"
-msgstr "啟動器僅會在工作管理員中新增，而不是做為 plasma 元件"
+msgstr "啟動器僅會在工作管理員中新增，而不是做為 Plasma 小工具"
 
 #: shell/package/contents/configuration/pages/TasksConfig.qml:150
 #, kde-format

@@ -35,8 +35,8 @@ msgstr "Kenduest Lee,Tsung-Chien Ho, Jeff Huang, Yi-Jyun Pan"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
-"kenduest@i18n.linux.org.tw,iitze@hotmail.com, s8321414@gmail.com,"
-" pan93412@gmail.com"
+"kenduest@i18n.linux.org.tw,iitze@hotmail.com, s8321414@gmail.com, "
+"pan93412@gmail.com"
 
 #: abstract_client.cpp:1939
 #, kde-format
@@ -1529,7 +1529,8 @@ msgstr ""
 msgid ""
 "kwin: unable to claim manager selection, another wm running? (try using --"
 "replace)\n"
-msgstr "kwin：無法宣告管理程式選擇區，是否有其他 wm 在執行？(嘗試使用 --replace)\n"
+msgstr ""
+"kwin：無法宣告管理程式選擇區，是否有其他 wm 在執行？(嘗試使用 --replace)\n"
 
 #: main_x11.cpp:242
 #, kde-format

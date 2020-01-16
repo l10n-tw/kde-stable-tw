@@ -9770,7 +9770,8 @@ msgstr "截取畫面"
 msgid ""
 "You have changed the proxy parameters. Do you want to recreate all proxy "
 "clips for this project?"
-msgstr "您已經修改了項目的檔案夾。您是否要將緩衝區資料從 %1 複製到新檔案夾 %2？"
+msgstr ""
+"您已經修改了項目的檔案夾。您是否要將緩衝區資料從 %1 複製到新檔案夾 %2？"
 
 #: src/mainwindow.cpp:1714
 #, kde-format

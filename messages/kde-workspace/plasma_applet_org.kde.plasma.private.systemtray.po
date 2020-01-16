@@ -1,0 +1,135 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Franklin Weng <franklin at goodhorse dot idv dot tw>, 2013, 2014, 2015.
+# Jeff Huang <s8321414@gmail.com>, 2016, 2017.
+# pan93412 <pan93412@gmail.com>, 2018, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-16 03:43+0100\n"
+"PO-Revision-Date: 2020-01-16 14:27+0800\n"
+"Last-Translator: pan93412 <pan93412@gmail.com>\n"
+"Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 19.12.1\n"
+
+#: package/contents/config/config.qml:26
+#, kde-format
+msgid "Entries"
+msgstr "項目"
+
+#: package/contents/ui/ConfigEntries.qml:41
+#, kde-format
+msgid "Always show all entries"
+msgstr "總是顯示所有項目"
+
+#: package/contents/ui/ConfigEntries.qml:47
+#, kde-format
+msgid "Application Status"
+msgstr "應用程式狀態"
+
+#: package/contents/ui/ConfigEntries.qml:49
+#, kde-format
+msgid "Communications"
+msgstr "通訊"
+
+#: package/contents/ui/ConfigEntries.qml:51
+#, kde-format
+msgid "System Services"
+msgstr "系統服務"
+
+#: package/contents/ui/ConfigEntries.qml:53
+#, kde-format
+msgid "Hardware Control"
+msgstr "硬體控制"
+
+#: package/contents/ui/ConfigEntries.qml:56
+#, kde-format
+msgid "Miscellaneous"
+msgstr "雜項"
+
+#: package/contents/ui/ConfigEntries.qml:101
+#, kde-format
+msgctxt "Name of the system tray entry"
+msgid "Entry"
+msgstr "項目"
+
+#: package/contents/ui/ConfigEntries.qml:106
+#, kde-format
+msgid "Visibility"
+msgstr "可見度"
+
+#: package/contents/ui/ConfigEntries.qml:112
+#, kde-format
+msgid "Keyboard Shortcut"
+msgstr "鍵盤捷徑"
+
+#: package/contents/ui/ConfigEntries.qml:242
+#, kde-format
+msgid "Shown when relevant"
+msgstr "有關時顯示"
+
+#: package/contents/ui/ConfigEntries.qml:243
+#, kde-format
+#| msgid "Always show all entries"
+msgid "Always shown"
+msgstr "總是顯示"
+
+#: package/contents/ui/ConfigEntries.qml:244
+#, kde-format
+msgid "Always hidden"
+msgstr "永遠隱藏"
+
+#: package/contents/ui/ConfigEntries.qml:245
+#, kde-format
+msgid "Disabled"
+msgstr "停用"
+
+#: package/contents/ui/ExpandedRepresentation.qml:96
+#, kde-format
+msgid "Status and Notifications"
+msgstr "狀態與通知"
+
+#: package/contents/ui/ExpandedRepresentation.qml:108
+#, kde-format
+msgid "Keep Open"
+msgstr "保持開啟"
+
+#: package/contents/ui/ExpanderArrow.qml:33
+#, kde-format
+msgid "Close popup"
+msgstr "關閉彈出式視窗"
+
+#: package/contents/ui/ExpanderArrow.qml:33
+#, kde-format
+msgid "Show hidden icons"
+msgstr "顯示隱藏圖示"
+
+#: systemtraymodel.cpp:44
+#, kde-format
+msgid " (Automatic load)"
+msgstr "（自動載入）"
+
+#~ msgid "General"
+#~ msgstr "一般"
+
+#~ msgid "Auto"
+#~ msgstr "自動"
+
+#~ msgid "Shown"
+#~ msgstr "已顯示"
+
+#~ msgid "Hidden"
+#~ msgstr "已隱藏"
+
+#~ msgid "Categories"
+#~ msgstr "類別"
+
+#~ msgid "Extra Items"
+#~ msgstr "額外項目"

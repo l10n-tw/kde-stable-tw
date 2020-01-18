@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdevelop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-30 05:56+0000\n"
+"POT-Creation-Date: 2020-01-18 07:48+0000\n"
 "PO-Revision-Date: 2018-12-02 23:35+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -94,9 +94,9 @@ msgid "KDevelop"
 msgstr "KDevelop"
 
 #: app/org.kde.kdevelop.desktop:36 app/org.kde.kdevelop_kdev4.desktop:33
-#: plugins/bazaar/org.kde.kdevelop_bzr.desktop:25
-#: plugins/git/org.kde.kdevelop_git.desktop:25
-#: plugins/subversion/org.kde.kdevelop_svn.desktop:25
+#: plugins/bazaar/org.kde.kdevelop_bzr.desktop:26
+#: plugins/git/org.kde.kdevelop_git.desktop:26
+#: plugins/subversion/org.kde.kdevelop_svn.desktop:26
 msgctxt "GenericName"
 msgid "Integrated Development Environment"
 msgstr "整合開發環境"
@@ -145,7 +145,7 @@ msgctxt "Name"
 msgid "CMake C"
 msgstr "CMake C++"
 
-#: app_templates/c/CMake/cmake_plainc/cmake_plainc.kdevtemplate:22
+#: app_templates/c/CMake/cmake_plainc/cmake_plainc.kdevtemplate:23
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Simple CMake-based C++ application"
@@ -158,7 +158,7 @@ msgctxt "Name"
 msgid "Simple KDevelop Plugin"
 msgstr ""
 
-#: app_templates/cpp/CMake/cmake_kdevplugin/cmake_kdevplugin.kdevtemplate:24
+#: app_templates/cpp/CMake/cmake_kdevplugin/cmake_kdevplugin.kdevtemplate:25
 msgctxt "Comment"
 msgid "Generate a general KDevelop plugin, using CMake and C++"
 msgstr ""
@@ -204,7 +204,7 @@ msgctxt "Name"
 msgid "QtQuick 2 Application"
 msgstr "Qt4 使用者介面應用程式"
 
-#: app_templates/cpp/CMake/cmake_qt5-qml2/cmake_qt5-qml2.kdevtemplate:25
+#: app_templates/cpp/CMake/cmake_qt5-qml2/cmake_qt5-qml2.kdevtemplate:26
 msgctxt "Comment"
 msgid "A Qt5 and QtQuick2 basic application using CMake"
 msgstr ""
@@ -217,7 +217,7 @@ msgctxt "Name"
 msgid "QMake Qt5 QWidgets GUI Application"
 msgstr "Qt4 使用者介面應用程式"
 
-#: app_templates/cpp/QMake/qmake_qt5guiapp/qmake_qt5guiapp.kdevtemplate:23
+#: app_templates/cpp/QMake/qmake_qt5guiapp/qmake_qt5guiapp.kdevtemplate:24
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid ""
@@ -229,7 +229,7 @@ msgstr ""
 "Qt4 CMake 使用者介面應用程式。產生一個 CMake/Qt4 為基礎的使用者介面應用程式"
 "（跨平台相容）"
 
-#: app_templates/cpp/QMake/qt5-qml2/qt5-qml2.kdevtemplate:25
+#: app_templates/cpp/QMake/qt5-qml2/qt5-qml2.kdevtemplate:26
 msgctxt "Comment"
 msgid "A Qt5 and QML2 basic application using QMake"
 msgstr ""
@@ -239,7 +239,7 @@ msgctxt "Name"
 msgid "Empty"
 msgstr ""
 
-#: app_templates/empty/empty.kdevtemplate:25
+#: app_templates/empty/empty.kdevtemplate:26
 msgctxt "Comment"
 msgid "A project to fill with your ideas"
 msgstr ""
@@ -265,8 +265,8 @@ msgstr "C"
 #: file_templates/classes/c_gobject_private/c_gobject_private.desktop:104
 #: file_templates/classes/c_gobject_properties/c_gobject_properties.desktop:104
 #: file_templates/classes/cpp_basic/cpp_basic.desktop:109
-#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:82
-#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:86
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:84
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:88
 #: file_templates/testing/cpp_qtestlib/cpp_qtestlib.desktop:106
 #: file_templates/testing/cpp_qtestlib_kdevelop/cpp_qtestlib_kdevelop.desktop:105
 msgctxt "Name"
@@ -278,24 +278,24 @@ msgstr "標頭"
 #: file_templates/classes/c_gobject_properties/c_gobject_properties.desktop:141
 #: file_templates/classes/cpp_basic/cpp_basic.desktop:146
 #: file_templates/classes/private_pointer/private_pointer.desktop:173
-#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:153
-#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:117
-#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:154
-#: file_templates/classes/qdialog/qdialog.desktop:116
-#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:157
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:155
+#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:119
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:156
+#: file_templates/classes/qdialog/qdialog.desktop:118
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:159
 #: file_templates/classes/qobject/qobject.desktop:142
-#: file_templates/classes/qt_interface/qt_interface.desktop:120
+#: file_templates/classes/qt_interface/qt_interface.desktop:122
 #: file_templates/classes/qt_shared/qt_shared.desktop:138
 #: file_templates/classes/qt_widget/qt_widget.desktop:139
-#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:149
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:151
 #: file_templates/testing/cpp_cpputest/cpp_cpputest.desktop:90
 #: file_templates/testing/cpp_gtest/cpp_gtest.desktop:90
 #: file_templates/testing/cpp_qtestlib/cpp_qtestlib.desktop:143
 #: file_templates/testing/cpp_qtestlib_kdevelop/cpp_qtestlib_kdevelop.desktop:142
 #: file_templates/testing/php_phpunit/php_phpunit.desktop:102
 #: file_templates/testing/python_pyunit/python_pyunit.desktop:107
-#: plugins/docker/dockerfile-template/dockerfile-template.desktop:69
-#: plugins/flatpak/flatpak-template/flatpak-builder-manifest.desktop:68
+#: plugins/docker/dockerfile-template/dockerfile-template.desktop:72
+#: plugins/flatpak/flatpak-template/flatpak-builder-manifest.desktop:71
 msgctxt "Name"
 msgid "Implementation"
 msgstr "實作"
@@ -333,16 +333,16 @@ msgstr "基本 C++ 類別"
 
 #: file_templates/classes/cpp_basic/cpp_basic.desktop:68
 #: file_templates/classes/private_pointer/private_pointer.desktop:63
-#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:39
-#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:40
-#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:43
-#: file_templates/classes/qdialog/qdialog.desktop:39
-#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:44
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:41
+#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:42
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:45
+#: file_templates/classes/qdialog/qdialog.desktop:41
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:46
 #: file_templates/classes/qobject/qobject.desktop:66
-#: file_templates/classes/qt_interface/qt_interface.desktop:44
+#: file_templates/classes/qt_interface/qt_interface.desktop:46
 #: file_templates/classes/qt_shared/qt_shared.desktop:63
 #: file_templates/classes/qt_widget/qt_widget.desktop:63
-#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:39
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:41
 #: file_templates/testing/cpp_cpputest/cpp_cpputest.desktop:49
 #: file_templates/testing/cpp_gtest/cpp_gtest.desktop:49
 #: file_templates/testing/cpp_qtestlib/cpp_qtestlib.desktop:64
@@ -362,23 +362,23 @@ msgid "C++ Class with a private D-pointer"
 msgstr "C++ 類別，含私密指標"
 
 #: file_templates/classes/private_pointer/private_pointer.desktop:105
-#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:83
-#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:86
-#: file_templates/classes/qdialog/qdialog.desktop:82
+#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:85
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:88
+#: file_templates/classes/qdialog/qdialog.desktop:84
 #: file_templates/classes/qobject/qobject.desktop:108
-#: file_templates/classes/qt_interface/qt_interface.desktop:86
+#: file_templates/classes/qt_interface/qt_interface.desktop:88
 #: file_templates/classes/qt_shared/qt_shared.desktop:104
 #: file_templates/classes/qt_widget/qt_widget.desktop:105
-#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:81
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:83
 msgctxt "Name"
 msgid "Public Header"
 msgstr "公開標頭"
 
 #: file_templates/classes/private_pointer/private_pointer.desktop:139
-#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:119
-#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:120
-#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:123
-#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:115
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:121
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:122
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:125
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:117
 msgctxt "Name"
 msgid "Private Header"
 msgstr "私密標頭"
@@ -407,7 +407,7 @@ msgctxt "Name"
 msgid "QAbstractItemModel pimpl subclass"
 msgstr "QObject 子類別"
 
-#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:20
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:21
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "A GObject subclass with a private pointer"
@@ -423,7 +423,7 @@ msgctxt "Name"
 msgid "QAbstractItemModel subclass"
 msgstr "QObject 子類別"
 
-#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:21
+#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:22
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "QObject subclass with properties"
@@ -439,7 +439,7 @@ msgctxt "Name"
 msgid "Dialog (pimpl) with a UI File"
 msgstr "有 UI 檔的元件"
 
-#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:22
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:23
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "QWidget subclass with a separate Qt Designer file"
@@ -448,10 +448,10 @@ msgid ""
 "QDialog subclass with a separate Qt Designer file and private implementation"
 msgstr "QWidget 子類別，含個別的 Qt 設計師檔"
 
-#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:191
-#: file_templates/classes/qdialog/qdialog.desktop:153
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:193
+#: file_templates/classes/qdialog/qdialog.desktop:155
 #: file_templates/classes/qt_widget/qt_widget.desktop:176
-#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:186
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:188
 msgctxt "Name"
 msgid "User Interface"
 msgstr "使用者介面"
@@ -464,7 +464,7 @@ msgctxt "Name"
 msgid "Dialog with a UI File"
 msgstr "有 UI 檔的元件"
 
-#: file_templates/classes/qdialog/qdialog.desktop:20
+#: file_templates/classes/qdialog/qdialog.desktop:21
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "QWidget subclass with a separate Qt Designer file"
@@ -480,7 +480,7 @@ msgctxt "Name"
 msgid "QObject pimpl subclass"
 msgstr "QObject 子類別"
 
-#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:23
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:24
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "A GObject subclass with a private pointer"
@@ -506,7 +506,7 @@ msgctxt "Name"
 msgid "QObject interface class"
 msgstr "QObject 子類別"
 
-#: file_templates/classes/qt_interface/qt_interface.desktop:23
+#: file_templates/classes/qt_interface/qt_interface.desktop:24
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "QObject subclass with properties"
@@ -542,7 +542,7 @@ msgctxt "Name"
 msgid "Widget (pimpl) with a UI File"
 msgstr "有 UI 檔的元件"
 
-#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:20
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:21
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "QWidget subclass with a separate Qt Designer file"
@@ -679,15 +679,15 @@ msgctxt "Name"
 msgid "Dockerfile"
 msgstr ""
 
-#: plugins/docker/dockerfile-template/dockerfile-template.desktop:22
+#: plugins/docker/dockerfile-template/dockerfile-template.desktop:23
 msgctxt "Comment"
 msgid ""
 "A Dockerfile is a text document that contains all the commands a user could "
 "call on the command line to assemble an image"
 msgstr ""
 
-#: plugins/docker/dockerfile-template/dockerfile-template.desktop:42
-#: plugins/flatpak/flatpak-template/flatpak-builder-manifest.desktop:41
+#: plugins/docker/dockerfile-template/dockerfile-template.desktop:44
+#: plugins/flatpak/flatpak-template/flatpak-builder-manifest.desktop:43
 msgctxt "Language"
 msgid "JSON"
 msgstr ""
@@ -697,7 +697,7 @@ msgctxt "Name"
 msgid "Document View"
 msgstr "文件檢視"
 
-#: plugins/documentview/settings/kcm_documentview_settings.desktop:43
+#: plugins/documentview/settings/kcm_documentview_settings.desktop:44
 msgctxt "Comment"
 msgid "Configure Document View settings"
 msgstr "設定文件檢視"
@@ -715,7 +715,7 @@ msgctxt "Name"
 msgid "Flatpak Builder Manifest"
 msgstr ""
 
-#: plugins/flatpak/flatpak-template/flatpak-builder-manifest.desktop:21
+#: plugins/flatpak/flatpak-template/flatpak-builder-manifest.desktop:22
 msgctxt "Comment"
 msgid "A file to configure how a project is built by flatpak"
 msgstr ""

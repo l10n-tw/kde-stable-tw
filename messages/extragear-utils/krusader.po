@@ -3279,7 +3279,7 @@ msgstr "預覽"
 #: krusader/Konfigurator/kgcolors.cpp:271
 #, fuzzy, kde-format
 msgid "Import color-scheme"
-msgstr "匯入顏色機制"
+msgstr "匯入配色"
 
 #: krusader/Konfigurator/kgcolors.cpp:273
 #, kde-format

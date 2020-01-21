@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.kdev-python.appdata\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-24 05:23+0100\n"
+"POT-Creation-Date: 2020-01-21 08:39+0100\n"
 "PO-Revision-Date: 2018-12-02 23:40+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -24,7 +24,15 @@ msgstr "KDevelop Python 支援"
 msgid "Python language support for KDevelop"
 msgstr "KDevelop 的 Python 語言支援"
 
+#. (itstool) path: description/p
+#: org.kde.kdev-python.metainfo.xml:8
+msgid ""
+"Adds Python support to KDevelop. Includes adding integration with code "
+"highlighting, code completion, build system support, documentation linking "
+"and debugging support."
+msgstr ""
+
 #. (itstool) path: component/developer_name
-#: org.kde.kdev-python.metainfo.xml:7
+#: org.kde.kdev-python.metainfo.xml:12
 msgid "Sven Brauch &lt;mail@svenbrauch.de&gt;"
 msgstr "Sven Brauch &lt;mail@svenbrauch.de&gt;"

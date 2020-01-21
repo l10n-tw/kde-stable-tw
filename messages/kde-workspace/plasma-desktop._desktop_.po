@@ -19,7 +19,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-20 07:45+0000\n"
+"POT-Creation-Date: 2020-01-21 07:56+0000\n"
 "PO-Revision-Date: 2020-01-16 14:38+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -371,7 +371,7 @@ msgctxt "Name"
 msgid "Search"
 msgstr "搜尋"
 
-#: kcms/baloo/package/metadata.desktop:32
+#: kcms/baloo/package/metadata.desktop:33
 msgctxt "Comment"
 msgid "Configure the File Indexer"
 msgstr "設定檔案索引工具"
@@ -1241,15 +1241,15 @@ msgstr ""
 "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
 "shortcuts"
 
-#: kcms/style/cgcgtk3.knsrc:2
-msgctxt "Name"
-msgid "GTK 3.x Themes"
-msgstr "GTK 3.x 主題"
-
-#: kcms/style/cgctheme.knsrc:2
+#: kcms/style/gtk2_themes.knsrc:2
 msgctxt "Name"
 msgid "GTK 2.x Themes"
 msgstr "GTK 2.x 主題"
+
+#: kcms/style/gtk3_themes.knsrc:2
+msgctxt "Name"
+msgid "GTK 3.x Themes"
+msgstr "GTK 3.x 主題"
 
 #: kcms/style/kcm_style.desktop:16 kcms/style/package/metadata.desktop:2
 msgctxt "Name"

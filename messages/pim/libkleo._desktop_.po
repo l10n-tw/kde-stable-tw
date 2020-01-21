@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_pim_libkleo\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-12 01:34+0000\n"
+"POT-Creation-Date: 2020-01-21 07:56+0000\n"
 "PO-Revision-Date: 2019-01-19 19:50+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -94,12 +94,12 @@ msgctxt "Name"
 msgid "X509 Certificates"
 msgstr "X509 憑證"
 
-#: src/libkleopatrarc.desktop:695 src/libkleopatrarc-win32.desktop:576
+#: src/libkleopatrarc.desktop:696 src/libkleopatrarc-win32.desktop:577
 msgctxt "Name"
 msgid "VS-NfD Compliant"
 msgstr "相容 VS-NfD"
 
-#: src/libkleopatrarc.desktop:721 src/libkleopatrarc-win32.desktop:602
+#: src/libkleopatrarc.desktop:722 src/libkleopatrarc-win32.desktop:603
 msgctxt "Name"
 msgid "Not VS-NfD Compliant"
 msgstr "不相容 VS-NfD"

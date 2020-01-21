@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.kdev-php.metainfo\n"
-"POT-Creation-Date: 2017-12-24 05:23+0100\n"
+"POT-Creation-Date: 2020-01-21 08:39+0100\n"
 "PO-Revision-Date: 2019-09-30 18:51+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
@@ -22,3 +22,10 @@ msgstr "KDevelop PHP 支援"
 #: org.kde.kdev-php.metainfo.xml:6
 msgid "PHP language support for KDevelop"
 msgstr "適用於 KDevelop 的 PHP 語言支援"
+
+#. (itstool) path: description/p
+#: org.kde.kdev-php.metainfo.xml:8
+msgid ""
+"Adds PHP support to KDevelop. Includes adding integration with code "
+"highlighting, code completion and documentation links."
+msgstr ""

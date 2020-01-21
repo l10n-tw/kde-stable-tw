@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdevcmake\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-30 07:38+0200\n"
+"POT-Creation-Date: 2020-01-21 08:38+0100\n"
 "PO-Revision-Date: 2014-01-15 10:50+0800\n"
 "Last-Translator: Franklin Weng <franklin at goodhorse dot idv dot tw>\n"
 "Language-Team: Chinese Traditional <kde-tw@googlegroups.com>\n"
@@ -161,37 +161,37 @@ msgstr "目標"
 msgid "wrong"
 msgstr "錯誤"
 
-#: cmakecommandscontents.cpp:36
+#: cmakecommandscontents.cpp:43
 #, kde-format
 msgid "Commands"
 msgstr "命令"
 
-#: cmakecommandscontents.cpp:36
+#: cmakecommandscontents.cpp:44
 #, kde-format
 msgid "Variables"
 msgstr "變數"
 
-#: cmakecommandscontents.cpp:36
+#: cmakecommandscontents.cpp:45
 #, kde-format
 msgid "Modules"
 msgstr "模組"
 
-#: cmakecommandscontents.cpp:36
+#: cmakecommandscontents.cpp:46
 #, kde-format
 msgid "Properties"
 msgstr "屬性"
 
-#: cmakecommandscontents.cpp:36
+#: cmakecommandscontents.cpp:47
 #, kde-format
 msgid "Policies"
 msgstr "政策"
 
-#: cmakecommandscontents.cpp:105
+#: cmakecommandscontents.cpp:116
 #, kde-format
 msgid "<p>For better cmake documentation rendering, install rst2html</p>"
 msgstr ""
 
-#: cmakedocumentation.cpp:60 cmakemanager.cpp:87
+#: cmakedocumentation.cpp:60 cmakemanager.cpp:89
 #, kde-format
 msgid "Unable to find a CMake executable. Is one installed on the system?"
 msgstr ""
@@ -211,16 +211,16 @@ msgstr "<br /><em>快取文件：</em> %1\n"
 msgid "CMake Content Page"
 msgstr "CMake 內容頁面"
 
-#: cmakemanager.cpp:80
+#: cmakemanager.cpp:82
 #, kde-format
 msgid "KDevelop - CMake Support"
 msgstr "KDevelop - CMake 支援"
 
-#: cmakemanager.cpp:870
+#: cmakemanager.cpp:872
 #, kde-format
 msgid ""
-"Failed to configure the project (error message: %1). As a result, KDevelop's "
-"code understanding will likely be broken.\n"
+"Failed to configure project '%1' (error message: %2). As a result, "
+"KDevelop's code understanding will likely be broken.\n"
 "\n"
 "To fix this issue, please ensure that the project's CMakeLists.txt files are "
 "correct, and KDevelop is configured to use the correct CMake version and "

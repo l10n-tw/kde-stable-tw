@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: elisa\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-07 08:41+0100\n"
+"POT-Creation-Date: 2020-01-22 09:00+0100\n"
 "PO-Revision-Date: 2019-12-29 16:42+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -252,7 +252,7 @@ msgctxt "Title of the view of frequently played tracks"
 msgid "Frequently Played"
 msgstr "最常播放"
 
-#: models/viewsmodel.cpp:52 qml/FileBrowserView.qml:68
+#: models/viewsmodel.cpp:52 qml/FileBrowserView.qml:67
 #, kde-format
 msgctxt "Title of the file browser view"
 msgid "Files"

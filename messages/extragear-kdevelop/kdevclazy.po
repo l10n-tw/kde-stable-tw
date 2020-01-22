@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdevclazy\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-21 08:38+0100\n"
+"POT-Creation-Date: 2020-01-22 08:54+0100\n"
 "PO-Revision-Date: 2019-12-15 22:07+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
@@ -308,7 +308,7 @@ msgstr ""
 #: config/projectconfigpage.ui:91
 #, kde-format
 msgid ""
-"For running clazy on Qt itself, optional, but honours specific guidelines."
+"For running clazy on Qt itself, optional, but honors specific guidelines."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_qtDeveloper)

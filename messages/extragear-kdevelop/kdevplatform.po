@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdevplatform\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-21 08:38+0100\n"
+"POT-Creation-Date: 2020-01-22 08:54+0100\n"
 "PO-Revision-Date: 2014-04-23 15:00+0800\n"
 "Last-Translator: Franklin Weng <franklin at goodhorse dot idv dot tw>\n"
 "Language-Team: Chinese Traditional <kde-tw@googlegroups.com>\n"
@@ -1671,12 +1671,12 @@ msgctxt "@title:column buildset item path"
 msgid "Path"
 msgstr "路徑"
 
-#: project/projectchangesmodel.cpp:288
+#: project/projectchangesmodel.cpp:293
 #, kde-format
 msgid "no branch"
 msgstr "沒有分支"
 
-#: project/projectchangesmodel.cpp:289
+#: project/projectchangesmodel.cpp:294
 #, kde-format
 msgctxt "project name (branch name)"
 msgid "%1 (%2)"
@@ -3038,7 +3038,7 @@ msgstr "開啟工作階段 %1"
 msgid "No enabled plugin supports this repository URL: %1"
 msgstr ""
 
-#: shell/projectcontroller.cpp:1242
+#: shell/projectcontroller.cpp:1247
 #, fuzzy, kde-format
 #| msgid "Reopen the current project?"
 msgid "Reparse the Entire Project"
@@ -4940,19 +4940,19 @@ msgstr "印出在分析時遇到的問題"
 msgid "Recursively dump errors from imported contexts."
 msgstr ""
 
-#: util/environmentselectionmodel.cpp:52
+#: util/environmentselectionmodel.cpp:57
 #, kde-format
 msgctxt "@title:column"
 msgid "Profile"
 msgstr "設定檔"
 
-#: util/environmentselectionmodel.cpp:63
+#: util/environmentselectionmodel.cpp:68
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Use default profile (currently: %1)"
 msgstr "使用預設設定檔（目前為：%1）"
 
-#: util/environmentselectionmodel.cpp:67
+#: util/environmentselectionmodel.cpp:72
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "%1 (does not exist)"

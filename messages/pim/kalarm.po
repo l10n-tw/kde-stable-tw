@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalarm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-10 08:32+0100\n"
+"POT-Creation-Date: 2020-01-23 08:37+0100\n"
 "PO-Revision-Date: 2018-05-19 11:56+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -317,17 +317,17 @@ msgstr "KAlarm 自動啟動"
 msgid "KAlarm autostart at login"
 msgstr "在登入時自動啟動 KAlarm"
 
-#: autostart/autostart.cpp:63 main.cpp:57
+#: autostart/autostart.cpp:63 main.cpp:58
 #, kde-format
 msgid "Copyright 2001-%1, David Jarvie"
 msgstr "Copyright 2001-%1, David Jarvie"
 
-#: autostart/autostart.cpp:65 main.cpp:59
+#: autostart/autostart.cpp:65 main.cpp:60
 #, kde-format
 msgid "David Jarvie"
 msgstr "David Jarvie"
 
-#: autostart/autostart.cpp:65 main.cpp:59
+#: autostart/autostart.cpp:65 main.cpp:60
 #, kde-format
 msgid "Author"
 msgstr "作者"
@@ -2049,32 +2049,32 @@ msgctxt "@info"
 msgid "Error saving alarm template"
 msgstr "儲存鬧鐘樣本時發生錯誤"
 
-#: kalarmapp.cpp:419
+#: kalarmapp.cpp:427
 #, kde-kuit-format
 msgctxt "@info:shell"
 msgid "%1: Event <resource>%2</resource> not found, or not unique"
 msgstr "%1：找不到事件 <resource>%2</resource>，或者事件非唯一"
 
-#: kalarmapp.cpp:448
+#: kalarmapp.cpp:456
 #, kde-kuit-format
 msgctxt "@info:shell"
 msgid "%1: Event <resource>%2</resource> not found, or not editable"
 msgstr "%1：找不到事件 <resource>%2</resource>，或者無法編輯"
 
-#: kalarmapp.cpp:706
+#: kalarmapp.cpp:714
 #, kde-format
 msgctxt "@info"
 msgid ""
 "Quitting will disable alarms (once any alarm message windows are closed)."
 msgstr "離開會將所有的鬧鐘關閉。"
 
-#: kalarmapp.cpp:715
+#: kalarmapp.cpp:723
 #, kde-format
 msgctxt "@info"
 msgid "Quitting will cancel the scheduled Wake from Suspend."
 msgstr "離開的話會取消從休眠中喚醒型鬧鐘"
 
-#: kalarmapp.cpp:727
+#: kalarmapp.cpp:735
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -2083,7 +2083,7 @@ msgid ""
 msgstr ""
 "您要在登入時啟動 KAlarm 嗎？<nl/>（注意，若 KAlarm 未啟動，鬧鐘都將被關閉）"
 
-#: kalarmapp.cpp:1165
+#: kalarmapp.cpp:1173
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -2094,7 +2094,7 @@ msgstr ""
 "無法建立或更新鬧鐘，因為沒有開啟任何可寫入的鬧鐘行事曆。<nl/><nl/>要修正這個"
 "問題，請用<interface>檢視 | 顯示行事曆</interface>來檢查或變更行事曆狀態。"
 
-#: kalarmapp.cpp:2058
+#: kalarmapp.cpp:2066
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -2104,19 +2104,19 @@ msgstr ""
 "執行指令失敗\n"
 "（指令鬧鐘尚未指定終端）"
 
-#: kalarmapp.cpp:2206
+#: kalarmapp.cpp:2214
 #, kde-format
 msgctxt "@info"
 msgid "Error creating temporary script file"
 msgstr "產生暫時文稿檔案時發生錯誤"
 
-#: kalarmapp.cpp:2295
+#: kalarmapp.cpp:2303
 #, kde-format
 msgctxt "@info"
 msgid "Pre-alarm action:"
 msgstr "鬧鐘響鈴前動作："
 
-#: kalarmapp.cpp:2301
+#: kalarmapp.cpp:2309
 #, kde-format
 msgctxt "@info"
 msgid "Post-alarm action:"
@@ -3502,12 +3502,12 @@ msgstr "調整時間時同時按下 Shift 鍵可以讓時間間隔跳快一點�
 msgid "System time zone"
 msgstr "系統時間時區"
 
-#: main.cpp:53
+#: main.cpp:54
 #, kde-format
 msgid "KAlarm"
 msgstr "KAlarm"
 
-#: main.cpp:55
+#: main.cpp:56
 #, kde-format
 msgid "Personal alarm message, command and email scheduler by KDE"
 msgstr "來自 KDE 的私人的鬧鐘訊息、指令與信箱排程器"

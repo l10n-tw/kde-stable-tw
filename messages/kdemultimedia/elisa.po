@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: elisa\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-22 09:00+0100\n"
+"POT-Creation-Date: 2020-01-23 08:34+0100\n"
 "PO-Revision-Date: 2019-12-29 16:42+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -63,13 +63,13 @@ msgctxt "Title of the view of all tracks"
 msgid "Tracks"
 msgstr "音軌"
 
-#: databaseinterface.cpp:6514 databaseinterface.cpp:7531
-#: databaseinterface.cpp:7581
+#: databaseinterface.cpp:6549 databaseinterface.cpp:7566
+#: databaseinterface.cpp:7616
 #, kde-format
 msgid "Various Artists"
 msgstr "多名藝人"
 
-#: databaseinterface.cpp:6579
+#: databaseinterface.cpp:6614
 #, kde-format
 msgid "Radios"
 msgstr "廣播"
@@ -335,7 +335,7 @@ msgstr "新增路徑"
 msgid "Choose a Folder"
 msgstr "選取資料夾"
 
-#: qml/GridBrowserDelegate.qml:158 qml/ListBrowserDelegate.qml:62
+#: qml/GridBrowserDelegate.qml:158 qml/ListBrowserDelegate.qml:63
 #: qml/PlayListEntry.qml:93
 #, kde-format
 msgctxt "Show track metadata"
@@ -371,43 +371,43 @@ msgstr[0] "剩餘 %1 個音軌"
 msgid "No remaining tracks"
 msgstr "無剩餘音軌"
 
-#: qml/ListBrowserDelegate.qml:55
+#: qml/ListBrowserDelegate.qml:56
 #, kde-format
 msgctxt "Enqueue current track"
 msgid "Enqueue"
 msgstr "加入清單"
 
-#: qml/ListBrowserDelegate.qml:71
+#: qml/ListBrowserDelegate.qml:72
 #, kde-format
 msgctxt "Clear play list and enqueue current track"
 msgid "Play Now and Replace Play List"
 msgstr "立即播放，並取代播放清單"
 
-#: qml/ListBrowserDelegate.qml:116
+#: qml/ListBrowserDelegate.qml:117
 #, kde-format
 msgctxt "%1: track number. %2: track title. %3: artist name"
 msgid "<b>%1 - %2</b> - <i>%3</i>"
 msgstr "<b>%1 - %2</b> - <i>%3</i>"
 
-#: qml/ListBrowserDelegate.qml:121
+#: qml/ListBrowserDelegate.qml:122
 #, kde-format
 msgctxt "%1: track number. %2: track title."
 msgid "<b>%1 - %2</b>"
 msgstr "<b>%1 - %2</b>"
 
-#: qml/ListBrowserDelegate.qml:127
+#: qml/ListBrowserDelegate.qml:128
 #, kde-format
 msgctxt "%1: track title. %2: artist name"
 msgid "<b>%1</b> - <i>%2</i>"
 msgstr "<b>%1</b> - <i>%2</i>"
 
-#: qml/ListBrowserDelegate.qml:131
+#: qml/ListBrowserDelegate.qml:132
 #, kde-format
 msgctxt "%1: track title"
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
-#: qml/ListBrowserDelegate.qml:207
+#: qml/ListBrowserDelegate.qml:208
 #, kde-format
 msgctxt "%1: track number. %2: track title"
 msgid "%1 - %2"
@@ -553,23 +553,23 @@ msgctxt "Window title for track metadata"
 msgid "Create a Radio"
 msgstr "建立廣播"
 
-#: qml/MediaTrackMetadataView.qml:44
+#: qml/MediaTrackMetadataView.qml:45
 #, kde-format
 msgctxt "Window title for track metadata"
 msgid "View Details"
 msgstr "檢視詳細資訊"
 
-#: qml/MediaTrackMetadataView.qml:178
+#: qml/MediaTrackMetadataView.qml:179
 #, kde-format
 msgid "Delete"
 msgstr "刪除"
 
-#: qml/MediaTrackMetadataView.qml:198
+#: qml/MediaTrackMetadataView.qml:199
 #, kde-format
 msgid "Apply"
 msgstr "套用"
 
-#: qml/MediaTrackMetadataView.qml:211
+#: qml/MediaTrackMetadataView.qml:212
 #, kde-format
 msgid "Close"
 msgstr "關閉"

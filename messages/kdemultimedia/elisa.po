@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: elisa\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-23 08:34+0100\n"
+"POT-Creation-Date: 2020-01-27 08:29+0100\n"
 "PO-Revision-Date: 2019-12-29 16:42+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -63,13 +63,13 @@ msgctxt "Title of the view of all tracks"
 msgid "Tracks"
 msgstr "音軌"
 
-#: databaseinterface.cpp:6549 databaseinterface.cpp:7566
-#: databaseinterface.cpp:7616
+#: databaseinterface.cpp:6699 databaseinterface.cpp:7746
+#: databaseinterface.cpp:7796
 #, kde-format
 msgid "Various Artists"
 msgstr "多名藝人"
 
-#: databaseinterface.cpp:6614
+#: databaseinterface.cpp:6764
 #, kde-format
 msgid "Radios"
 msgstr "廣播"

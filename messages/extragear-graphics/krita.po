@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-16 08:19+0100\n"
+"POT-Creation-Date: 2020-01-29 08:05+0100\n"
 "PO-Revision-Date: 2020-01-16 00:02+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -8062,7 +8062,7 @@ msgstr "預設"
 #: plugins/paintops/spray/kis_spray_paintop_settings_widget.cpp:46
 #: plugins/paintops/tangentnormal/kis_tangent_normal_paintop_settings_widget.cpp:54
 #: plugins/python/quick_settings_docker/quick_settings_docker.py:65
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1150
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1176
 #, kde-format
 msgid "Size"
 msgstr "大小"
@@ -8121,7 +8121,7 @@ msgstr "大小"
 #: plugins/extensions/animationrenderer/wdg_animationrenderer.ui:190
 #: plugins/filters/blur/kis_wdg_gaussian_blur.cpp:47
 #: plugins/filters/blur/kis_wdg_gaussian_blur.cpp:55
-#: plugins/filters/blur/wdgblur.ui:42 plugins/filters/blur/wdgblur.ui:81
+#: plugins/filters/blur/wdgblur.ui:42 plugins/filters/blur/wdgblur.ui:84
 #: plugins/paintops/curvebrush/kis_curve_line_option.cpp:33
 #: plugins/paintops/curvebrush/kis_curve_paintop_settings.cpp:79
 #: plugins/paintops/deform/kis_brush_size_option.cpp:50
@@ -8800,8 +8800,8 @@ msgid "Processing"
 msgstr "正在處理"
 
 #: libs/image/kis_psd_layer_style.cpp:99
-#: libs/ui/KisApplicationArguments.cpp:342 libs/ui/KisMainWindow.cpp:1191
-#: libs/ui/KisMainWindow.cpp:1457 libs/ui/KisMainWindow.cpp:1476
+#: libs/ui/KisApplicationArguments.cpp:342 libs/ui/KisMainWindow.cpp:1193
+#: libs/ui/KisMainWindow.cpp:1459 libs/ui/KisMainWindow.cpp:1478
 #: plugins/impex/libkra/kis_kra_saver.cpp:91
 #, kde-format
 msgid "Unnamed"
@@ -9248,7 +9248,7 @@ msgctxt "description of a file type"
 msgid "HEIC/HEIF Image"
 msgstr "HEIC/HEIF 影像"
 
-#: libs/libkis/Document.cpp:884 libs/ui/KisMainWindow.cpp:1860
+#: libs/libkis/Document.cpp:884 libs/ui/KisMainWindow.cpp:1862
 #, kde-format
 msgid "Import frames"
 msgstr "匯入影格"
@@ -11223,7 +11223,7 @@ msgstr "第三方程式庫"
 
 #. i18n: ectx: property (text), widget (QPushButton, btnClose)
 #. i18n: ectx: property (text), widget (QPushButton, pushButtonClose)
-#: libs/ui/dialogs/kis_about_application.cpp:203
+#: libs/ui/dialogs/kis_about_application.cpp:202
 #: libs/ui/forms/wdgbookmarkedconfigurationseditor.ui:70
 #: libs/ui/forms/wdgsessionmanager.ui:90
 #: plugins/python/scripter/ui_scripter/actions/closeaction/closeaction.py:32
@@ -11294,13 +11294,13 @@ msgstr "此濾鏡沒有可用的設定選項"
 msgid "Cleanup resource files"
 msgstr "清理資來源檔案"
 
-#: libs/ui/dialogs/kis_dlg_filter.cpp:128
+#: libs/ui/dialogs/kis_dlg_filter.cpp:129
 #, kde-format
 msgctxt "@title:window"
 msgid "Filter"
 msgstr "濾鏡"
 
-#: libs/ui/dialogs/kis_dlg_filter.cpp:128
+#: libs/ui/dialogs/kis_dlg_filter.cpp:129
 #, kde-format
 msgctxt "@title:window"
 msgid "Filter: %1"
@@ -11339,7 +11339,7 @@ msgid "Numerical"
 msgstr "按數字順序"
 
 #: libs/ui/dialogs/kis_dlg_import_image_sequence.cpp:136
-#: libs/ui/KisMainWindow.cpp:985
+#: libs/ui/KisMainWindow.cpp:986
 #, kde-format
 msgid "Import Images"
 msgstr "匯入影像"
@@ -11400,7 +11400,7 @@ msgstr "圖層屬性"
 #: plugins/tools/karbonplugins/tools/filterEffectTool/KarbonFilterEffectsTool.cpp:526
 #: plugins/tools/karbonplugins/tools/filterEffectTool/KarbonFilterEffectsTool.cpp:532
 #: plugins/tools/karbonplugins/tools/filterEffectTool/KarbonFilterEffectsTool.cpp:538
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1187
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1213
 #, no-c-format, kde-format
 msgid "%"
 msgstr "%"
@@ -11434,7 +11434,7 @@ msgctxt "@title:window"
 msgid "Enter new style name"
 msgstr "輸入新樣式名稱"
 
-#: libs/ui/dialogs/kis_dlg_layer_style.cpp:287 libs/ui/KisMainWindow.cpp:2234
+#: libs/ui/dialogs/kis_dlg_layer_style.cpp:287 libs/ui/KisMainWindow.cpp:2236
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Name:"
@@ -11635,12 +11635,12 @@ msgstr "選擇背景影像"
 #: libs/ui/KisApplication.cpp:854 libs/ui/KisApplication.cpp:875
 #: libs/ui/KisDocument.cpp:703 libs/ui/KisDocument.cpp:1236
 #: libs/ui/KisDocument.cpp:1320 libs/ui/KisDocument.cpp:1363
-#: libs/ui/KisDocument.cpp:1371 libs/ui/KisMainWindow.cpp:895
-#: libs/ui/KisMainWindow.cpp:1008 libs/ui/KisMainWindow.cpp:1021
-#: libs/ui/KisMainWindow.cpp:1081 libs/ui/KisMainWindow.cpp:1838
-#: libs/ui/KisMainWindow.cpp:1867 libs/ui/KisMainWindow.cpp:1942
-#: libs/ui/KisMainWindow.cpp:1954 libs/ui/KisPart.cpp:479
-#: libs/ui/KisPart.cpp:482 libs/ui/KisReferenceImage.cpp:146
+#: libs/ui/KisDocument.cpp:1371 libs/ui/KisMainWindow.cpp:896
+#: libs/ui/KisMainWindow.cpp:1009 libs/ui/KisMainWindow.cpp:1022
+#: libs/ui/KisMainWindow.cpp:1083 libs/ui/KisMainWindow.cpp:1840
+#: libs/ui/KisMainWindow.cpp:1869 libs/ui/KisMainWindow.cpp:1944
+#: libs/ui/KisMainWindow.cpp:1956 libs/ui/KisPart.cpp:479
+#: libs/ui/KisPart.cpp:482 libs/ui/KisReferenceImage.cpp:158
 #: libs/ui/KisRemoteFileFetcher.cpp:54 libs/ui/KisTemplateCreateDia.cpp:297
 #: libs/ui/KisTemplateCreateDia.cpp:403 libs/ui/KisView.cpp:747
 #: libs/ui/opengl/kis_opengl_canvas2.cpp:381
@@ -11648,8 +11648,8 @@ msgstr "選擇背景影像"
 #: plugins/assistants/Assistants/kis_assistant_tool.cc:856
 #: plugins/assistants/Assistants/kis_assistant_tool.cc:859
 #: plugins/dockers/gamutmask/gamutmask_dock.cpp:300
-#: plugins/extensions/animationrenderer/AnimationRenderer.cpp:141
-#: plugins/extensions/animationrenderer/AnimationRenderer.cpp:190
+#: plugins/extensions/animationrenderer/AnimationRenderer.cpp:142
+#: plugins/extensions/animationrenderer/AnimationRenderer.cpp:192
 #: plugins/extensions/animationrenderer/DlgAnimationRenderer.cpp:429
 #: plugins/extensions/animationrenderer/DlgAnimationRenderer.cpp:433
 #: plugins/extensions/animationrenderer/DlgAnimationRenderer.cpp:439
@@ -11671,7 +11671,7 @@ msgstr "選擇背景影像"
 #: plugins/tools/defaulttool/referenceimagestool/ToolReferenceImages.cpp:170
 #: plugins/tools/defaulttool/referenceimagestool/ToolReferenceImages.cpp:197
 #: plugins/tools/defaulttool/referenceimagestool/ToolReferenceImages.cpp:206
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:908
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:934
 #: plugins/tools/tool_transform2/kis_free_transform_strategy_gsl_helpers.cpp:338
 #, kde-format
 msgctxt "@title:window"
@@ -14042,7 +14042,7 @@ msgstr "前景色"
 #: plugins/flake/textshape/dialogs/ChangeConfigureDialog.ui:105
 #: plugins/flake/textshape/dialogs/ChangeConfigureDialog.ui:188
 #: plugins/flake/textshape/dialogs/ChangeConfigureDialog.ui:247
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1166
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1192
 #, kde-format
 msgid "Background Color"
 msgstr "背景色"
@@ -14598,7 +14598,7 @@ msgstr "目前筆刷"
 #. i18n: ectx: property (text), widget (QPushButton, savePresetButton)
 #. i18n: ectx: property (toolTip), widget (QPushButton, bnSaveMask)
 #: libs/ui/forms/wdgpaintopsettings.ui:184
-#: libs/ui/forms/wdgsavebrushpreset.ui:215 libs/ui/KisMainWindow.cpp:845
+#: libs/ui/forms/wdgsavebrushpreset.ui:215 libs/ui/KisMainWindow.cpp:846
 #: libs/ui/widgets/kis_workspace_chooser.cpp:121
 #: plugins/dockers/gamutmask/forms/wdgGamutMaskChooser.ui:210
 #: plugins/extensions/resourcemanager/dlg_create_bundle.cpp:61
@@ -17110,7 +17110,7 @@ msgid "Mimetype not found, try using the -mimetype option"
 msgstr "無法找到 MIME 類型，請嘗試使用 -mimetype 選項"
 
 #: libs/ui/KisApplication.cpp:590
-#: plugins/extensions/animationrenderer/AnimationRenderer.cpp:202
+#: plugins/extensions/animationrenderer/AnimationRenderer.cpp:204
 #, kde-format
 msgid "Failed to render animation frames!"
 msgstr "動畫影格繪製失敗！"
@@ -17732,68 +17732,68 @@ msgstr "選項"
 msgid "Also save your image as a Krita file."
 msgstr "請將影像另存為 Krita 格式檔案。"
 
-#: libs/ui/KisMainWindow.cpp:177
+#: libs/ui/KisMainWindow.cpp:178
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Dockers"
 msgstr "工具面板(&D)"
 
-#: libs/ui/KisMainWindow.cpp:178
+#: libs/ui/KisMainWindow.cpp:179
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Window"
 msgstr "視窗(&W)"
 
-#: libs/ui/KisMainWindow.cpp:179
+#: libs/ui/KisMainWindow.cpp:180
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "New &View"
 msgstr "建立檢視(&V)"
 
-#: libs/ui/KisMainWindow.cpp:180
+#: libs/ui/KisMainWindow.cpp:181
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Wor&kspace"
 msgstr "作業空間(&K)"
 
-#: libs/ui/KisMainWindow.cpp:496
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:134
+#: libs/ui/KisMainWindow.cpp:497
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:157
 #, kde-format
 msgid "Show %1 Toolbar"
 msgstr "顯示%1工具列"
 
-#: libs/ui/KisMainWindow.cpp:498
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:136
+#: libs/ui/KisMainWindow.cpp:499
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:159
 #, kde-format
 msgid "Hide %1 Toolbar"
 msgstr "隱藏%1工具列"
 
-#: libs/ui/KisMainWindow.cpp:825
+#: libs/ui/KisMainWindow.cpp:826
 #, kde-format
 msgid "Write Protected"
 msgstr "防寫"
 
-#: libs/ui/KisMainWindow.cpp:829
+#: libs/ui/KisMainWindow.cpp:830
 #, kde-format
 msgid "Recovered"
 msgstr "已復原"
 
-#: libs/ui/KisMainWindow.cpp:842
+#: libs/ui/KisMainWindow.cpp:843
 #, kde-format
 msgid "Save as %1"
 msgstr "另存為 %1"
 
-#: libs/ui/KisMainWindow.cpp:895
+#: libs/ui/KisMainWindow.cpp:896
 #, kde-format
 msgid "The file %1 does not exist."
 msgstr "檔案 %1 不存在。"
 
-#: libs/ui/KisMainWindow.cpp:985
+#: libs/ui/KisMainWindow.cpp:986
 #, kde-format
 msgid "Open Images"
 msgstr "開啟影像"
 
-#: libs/ui/KisMainWindow.cpp:1082
+#: libs/ui/KisMainWindow.cpp:1084
 #, kde-format
 msgid ""
 "You are saving a file while the image is still rendering. The saved file may "
@@ -17805,43 +17805,43 @@ msgstr ""
 "\n"
 "請選擇一個原始檔案不會被覆蓋掉的位置！"
 
-#: libs/ui/KisMainWindow.cpp:1138
+#: libs/ui/KisMainWindow.cpp:1140
 #, kde-format
 msgid "Exporting"
 msgstr "正在匯出"
 
-#: libs/ui/KisMainWindow.cpp:1138
+#: libs/ui/KisMainWindow.cpp:1140
 #, kde-format
 msgid "Saving As"
 msgstr "正在儲存為"
 
-#: libs/ui/KisMainWindow.cpp:1436
+#: libs/ui/KisMainWindow.cpp:1438
 #: libs/widgetutils/config/kstandardaction_p.h:41
 #, kde-format
 msgid "Create new document"
 msgstr "建立檔案"
 
-#: libs/ui/KisMainWindow.cpp:1460
+#: libs/ui/KisMainWindow.cpp:1462
 #, kde-format
 msgid "Custom Document"
 msgstr "自訂檔案"
 
-#: libs/ui/KisMainWindow.cpp:1478
+#: libs/ui/KisMainWindow.cpp:1480
 #, kde-format
 msgid "Create from Clipboard"
 msgstr "從剪貼簿建立"
 
-#: libs/ui/KisMainWindow.cpp:1796
+#: libs/ui/KisMainWindow.cpp:1798
 #, kde-format
 msgid "Export as PDF"
 msgstr "匯出為 PDF"
 
-#: libs/ui/KisMainWindow.cpp:1838
+#: libs/ui/KisMainWindow.cpp:1840
 #, kde-format
 msgid "Cannot export to the specified file"
 msgstr "無法匯出到指定檔案"
 
-#: libs/ui/KisMainWindow.cpp:1867
+#: libs/ui/KisMainWindow.cpp:1869
 #, kde-format
 msgid ""
 "Could not finish import animation:\n"
@@ -17850,7 +17850,7 @@ msgstr ""
 "無法完成匯入動畫：\n"
 "%1"
 
-#: libs/ui/KisMainWindow.cpp:1943
+#: libs/ui/KisMainWindow.cpp:1945
 #, kde-format
 msgid ""
 "You will lose all changes made since your last save\n"
@@ -17859,85 +17859,85 @@ msgstr ""
 "將放棄上次儲存之後的所有改變\n"
 "要繼續嗎？"
 
-#: libs/ui/KisMainWindow.cpp:1954
+#: libs/ui/KisMainWindow.cpp:1956
 #, kde-format
 msgid "Error: Could not reload this document"
 msgstr "錯誤：無法重新載入此檔案"
 
-#: libs/ui/KisMainWindow.cpp:2212
+#: libs/ui/KisMainWindow.cpp:2214
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Import Workspace..."
 msgstr "匯入作業空間(&I)…"
 
-#: libs/ui/KisMainWindow.cpp:2224 libs/widgets/KoResourceItemChooser.cpp:218
+#: libs/ui/KisMainWindow.cpp:2226 libs/widgets/KoResourceItemChooser.cpp:218
 #, kde-format
 msgctxt "@title:window"
 msgid "Choose File to Add"
 msgstr "選擇要新增的檔案"
 
-#: libs/ui/KisMainWindow.cpp:2230
+#: libs/ui/KisMainWindow.cpp:2232
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&New Workspace..."
 msgstr "新作業空間(&N)…"
 
-#: libs/ui/KisMainWindow.cpp:2233
+#: libs/ui/KisMainWindow.cpp:2235
 #, kde-format
 msgctxt "@title:window"
 msgid "New Workspace..."
 msgstr "新作業空間…"
 
-#: libs/ui/KisMainWindow.cpp:2247 libs/ui/widgets/kis_workspace_chooser.cpp:159
+#: libs/ui/KisMainWindow.cpp:2249 libs/ui/widgets/kis_workspace_chooser.cpp:159
 #, kde-format
 msgid "Workspace"
 msgstr "作業空間"
 
-#: libs/ui/KisMainWindow.cpp:2258 libs/ui/widgets/kis_workspace_chooser.cpp:170
+#: libs/ui/KisMainWindow.cpp:2260 libs/ui/widgets/kis_workspace_chooser.cpp:170
 #, kde-format
 msgid "Workspace %1"
 msgstr "作業空間 %1"
 
-#: libs/ui/KisMainWindow.cpp:2286
+#: libs/ui/KisMainWindow.cpp:2288
 #, kde-format
 msgid "&%1 %2"
 msgstr "%1 %2"
 
-#: libs/ui/KisMainWindow.cpp:2289
+#: libs/ui/KisMainWindow.cpp:2291
 #, kde-format
 msgid "%1 %2"
 msgstr "%1 %2"
 
-#: libs/ui/KisMainWindow.cpp:2421
+#: libs/ui/KisMainWindow.cpp:2423
 #, kde-format
 msgid ""
 "The Krita LittleCMS color management plugin is not installed. Krita will "
 "quit now."
 msgstr "未安裝 Krita 的 LittleCMS 色彩管理外掛程式。Krita 將立即退出。"
 
-#: libs/ui/KisMainWindow.cpp:2429
+#: libs/ui/KisMainWindow.cpp:2431
 #, kde-format
 msgid "Krita cannot find any brush presets! Krita will quit now."
 msgstr "Krita 找不到任何筆刷預設！Krita 將立即退出。"
 
-#: libs/ui/KisMainWindow.cpp:2438
+#: libs/ui/KisMainWindow.cpp:2440
 #, kde-format
 msgctxt "@title:window"
 msgid "Installation error"
 msgstr "安裝錯誤"
 
-#: libs/ui/KisMainWindow.cpp:2499
+#: libs/ui/KisMainWindow.cpp:2501
 #, kde-format
 msgid "%1 unsaved document (%2)"
 msgstr "%1 未儲存的檔案 (%2)"
 
-#: libs/ui/KisMainWindow.cpp:2568
+#: libs/ui/KisMainWindow.cpp:2570
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Themes"
 msgstr "主題(&T)"
 
-#: libs/ui/KisMainWindow.cpp:2606
+#: libs/ui/KisMainWindow.cpp:2608
 #, kde-format
 msgid "Expanding Spacer"
 msgstr "擴張空白占位符"
@@ -18117,12 +18117,12 @@ msgstr ""
 "建立檔案\n"
 "原因：%2"
 
-#: libs/ui/KisReferenceImage.cpp:84
+#: libs/ui/KisReferenceImage.cpp:96
 msgctxt "(qtundo-format)"
 msgid "Set saturation"
 msgstr "設定飽和度"
 
-#: libs/ui/KisReferenceImage.cpp:146
+#: libs/ui/KisReferenceImage.cpp:158
 #, kde-format
 msgid "Could not load %1."
 msgstr "無法載入 %1。"
@@ -24914,7 +24914,7 @@ msgstr "確定要刪除遮罩<b>「%1」</b>嗎？"
 #. i18n: ectx: property (text), item, widget (QComboBox, shapeBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, cbShape)
 #: plugins/dockers/griddocker/grid_config_widget.cpp:60
-#: plugins/filters/blur/wdgblur.ui:159
+#: plugins/filters/blur/wdgblur.ui:165
 #: plugins/flake/pathshapes/rectangle/RectangleShapeFactory.cpp:37
 #: plugins/paintops/gridbrush/wdggridbrushshapeoptions.ui:42
 #: plugins/paintops/libpaintop/forms/wdgBrushSizeOptions.ui:237
@@ -25598,7 +25598,7 @@ msgstr "操作"
 msgid "CPU Throttle"
 msgstr "CPU 限速"
 
-#: plugins/dockers/touchdocker/TouchDockerDock.cpp:92
+#: plugins/dockers/touchdocker/TouchDockerDock.cpp:93
 #, kde-format
 msgid "Touch Docker"
 msgstr "觸控面板"
@@ -25609,15 +25609,15 @@ msgstr "觸控面板"
 msgid "Render Animation"
 msgstr "繪製動畫"
 
-#: plugins/extensions/animationrenderer/AnimationRenderer.cpp:140
+#: plugins/extensions/animationrenderer/AnimationRenderer.cpp:141
 #, kde-format
 msgid ""
 "%1 requires width and height to be even numbers.  Please resize or crop the "
 "image before exporting."
 msgstr "%1 要求寬度和高度數值為偶數。在匯出之前請裁切或調整該影像的大小。"
 
-#: plugins/extensions/animationrenderer/AnimationRenderer.cpp:141
-#: plugins/extensions/animationrenderer/AnimationRenderer.cpp:190
+#: plugins/extensions/animationrenderer/AnimationRenderer.cpp:142
+#: plugins/extensions/animationrenderer/AnimationRenderer.cpp:192
 #, kde-format
 msgid ""
 "Could not render animation:\n"
@@ -27908,10 +27908,24 @@ msgid "Ctrl+S"
 msgstr "Ctrl+S"
 
 #. i18n: ectx: property (text), widget (QLabel, errorLabel)
-#: plugins/extensions/pykrita/plugin/manager.ui:48
+#: plugins/extensions/pykrita/plugin/manager.ui:26
 #, kde-format
 msgid "Error: The Python engine could not be initialized"
 msgstr "錯誤：Python 引擎無法初始化"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: plugins/extensions/pykrita/plugin/manager.ui:58
+#, fuzzy, kde-format
+#| msgid ""
+#| "<html><head/><body><p>Only use this option for <span style=\" font-"
+#| "weight:600;\">very</span> large files: larger than 4 GiB on disk.</p></"
+#| "body></html>"
+msgid ""
+"<html><head/><body><p><span style=\" font-weight:600;\">Note:</span> you "
+"need to restart Krita to enable or disable plugins.</p></body></html>"
+msgstr ""
+"<html><head/><body><p align=\"left\"><span style=\" font-weight:600;\">最近檔"
+"案</span></p></body></html>"
 
 #: plugins/extensions/pykrita/plugin/pyqtpluginsettings.cpp:72
 #, kde-format
@@ -28535,7 +28549,7 @@ msgstr "切變角度 X："
 #: plugins/extensions/shearimage/wdg_shearimage.ui:59
 #: plugins/filters/blur/wdg_lens_blur.ui:115
 #: plugins/filters/blur/wdg_motion_blur.ui:99
-#: plugins/filters/blur/wdgblur.ui:130
+#: plugins/filters/blur/wdgblur.ui:136
 #: plugins/filters/phongbumpmap/wdgphongbumpmap.ui:500
 #: plugins/filters/phongbumpmap/wdgphongbumpmap.ui:541
 #: plugins/filters/phongbumpmap/wdgphongbumpmap.ui:683
@@ -28682,7 +28696,7 @@ msgstr "動態模糊"
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: plugins/filters/blur/wdg_gaussian_blur.ui:68
-#: plugins/filters/blur/wdgblur.ui:68
+#: plugins/filters/blur/wdgblur.ui:71
 #: plugins/filters/convertheightnormalmap/kis_wdg_convert_height_to_normal_map.cpp:51
 #: plugins/filters/edgedetection/kis_wdg_edge_detection.cpp:49
 #, kde-format
@@ -28712,7 +28726,7 @@ msgstr "光圈結構"
 #. i18n: ectx: property (text), widget (QLabel, textLabel4)
 #. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
 #. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
-#: plugins/filters/blur/wdg_lens_blur.ui:29 plugins/filters/blur/wdgblur.ui:140
+#: plugins/filters/blur/wdg_lens_blur.ui:29 plugins/filters/blur/wdgblur.ui:146
 #: plugins/filters/wavefilter/wdgwaveoptions.ui:72
 #: plugins/filters/wavefilter/wdgwaveoptions.ui:255
 #: plugins/paintops/gridbrush/wdggridbrushshapeoptions.ui:29
@@ -28795,7 +28809,7 @@ msgstr "旋轉："
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. i18n: ectx: property (text), widget (QLabel, textLabel5)
 #: plugins/filters/blur/wdg_motion_blur.ui:83
-#: plugins/filters/blur/wdgblur.ui:117
+#: plugins/filters/blur/wdgblur.ui:123
 #: plugins/filters/halftone/wdg_halftone_filter.ui:73
 #: plugins/paintops/hatching/wdghatchingoptions.ui:49
 #: plugins/paintops/libpaintop/forms/wdgautobrush.ui:161
@@ -28817,14 +28831,14 @@ msgid "Length:"
 msgstr "長度："
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel3)
-#: plugins/filters/blur/wdgblur.ui:91
+#: plugins/filters/blur/wdgblur.ui:97
 #, kde-format
 msgid "Strength:"
 msgstr "效果強度："
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboBoxShape)
 #. i18n: ectx: property (text), item, widget (KComboBox, cbShape)
-#: plugins/filters/blur/wdgblur.ui:154
+#: plugins/filters/blur/wdgblur.ui:160
 #: plugins/paintops/libpaintop/forms/wdgautobrush.ui:92
 #, kde-format
 msgid "Circle"
@@ -30719,7 +30733,7 @@ msgstr "顯示變更"
 
 #: plugins/flake/textshape/dialogs/CharacterGeneral.cpp:72
 #: plugins/flake/textshape/dialogs/FormattingPreview.cpp:51
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1141
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1167
 #, kde-format
 msgid "Font"
 msgstr "字體"
@@ -40996,72 +41010,72 @@ msgctxt "(qtundo-format)"
 msgid "Change SvgTextTool"
 msgstr "調整 SVG 文字工具"
 
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:101
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:104
 #, kde-format
 msgid "Text Tool"
 msgstr "文字工具"
 
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:189
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:215
 #, kde-format
 msgid "Conversion failed"
 msgstr "轉換失敗"
 
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:398
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:424
 #, kde-format
 msgid "Find Text"
 msgstr "尋找文字"
 
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:402
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:443
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:428
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:469
 #, kde-format
 msgid "Find:"
 msgstr "尋找："
 
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:438
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:464
 #, kde-format
 msgid "Find and Replace all"
 msgstr "尋找並取代全部"
 
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:445
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:471
 #, kde-format
 msgid "Replace:"
 msgstr "取代："
 
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:908
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:934
 #, kde-format
 msgid "You have modified the text. Discard changes?"
 msgstr "文字已被修改。要放棄變更嗎？"
 
 #. i18n: ectx: attribute (title), widget (QWidget, richTab)
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1000
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1006
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1026
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1032
 #: plugins/tools/svgtexttool/WdgSvgTextEditor.ui:24
 #, kde-format
 msgid "Rich text"
 msgstr "富文字"
 
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1003
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1007
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1029
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1033
 #, kde-format
 msgid "SVG Source"
 msgstr "SVG 原始碼"
 
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1158
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1184
 #, kde-format
 msgid "Text Color"
 msgstr "文字顏色"
 
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1173
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1199
 #, kde-format
 msgid "Pick a Color"
 msgstr "拾取顏色"
 
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1184
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1210
 #, kde-format
 msgid "Line height"
 msgstr "行高"
 
-#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1196
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:1222
 #, kde-format
 msgid "Letter Spacing"
 msgstr "字距"

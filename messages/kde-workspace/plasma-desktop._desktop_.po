@@ -19,7 +19,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-21 07:56+0000\n"
+"POT-Creation-Date: 2020-01-29 07:22+0000\n"
 "PO-Revision-Date: 2020-01-16 14:38+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -371,7 +371,7 @@ msgctxt "Name"
 msgid "Search"
 msgstr "搜尋"
 
-#: kcms/baloo/package/metadata.desktop:33
+#: kcms/baloo/package/metadata.desktop:34
 msgctxt "Comment"
 msgid "Configure the File Indexer"
 msgstr "設定檔案索引工具"

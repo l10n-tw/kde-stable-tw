@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-18 07:02+0000\n"
+"POT-Creation-Date: 2020-02-01 07:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
@@ -27,7 +27,7 @@ msgctxt "Name"
 msgid "Plan"
 msgstr ""
 
-#: src/org.kde.calligraplan.desktop:23
+#: src/org.kde.calligraplan.desktop:24
 #: src/workpackage/org.kde.calligraplanwork.desktop:21
 msgctxt "GenericName"
 msgid "Project Management"
@@ -119,7 +119,7 @@ msgctxt "Name"
 msgid "Plan WorkPackage Handler"
 msgstr ""
 
-#: src/workpackage/org.kde.calligraplanwork.desktop:42
+#: src/workpackage/org.kde.calligraplanwork.desktop:43
 msgctxt "Comment"
 msgid "Work Package handler for the Plan project planning tool"
 msgstr ""
@@ -129,7 +129,7 @@ msgctxt "Name"
 msgid "Empty Document"
 msgstr ""
 
-#: src/workpackage/templates/Simple/Empty.desktop:26
+#: src/workpackage/templates/Simple/Empty.desktop:27
 msgctxt "Comment"
 msgid "Creates an empty document"
 msgstr ""

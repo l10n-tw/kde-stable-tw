@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdereview\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-21 07:02+0000\n"
+"POT-Creation-Date: 2020-02-02 07:22+0000\n"
 "PO-Revision-Date: 2018-07-27 00:09+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -26,12 +26,12 @@ msgctxt "Name"
 msgid "Wacom Tablet Settings"
 msgstr "Wacom 平板裝置設定"
 
-#: src/applet/package/metadata.desktop:48
+#: src/applet/package/metadata.desktop:49
 msgctxt "Comment"
 msgid "Hotplugging and profile support for Wacom tablets"
 msgstr "Wacom 手寫板的熱插拔與設定檔支援"
 
-#: src/applet/package/metadata.desktop:92
+#: src/applet/package/metadata.desktop:93
 msgctxt "Keywords"
 msgid "Wacom"
 msgstr "Wacom"
@@ -61,7 +61,7 @@ msgctxt "Name"
 msgid "Wacom Tablet"
 msgstr "Wacom 平板裝置"
 
-#: src/kded/wacomtablet.desktop:59
+#: src/kded/wacomtablet.desktop:60
 msgctxt "Comment"
 msgid "Wacom tablet control daemon"
 msgstr "Wacom 平板裝置控制伺服程式"
@@ -71,37 +71,37 @@ msgctxt "Comment"
 msgid "Wacom Tablet"
 msgstr "Wacom 平板裝置"
 
-#: src/kded/wacomtablet.notifyrc:50
+#: src/kded/wacomtablet.notifyrc:51
 msgctxt "Name"
 msgid "WacomTablet"
 msgstr "Wacom 平板裝置"
 
-#: src/kded/wacomtablet.notifyrc:96
+#: src/kded/wacomtablet.notifyrc:97
 msgctxt "Name"
 msgid "New tablet connected"
 msgstr "新的平板裝置已連線"
 
-#: src/kded/wacomtablet.notifyrc:140
+#: src/kded/wacomtablet.notifyrc:141
 msgctxt "Comment"
 msgid "New graphic tablet connected"
 msgstr "新的圖形平板裝置已連線"
 
-#: src/kded/wacomtablet.notifyrc:188
+#: src/kded/wacomtablet.notifyrc:189
 msgctxt "Name"
 msgid "Tablet removed"
 msgstr "平板裝置已移除"
 
-#: src/kded/wacomtablet.notifyrc:232
+#: src/kded/wacomtablet.notifyrc:233
 msgctxt "Comment"
 msgid "Graphic tablet removed"
 msgstr "圖形平板裝置已移除"
 
-#: src/kded/wacomtablet.notifyrc:279
+#: src/kded/wacomtablet.notifyrc:280
 msgctxt "Name"
 msgid "A tablet error"
 msgstr "平板裝置錯誤"
 
-#: src/kded/wacomtablet.notifyrc:324
+#: src/kded/wacomtablet.notifyrc:325
 msgctxt "Comment"
 msgid "An error occurred with the tablet"
 msgstr "平板裝置發生錯誤"

@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdepim\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-23 07:46+0000\n"
+"POT-Creation-Date: 2020-02-04 08:03+0000\n"
 "PO-Revision-Date: 2019-01-30 11:03+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -220,12 +220,12 @@ msgctxt "Comment"
 msgid "Microsoft Exchange Server (EWS)"
 msgstr "Microsoft Exchange 伺服器 (EWS)"
 
-#: resources/ews/akonadi_ews_resource.notifyrc:29
+#: resources/ews/akonadi_ews_resource.notifyrc:30
 msgctxt "Name"
 msgid "Microsoft Exchange authentication expired"
 msgstr "Microsoft Exchange 認證方式已過期"
 
-#: resources/ews/akonadi_ews_resource.notifyrc:52
+#: resources/ews/akonadi_ews_resource.notifyrc:54
 msgctxt "Comment"
 msgid "Credentials used to access Microsoft Exchange are no longer valid"
 msgstr "曾用來存取 Microsoft Exchange 的憑證現已無效"
@@ -235,7 +235,7 @@ msgctxt "Name"
 msgid "Microsoft Exchange Server (EWS) Mail Transport"
 msgstr "Microsoft Exchange 伺服器 (EWS) 郵件轉移"
 
-#: resources/ews/ewsmtaresource.desktop:31
+#: resources/ews/ewsmtaresource.desktop:32
 msgctxt "Comment"
 msgid "Allows sending e-mail through the Microsoft Exchange server using EWS"
 msgstr "允許藉由使用 EWS 的 Microsoft Exchange 伺服器傳送電子郵件"
@@ -245,7 +245,7 @@ msgctxt "Name"
 msgid "Microsoft Exchange Server (EWS)"
 msgstr "Microsoft Exchange 伺服器 (EWS)"
 
-#: resources/ews/ewsresource.desktop.cmake:32
+#: resources/ews/ewsresource.desktop.cmake:33
 msgctxt "Comment"
 msgid ""
 "Provides access to mail, appointments tasks and contacts of a Microsoft "
@@ -472,7 +472,7 @@ msgctxt "Name"
 msgid "Akonadi TomboyNotes Resource"
 msgstr "Akonadi TomboyNotes 資源"
 
-#: resources/tomboynotes/tomboynotesresource.desktop:35
+#: resources/tomboynotes/tomboynotesresource.desktop:36
 msgctxt "Comment"
 msgid "Resource for Tomboy compatible notes server"
 msgstr "與 Tomboy 筆記伺服器相容的資源"

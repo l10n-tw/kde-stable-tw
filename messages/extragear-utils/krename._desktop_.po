@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_playground-utils_krename\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-23 05:50+0000\n"
+"POT-Creation-Date: 2020-02-05 07:49+0000\n"
 "PO-Revision-Date: 2018-05-12 14:58+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -22,7 +22,7 @@ msgctxt "Comment"
 msgid "A batch renamer"
 msgstr "一個批次重新命名工具"
 
-#: src/org.kde.krename.desktop:26
+#: src/org.kde.krename.desktop:27
 msgctxt "Name"
 msgid "KRename"
 msgstr "KRename"

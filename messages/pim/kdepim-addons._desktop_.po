@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_pim_kdepim-addons\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-21 07:56+0000\n"
+"POT-Creation-Date: 2020-02-08 07:36+0000\n"
 "PO-Revision-Date: 2018-04-05 17:11+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -34,7 +34,7 @@ msgctxt "Name"
 msgid "akonadimailreader"
 msgstr "akonadimailreader"
 
-#: examples/apps/mailreader/org.kde.akonadimailreader.desktop:37
+#: examples/apps/mailreader/org.kde.akonadimailreader.desktop:38
 msgctxt "GenericName"
 msgid "A simple Akonadi-based Mail Application"
 msgstr "簡單的基於 Akonadi 郵件程序"
@@ -103,7 +103,7 @@ msgctxt "Name"
 msgid "Search Subject on Web"
 msgstr "在網路上搜尋主旨"
 
-#: plugins/messageviewerplugins/externalscriptplugin/examples/externalscriptexample.desktop:36
+#: plugins/messageviewerplugins/externalscriptplugin/examples/externalscriptexample.desktop:37
 msgctxt "Description"
 msgid "Search subject on web"
 msgstr "在網路上搜尋主旨"

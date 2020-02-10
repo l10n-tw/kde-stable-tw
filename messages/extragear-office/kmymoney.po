@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kmymoney2\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-01 08:13+0100\n"
+"POT-Creation-Date: 2020-02-10 08:09+0100\n"
 "PO-Revision-Date: 2012-10-19 16:13+0800\n"
 "Last-Translator: Franklin Weng <franklin at goodhorse dot idv dot tw>\n"
 "Language-Team: Chinese Traditional <kde-tw@googlegroups.com>\n"
@@ -816,7 +816,7 @@ msgstr "每股價格"
 #: kmymoney/plugins/csv/export/csvwriter.cpp:110
 #: kmymoney/plugins/csv/import/securitydlg.ui:14
 #: kmymoney/widgets/investtransaction.cpp:213
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:205
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:204
 #: kmymoney/widgets/register.cpp:163
 #: kmymoney/widgets/transactionsortoption.cpp:51
 #, kde-format
@@ -2827,16 +2827,16 @@ msgid "VAT account"
 msgstr "增值稅帳戶"
 
 #: kmymoney/dialogs/knewaccountdlg.cpp:493 kmymoney/kmymoney.cpp:379
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:200
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:364
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:199
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:371
 #: kmymoney/wizards/newaccountwizard/kaccounttypepage.cpp:82
 #, kde-format
 msgid "Asset"
 msgstr "資產"
 
 #: kmymoney/dialogs/knewaccountdlg.cpp:495 kmymoney/kmymoney.cpp:380
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:201
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:372
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:200
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:379
 #: kmymoney/wizards/newaccountwizard/kaccounttypepage.cpp:83
 #, kde-format
 msgid "Liability"
@@ -2844,9 +2844,9 @@ msgstr "負債"
 
 #: kmymoney/dialogs/knewaccountdlg.cpp:497 kmymoney/kmymoney.cpp:381
 #: kmymoney/models/ledgerproxymodel.cpp:77 kmymoney/views/khomeview_p.h:1697
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:87
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:202
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:380
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:86
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:201
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:387
 #: kmymoney/widgets/register.cpp:329
 #, kde-format
 msgid "Income"
@@ -2854,9 +2854,9 @@ msgstr "收入"
 
 #: kmymoney/dialogs/knewaccountdlg.cpp:499 kmymoney/kmymoney.cpp:382
 #: kmymoney/models/ledgerproxymodel.cpp:99
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:92
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:203
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:391
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:91
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:202
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:398
 #: kmymoney/widgets/register.cpp:330
 #, kde-format
 msgid "Expense"
@@ -5527,8 +5527,8 @@ msgid "CSV import/export"
 msgstr "CSV 匯入器"
 
 #: kmymoney/kmymoney.cpp:383 kmymoney/models/equitiesmodel.cpp:352
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:204
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:402
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:203
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:409
 #: kmymoney/wizards/newaccountwizard/kaccounttypepage.cpp:85
 #, kde-format
 msgid "Equity"
@@ -6842,40 +6842,40 @@ msgid "Uncaught error. Please report the details to the developers"
 msgstr "未捕捉到的錯誤。請回報詳情給開發者"
 
 #: kmymoney/models/accountsmodel.cpp:580
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:347
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:348
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:354
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:355
 #, kde-format
 msgid "Favorites"
 msgstr "我的最愛"
 
 #: kmymoney/models/accountsmodel.cpp:604
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:365
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:372
 #, kde-format
 msgid "Asset accounts"
 msgstr "資產帳戶"
 
 #: kmymoney/models/accountsmodel.cpp:610
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:373
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:380
 #, kde-format
 msgid "Liability accounts"
 msgstr "負債帳戶"
 
 #: kmymoney/models/accountsmodel.cpp:616
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:140
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:381
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:139
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:388
 #, kde-format
 msgid "Income categories"
 msgstr "收入類別"
 
 #: kmymoney/models/accountsmodel.cpp:622
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:142
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:392
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:141
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:399
 #, kde-format
 msgid "Expense categories"
 msgstr "支出類別"
 
 #: kmymoney/models/accountsmodel.cpp:628
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:403
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:410
 #, kde-format
 msgid "Equity accounts"
 msgstr "股票帳戶"
@@ -20322,13 +20322,13 @@ msgctxt "@title header of the account name column"
 msgid "Name"
 msgstr "名稱"
 
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:82
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:81
 #, kde-format
 msgctxt "Select all accounts"
 msgid "All"
 msgstr "全部"
 
-#: kmymoney/widgets/kmymoneyaccountselector.cpp:97
+#: kmymoney/widgets/kmymoneyaccountselector.cpp:96
 #, kde-format
 msgctxt "No account"
 msgid "None"

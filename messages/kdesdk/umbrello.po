@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: umbrello\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-07 08:35+0100\n"
+"POT-Creation-Date: 2020-02-18 08:48+0100\n"
 "PO-Revision-Date: 2019-08-12 18:54+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -7917,7 +7917,7 @@ msgid "There was a problem saving: %1"
 msgstr "儲存檔案時發生錯誤：%1"
 
 #: umldoc.cpp:821 umldoc.cpp:840 umldoc.cpp:862 umldoc.cpp:913 umldoc.cpp:956
-#: umllistview.cpp:592 umlviewimageexportermodel.cpp:308
+#: umllistview.cpp:592 umlviewimageexportermodel.cpp:303
 #, kde-format
 msgid "There was a problem saving file: %1"
 msgstr "儲存檔案時發生錯誤：%1"
@@ -8259,11 +8259,6 @@ msgid "Cannot create directory: %1"
 msgstr "無法建立目錄：%1"
 
 #: umlviewimageexportermodel.cpp:290
-#, kde-format
-msgid "Cannot save an empty diagram"
-msgstr "無法儲存一個空的圖表"
-
-#: umlviewimageexportermodel.cpp:295
 #, kde-format
 msgid "A problem occurred while saving diagram in %1"
 msgstr "在 %1 中儲存圖表時發生了錯誤"
@@ -9270,6 +9265,9 @@ msgstr "狀態"
 #, kde-format
 msgid "Pre/Post condition"
 msgstr "先決/後續條件"
+
+#~ msgid "Cannot save an empty diagram"
+#~ msgstr "無法儲存一個空的圖表"
 
 #~ msgid "New Activity"
 #~ msgstr "新活動"

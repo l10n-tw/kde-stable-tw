@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: umbrello\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-18 08:48+0100\n"
+"POT-Creation-Date: 2020-02-19 08:38+0100\n"
 "PO-Revision-Date: 2019-08-12 18:54+0800\n"
 "Last-Translator: pan93412 <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -4004,37 +4004,37 @@ msgstr "實作"
 msgid "Role B Visibility"
 msgstr "角色 B 可見性"
 
-#: docgenerators/docbook2xhtmlgeneratorjob.cpp:74
+#: docgenerators/docbook2xhtmlgeneratorjob.cpp:75
 #, kde-format
 msgid "Exporting to XHTML..."
 msgstr "匯出到 XHTML..."
 
-#: docgenerators/docbookgenerator.cpp:95 umlviewimageexporterall.cpp:110
+#: docgenerators/docbookgenerator.cpp:96 umlviewimageexporterall.cpp:110
 #, kde-format
 msgid "Exporting all views..."
 msgstr "匯出所有的檢視..."
 
-#: docgenerators/docbookgenerator.cpp:101 umlviewimageexporterall.cpp:121
+#: docgenerators/docbookgenerator.cpp:102 umlviewimageexporterall.cpp:121
 #, kde-format
 msgid "Some errors happened when exporting the images:"
 msgstr "匯出影像時發生錯誤："
 
-#: docgenerators/docbookgenerator.cpp:105
+#: docgenerators/docbookgenerator.cpp:106
 #, kde-format
 msgid "Generating Docbook..."
 msgstr "產生 Docbook 中..."
 
-#: docgenerators/docbookgenerator.cpp:139
+#: docgenerators/docbookgenerator.cpp:140
 #, kde-format
 msgid "Docbook Generation Complete..."
 msgstr "Docbook 已產生完成。"
 
-#: docgenerators/docbookgenerator.cpp:142
+#: docgenerators/docbookgenerator.cpp:143
 #, kde-format
 msgid "Docbook Generation Failed..."
 msgstr "Docbook 產生失敗。"
 
-#: docgenerators/docbookgeneratorjob.cpp:193
+#: docgenerators/docbookgeneratorjob.cpp:192
 #, kde-format
 msgid "Exporting to DocBook..."
 msgstr "匯出到 DocBook..."

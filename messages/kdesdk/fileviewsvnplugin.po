@@ -4,19 +4,20 @@
 # Frank Weng (a.k.a. Franklin) <franklin at goodhorse dot idv dot tw>, 2010.
 # Franklin Weng <franklin@goodhorse.idv.tw>, 2011.
 # Jeff Huang <s8321414@gmail.com>, 2016.
+# Yi-Jyun Pan <pan93412@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-22 08:07+0100\n"
-"PO-Revision-Date: 2016-11-15 21:25+0800\n"
-"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
+"PO-Revision-Date: 2020-02-20 19:11+0800\n"
+"Last-Translator: Yi-Jyun Pan <pan93412@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Lokalize 19.12.2\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: fileviewsvnplugin.cpp:68
@@ -29,7 +30,7 @@ msgstr "SVN 更新"
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Show Local SVN Changes"
-msgstr "顯示本地端的 SVN 變更"
+msgstr "顯示本機端的 SVN 變更"
 
 #: fileviewsvnplugin.cpp:80
 #, kde-format
